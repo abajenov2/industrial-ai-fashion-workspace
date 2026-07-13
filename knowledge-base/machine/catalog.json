@@ -7,7 +7,15 @@
     "title": "Развитие рынка моды в 2025 году: о чём говорили на ужине Авито x Beinopen",
     "source_url": "https://alliance.beinopen.ru/post/2109/",
     "source_context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
-    "local_file": "Статьи/Общее/2109_Развитие_рынка_моды_в_2025_году_о_чём_говорили_на_ужине_Авито_x_Beinopen.md",
+    "chapter": "Общее",
+    "outline_order": 1,
+    "source_order": 0,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Общее/001_post-2109.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -31,7 +39,15 @@
     "title": "Якутская программа «марки-фабрики-ритейл-инвестор»: последовательность действий для создания устойчивой партнерской цепочки",
     "source_url": "https://alliance.beinopen.ru/post/1738/",
     "source_context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
-    "local_file": "Статьи/Общее/1738_Якутская_программа_«марки-фабрики-ритейл-инвестор»_последовательность_действий_для_создания_устойчивой_партнер.md",
+    "chapter": "Общее",
+    "outline_order": 2,
+    "source_order": 1,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Общее/002_post-1738.md",
     "authors": [
       {
         "name": "Денис Ламехов",
@@ -55,7 +71,15 @@
     "title": "Управление модой. Партнерская стратегия ШД НИУ ВШЭ и Альянса х Beinopen",
     "source_url": "https://alliance.beinopen.ru/post/1894/",
     "source_context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
-    "local_file": "Статьи/Общее/1894_Управление_модой._Партнерская_стратегия_ШД_НИУ_ВШЭ_и_Альянса_х_Beinopen.md",
+    "chapter": "Общее",
+    "outline_order": 3,
+    "source_order": 2,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Общее/003_post-1894.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -80,6 +104,46 @@
     ]
   },
   {
+    "id": "3023",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Партнерская стратегия Альянса х РАНХиГС х Beinopen",
+    "source_url": "https://alliance.beinopen.ru/post/3023/",
+    "source_context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+    "chapter": "Общее",
+    "outline_order": 4,
+    "source_order": 3,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Общее/004_post-3023.md",
+    "authors": [
+      {
+        "name": "Алеша Баженов",
+        "profile_url": "https://alliance.beinopen.ru/user/abajenov"
+      },
+      {
+        "name": "Елена Кагирова",
+        "profile_url": "https://alliance.beinopen.ru/user/smmkagirova"
+      },
+      {
+        "name": "Марина Сидорина",
+        "profile_url": "https://alliance.beinopen.ru/user/sidorinamv"
+      },
+      {
+        "name": "Алина Косоветис",
+        "profile_url": "https://alliance.beinopen.ru/user/kosovetis"
+      },
+      {
+        "name": "Кристина Фисан",
+        "profile_url": "https://alliance.beinopen.ru/user/Kzarubina"
+      }
+    ]
+  },
+  {
     "id": "2097",
     "artifact_type": "knowledge_article",
     "access": "public",
@@ -87,7 +151,15 @@
     "title": "Искусство отказа для Федерации креативных индустрий (кредит доверия)",
     "source_url": "https://alliance.beinopen.ru/post/2097/",
     "source_context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
-    "local_file": "Статьи/Общее/2097_Искусство_отказа_для_Федерации_креативных_индустрий_(кредит_доверия).md",
+    "chapter": "Общее",
+    "outline_order": 5,
+    "source_order": 4,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Общее/005_post-2097.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -103,7 +175,15 @@
     "title": "Дорожная карта рынка гибридной индустрии моды WearNet 2035",
     "source_url": "https://alliance.beinopen.ru/post/1423/",
     "source_context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
-    "local_file": "Статьи/Общее/1423_Дорожная_карта_рынка_гибридной_индустрии_моды_WearNet_2035.md",
+    "chapter": "Общее",
+    "outline_order": 6,
+    "source_order": 5,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Общее/006_post-1423.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -151,7 +231,50 @@
     "title": "Письмо поддержки ТПП",
     "source_url": "https://alliance.beinopen.ru/post/2997/",
     "source_context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
-    "local_file": "Статьи/Общее/2997_Письмо_поддержки_ТПП.md",
+    "chapter": "Общее",
+    "outline_order": 7,
+    "source_order": 6,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Общее/007_post-2997.md",
+    "authors": [
+      {
+        "name": "Алеша Баженов",
+        "profile_url": "https://alliance.beinopen.ru/user/abajenov"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "artifact_type": "alliance_navigation",
+    "access": "platform",
+    "mirror_mode": "index_only",
+    "title": "Навигатор по развитию профессиональных ролей в формате эталонных траекторий и сопровождения индивидуальных траекторий",
+    "source_url": "https://alliance.beinopen.ru/post/about",
+    "source_context": "Введение",
+    "source_order": 7,
+    "authors": []
+  },
+  {
+    "id": "3775",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Паспорт Свода знаний KA (KA-P)",
+    "source_url": "https://alliance.beinopen.ru/post/3775/",
+    "source_context": "Введение",
+    "chapter": "Введение",
+    "outline_order": 1,
+    "source_order": 8,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Введение/001_post-3775.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -167,7 +290,15 @@
     "title": "Протокол второй встречи форкурса (в двух частях). Постиндустриальная экономика и гибридный продукт",
     "source_url": "https://alliance.beinopen.ru/post/3815/",
     "source_context": "Часть 1. Теоретические основы",
-    "local_file": "Статьи/Теория/3815_Протокол_второй_встречи_форкурса_(в_двух_частях)._Постиндустриальная_экономика_и_гибридный_продукт.md",
+    "chapter": "Теория",
+    "outline_order": 1,
+    "source_order": 9,
+    "ka_codes": [],
+    "primary_ka": "",
+    "hierarchy_depth": 0,
+    "parent_ka": "",
+    "node_type": "material",
+    "local_file": "Статьи/Теория/001_post-3815.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -215,7 +346,17 @@
     "title": "Введение и экспертная валидация (KA1.0)",
     "source_url": "https://alliance.beinopen.ru/post/3795/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/3795_Введение_и_экспертная_валидация_(KA1.0).md",
+    "chapter": "KA1",
+    "outline_order": 1,
+    "source_order": 10,
+    "ka_codes": [
+      "KA1.0"
+    ],
+    "primary_ka": "KA1.0",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA1",
+    "node_type": "section",
+    "local_file": "Статьи/KA1/001_KA1.0_post-3795.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -235,7 +376,17 @@
     "title": "Структура команды / Оргструктура бренда (KA1.1.1)",
     "source_url": "https://alliance.beinopen.ru/post/2743/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/2743_Структура_команды_Оргструктура_бренда_(KA1.1.1).md",
+    "chapter": "KA1",
+    "outline_order": 2,
+    "source_order": 11,
+    "ka_codes": [
+      "KA1.1.1"
+    ],
+    "primary_ka": "KA1.1.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/002_KA1.1.1_post-2743.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -251,7 +402,17 @@
     "title": "KA1.2 Управленческая модель марки",
     "source_url": "https://alliance.beinopen.ru/post/3869/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/3869_KA1.2_Управленческая_модель_марки.md",
+    "chapter": "KA1",
+    "outline_order": 3,
+    "source_order": 12,
+    "ka_codes": [
+      "KA1.2"
+    ],
+    "primary_ka": "KA1.2",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA1",
+    "node_type": "section",
+    "local_file": "Статьи/KA1/003_KA1.2_post-3869.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -271,7 +432,17 @@
     "title": "Постановка SMART-целей (KA1.3.1)",
     "source_url": "https://alliance.beinopen.ru/post/168/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/168_Постановка_SMART-целей_(KA1.3.1).md",
+    "chapter": "KA1",
+    "outline_order": 4,
+    "source_order": 13,
+    "ka_codes": [
+      "KA1.3.1"
+    ],
+    "primary_ka": "KA1.3.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/004_KA1.3.1_post-168.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -287,7 +458,17 @@
     "title": "Бизнес-план (KA1.3.2)",
     "source_url": "https://alliance.beinopen.ru/post/230/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/230_Бизнес-план_(KA1.3.2).md",
+    "chapter": "KA1",
+    "outline_order": 5,
+    "source_order": 14,
+    "ka_codes": [
+      "KA1.3.2"
+    ],
+    "primary_ka": "KA1.3.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/005_KA1.3.2_post-230.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -303,7 +484,17 @@
     "title": "Бренд-платформа / ДНК бренда (KA1.3.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/2121/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/2121_Бренд-платформа_ДНК_бренда_(KA1.3.2.1).md",
+    "chapter": "KA1",
+    "outline_order": 6,
+    "source_order": 15,
+    "ka_codes": [
+      "KA1.3.2.1"
+    ],
+    "primary_ka": "KA1.3.2.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA1.3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/006_KA1.3.2.1_post-2121.md",
     "authors": [
       {
         "name": "Наиля Асланова",
@@ -319,7 +510,17 @@
     "title": "Источники финансирования на старте (KA1.3.2.2)",
     "source_url": "https://alliance.beinopen.ru/post/231/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/231_Источники_финансирования_на_старте_(KA1.3.2.2).md",
+    "chapter": "KA1",
+    "outline_order": 7,
+    "source_order": 16,
+    "ka_codes": [
+      "KA1.3.2.2"
+    ],
+    "primary_ka": "KA1.3.2.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA1.3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/007_KA1.3.2.2_post-231.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -335,7 +536,17 @@
     "title": "Планирование бюджета (KA1.3.3)",
     "source_url": "https://alliance.beinopen.ru/post/229/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/229_Планирование_бюджета_(KA1.3.3).md",
+    "chapter": "KA1",
+    "outline_order": 8,
+    "source_order": 17,
+    "ka_codes": [
+      "KA1.3.3"
+    ],
+    "primary_ka": "KA1.3.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/008_KA1.3.3_post-229.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -351,7 +562,17 @@
     "title": "Как рассчитать затраты на выпуск коллекции (KA1.3.4)",
     "source_url": "https://alliance.beinopen.ru/post/265/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/265_Как_рассчитать_затраты_на_выпуск_коллекции_(KA1.3.4).md",
+    "chapter": "KA1",
+    "outline_order": 9,
+    "source_order": 18,
+    "ka_codes": [
+      "KA1.3.4"
+    ],
+    "primary_ka": "KA1.3.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/009_KA1.3.4_post-265.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -367,7 +588,17 @@
     "title": "Ошибки финансового планирования в фэшн-компаниях (KA1.4.1.2)",
     "source_url": "https://alliance.beinopen.ru/post/1148/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/1148_Ошибки_финансового_планирования_в_фэшн-компаниях_(KA1.4.1.2).md",
+    "chapter": "KA1",
+    "outline_order": 10,
+    "source_order": 19,
+    "ka_codes": [
+      "KA1.4.1.2"
+    ],
+    "primary_ka": "KA1.4.1.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA1.4.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/010_KA1.4.1.2_post-1148.md",
     "authors": [
       {
         "name": "Ирина Балицкая",
@@ -383,7 +614,18 @@
     "title": "Регистрация бизнеса и договоры / юридическое оформление фэшн-стартапа (KA1.5.1, KA1.5.6)",
     "source_url": "https://alliance.beinopen.ru/post/1325/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/1325_Регистрация_бизнеса_и_договоры_юридическое_оформление_фэшн-стартапа_(KA1.5.1,_KA1.5.6).md",
+    "chapter": "KA1",
+    "outline_order": 11,
+    "source_order": 20,
+    "ka_codes": [
+      "KA1.5.1",
+      "KA1.5.6"
+    ],
+    "primary_ka": "KA1.5.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/011_KA1.5.1_post-1325.md",
     "authors": [
       {
         "name": "Ольга Смирнова",
@@ -403,7 +645,17 @@
     "title": "Лицензирование, ко-брендинг, франчайзинг (KA1.5.1)",
     "source_url": "https://alliance.beinopen.ru/post/528/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/528_Лицензирование,_ко-брендинг,_франчайзинг_(KA1.5.1).md",
+    "chapter": "KA1",
+    "outline_order": 12,
+    "source_order": 21,
+    "ka_codes": [
+      "KA1.5.1"
+    ],
+    "primary_ka": "KA1.5.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/012_KA1.5.1_post-528.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -419,7 +671,17 @@
     "title": "Товарный знак и авторские права (KA1.5.2)",
     "source_url": "https://alliance.beinopen.ru/post/238/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/238_Товарный_знак_и_авторские_права_(KA1.5.2).md",
+    "chapter": "KA1",
+    "outline_order": 13,
+    "source_order": 22,
+    "ka_codes": [
+      "KA1.5.2"
+    ],
+    "primary_ka": "KA1.5.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/013_KA1.5.2_post-238.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -435,7 +697,17 @@
     "title": "Защита авторских прав. Что делать с плагиатом? (KA1.5.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/1330/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/1330_Защита_авторских_прав._Что_делать_с_плагиатом_(KA1.5.2.1).md",
+    "chapter": "KA1",
+    "outline_order": 14,
+    "source_order": 23,
+    "ka_codes": [
+      "KA1.5.2.1"
+    ],
+    "primary_ka": "KA1.5.2.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA1.5.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/014_KA1.5.2.1_post-1330.md",
     "authors": [
       {
         "name": "Ольга Смирнова",
@@ -455,7 +727,17 @@
     "title": "Проверка контрагентов (KA1.5.4)",
     "source_url": "https://alliance.beinopen.ru/post/407/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/407_Проверка_контрагентов_(KA1.5.4).md",
+    "chapter": "KA1",
+    "outline_order": 15,
+    "source_order": 24,
+    "ka_codes": [
+      "KA1.5.4"
+    ],
+    "primary_ka": "KA1.5.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/015_KA1.5.4_post-407.md",
     "authors": [
       {
         "name": "Георгий Саркисян",
@@ -471,7 +753,17 @@
     "title": "Юридические аспекты ресайкла и апсайкла (KA1.5.5)",
     "source_url": "https://alliance.beinopen.ru/post/518/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/518_Юридические_аспекты_ресайкла_и_апсайкла_(KA1.5.5).md",
+    "chapter": "KA1",
+    "outline_order": 16,
+    "source_order": 25,
+    "ka_codes": [
+      "KA1.5.5"
+    ],
+    "primary_ka": "KA1.5.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/016_KA1.5.5_post-518.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -487,7 +779,17 @@
     "title": "Чек-лист документов для модного бренда: от регистрации до ВЭД (KA1.5.7)",
     "source_url": "https://alliance.beinopen.ru/post/3834/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/3834_Чек-лист_документов_для_модного_бренда_от_регистрации_до_ВЭД_(KA1.5.7).md",
+    "chapter": "KA1",
+    "outline_order": 17,
+    "source_order": 26,
+    "ka_codes": [
+      "KA1.5.7"
+    ],
+    "primary_ka": "KA1.5.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/017_KA1.5.7_post-3834.md",
     "authors": [
       {
         "name": "Ольга Федорова",
@@ -503,7 +805,17 @@
     "title": "Анализ продаж (KA1.6.1)",
     "source_url": "https://alliance.beinopen.ru/post/236/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/236_Анализ_продаж_(KA1.6.1).md",
+    "chapter": "KA1",
+    "outline_order": 18,
+    "source_order": 27,
+    "ka_codes": [
+      "KA1.6.1"
+    ],
+    "primary_ka": "KA1.6.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.6",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/018_KA1.6.1_post-236.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -519,7 +831,17 @@
     "title": "Как собирать аналитику по продажам и как с ней работать (KA1.6.1)",
     "source_url": "https://alliance.beinopen.ru/post/588/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/588_Как_собирать_аналитику_по_продажам_и_как_с_ней_работать_(KA1.6.1).md",
+    "chapter": "KA1",
+    "outline_order": 19,
+    "source_order": 28,
+    "ka_codes": [
+      "KA1.6.1"
+    ],
+    "primary_ka": "KA1.6.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.6",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/019_KA1.6.1_post-588.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -535,7 +857,17 @@
     "title": "Анализ эффективности товарного ассортимента (ABC/XYZ) (KA1.6.2)",
     "source_url": "https://alliance.beinopen.ru/post/237/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/237_Анализ_эффективности_товарного_ассортимента_(ABC_XYZ)_(KA1.6.2).md",
+    "chapter": "KA1",
+    "outline_order": 20,
+    "source_order": 29,
+    "ka_codes": [
+      "KA1.6.2"
+    ],
+    "primary_ka": "KA1.6.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.6",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/020_KA1.6.2_post-237.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -551,7 +883,17 @@
     "title": "Аналитика и план каналов и категорий XS, S (KA1.6.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/2705/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/2705_Аналитика_и_план_каналов_и_категорий_XS,_S_(KA1.6.2.1).md",
+    "chapter": "KA1",
+    "outline_order": 21,
+    "source_order": 30,
+    "ka_codes": [
+      "KA1.6.2.1"
+    ],
+    "primary_ka": "KA1.6.2.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA1.6.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/021_KA1.6.2.1_post-2705.md",
     "authors": [
       {
         "name": "Алина Цуцу",
@@ -567,7 +909,17 @@
     "title": "Анализ конкурентов / обзор рынка марок разных сегментов (KA1.6.3)",
     "source_url": "https://alliance.beinopen.ru/post/1042/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/1042_Анализ_конкурентов_обзор_рынка_марок_разных_сегментов_(KA1.6.3).md",
+    "chapter": "KA1",
+    "outline_order": 22,
+    "source_order": 31,
+    "ka_codes": [
+      "KA1.6.3"
+    ],
+    "primary_ka": "KA1.6.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.6",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/022_KA1.6.3_post-1042.md",
     "authors": [
       {
         "name": "Владислав Прахт",
@@ -588,6 +940,66 @@
     ]
   },
   {
+    "id": "2963",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Дашборды и отчетность (KA1.6.4)",
+    "source_url": "https://alliance.beinopen.ru/post/2963/",
+    "source_context": "Глава 1. Управление маркой (KA1)",
+    "chapter": "KA1",
+    "outline_order": 23,
+    "source_order": 32,
+    "ka_codes": [
+      "KA1.6.4"
+    ],
+    "primary_ka": "KA1.6.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.6",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/023_KA1.6.4_post-2963.md",
+    "authors": [
+      {
+        "name": "ИИ-ассистент",
+        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+      },
+      {
+        "name": "Алина Цуцу",
+        "profile_url": "https://alliance.beinopen.ru/user/Alinetsu"
+      }
+    ]
+  },
+  {
+    "id": "1213",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Дизайнеры в эмиграции: как перенастроить внутренние бизнес-процессы (KA1.7.2)",
+    "source_url": "https://alliance.beinopen.ru/post/1213/",
+    "source_context": "Глава 1. Управление маркой (KA1)",
+    "chapter": "KA1",
+    "outline_order": 24,
+    "source_order": 33,
+    "ka_codes": [
+      "KA1.7.2"
+    ],
+    "primary_ka": "KA1.7.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.7",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/024_KA1.7.2_post-1213.md",
+    "authors": [
+      {
+        "name": "Василий Волчок",
+        "profile_url": "https://alliance.beinopen.ru/user/Vasiliivolchok"
+      },
+      {
+        "name": "Antonina Vlasenko",
+        "profile_url": "https://alliance.beinopen.ru/user/Svoya"
+      }
+    ]
+  },
+  {
     "id": "1195",
     "artifact_type": "knowledge_article",
     "access": "public",
@@ -595,7 +1007,43 @@
     "title": "Способы организации логистики для fashion (KA1.7.2)",
     "source_url": "https://alliance.beinopen.ru/post/1195/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/1195_Способы_организации_логистики_для_fashion_(KA1.7.2).md",
+    "chapter": "KA1",
+    "outline_order": 25,
+    "source_order": 34,
+    "ka_codes": [
+      "KA1.7.2"
+    ],
+    "primary_ka": "KA1.7.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.7",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/025_KA1.7.2_post-1195.md",
+    "authors": [
+      {
+        "name": "ИИ-ассистент",
+        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+      }
+    ]
+  },
+  {
+    "id": "1147",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Как перенастроить бизнес-процессы: поиск эффективных решений (KA1.7.3)",
+    "source_url": "https://alliance.beinopen.ru/post/1147/",
+    "source_context": "Глава 1. Управление маркой (KA1)",
+    "chapter": "KA1",
+    "outline_order": 26,
+    "source_order": 35,
+    "ka_codes": [
+      "KA1.7.3"
+    ],
+    "primary_ka": "KA1.7.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.7",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/026_KA1.7.3_post-1147.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -611,11 +1059,47 @@
     "title": "Стратегии поведения на падающем рынке (KA1.7.4)",
     "source_url": "https://alliance.beinopen.ru/post/2323/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/2323_Стратегии_поведения_на_падающем_рынке_(KA1.7.4).md",
+    "chapter": "KA1",
+    "outline_order": 27,
+    "source_order": 36,
+    "ka_codes": [
+      "KA1.7.4"
+    ],
+    "primary_ka": "KA1.7.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.7",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/027_KA1.7.4_post-2323.md",
     "authors": [
       {
         "name": "Андрей Якунцев",
         "profile_url": "https://alliance.beinopen.ru/user/yakuntsev66"
+      }
+    ]
+  },
+  {
+    "id": "586",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Стратегии развития модного бизнеса в кризис (KA1.7.4)",
+    "source_url": "https://alliance.beinopen.ru/post/586/",
+    "source_context": "Глава 1. Управление маркой (KA1)",
+    "chapter": "KA1",
+    "outline_order": 28,
+    "source_order": 37,
+    "ka_codes": [
+      "KA1.7.4"
+    ],
+    "primary_ka": "KA1.7.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.7",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/028_KA1.7.4_post-586.md",
+    "authors": [
+      {
+        "name": "ИИ-ассистент",
+        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
       }
     ]
   },
@@ -627,7 +1111,17 @@
     "title": "Сложности развития концептуальной марки в России и мире. Кейсы Fakoshima и Krakatau (KA1.7.5)",
     "source_url": "https://alliance.beinopen.ru/post/123214/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/123214_Сложности_развития_концептуальной_марки_в_России_и_мире._Кейсы_Fakoshima_и_Krakatau_(KA1.7.5).md",
+    "chapter": "KA1",
+    "outline_order": 29,
+    "source_order": 38,
+    "ka_codes": [
+      "KA1.7.5"
+    ],
+    "primary_ka": "KA1.7.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.7",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/029_KA1.7.5_post-123214.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -643,7 +1137,17 @@
     "title": "Трансформация бренда: риски, решения и оценка эффективности (KA1.7.5)",
     "source_url": "https://alliance.beinopen.ru/post/1040/",
     "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/1040_Трансформация_бренда_риски,_решения_и_оценка_эффективности_(KA1.7.5).md",
+    "chapter": "KA1",
+    "outline_order": 30,
+    "source_order": 39,
+    "ka_codes": [
+      "KA1.7.5"
+    ],
+    "primary_ka": "KA1.7.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA1.7",
+    "node_type": "article",
+    "local_file": "Статьи/KA1/030_KA1.7.5_post-1040.md",
     "authors": [
       {
         "name": "ASEL KUAN",
@@ -667,7 +1171,17 @@
     "title": "KA2.0 Материальный и нематериальный продукт бренда",
     "source_url": "https://alliance.beinopen.ru/post/3916/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/3916_KA2.0_Материальный_и_нематериальный_продукт_бренда.md",
+    "chapter": "KA2",
+    "outline_order": 1,
+    "source_order": 40,
+    "ka_codes": [
+      "KA2.0"
+    ],
+    "primary_ka": "KA2.0",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA2",
+    "node_type": "section",
+    "local_file": "Статьи/KA2/001_KA2.0_post-3916.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -683,7 +1197,17 @@
     "title": "KA2.1 Бренд-религия: система идентичности бренда, культурный код, манифест и комьюнити",
     "source_url": "https://alliance.beinopen.ru/post/3917/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/3917_KA2.1_Бренд-религия_система_идентичности_бренда,_культурный_код,_манифест_и_комьюнити.md",
+    "chapter": "KA2",
+    "outline_order": 2,
+    "source_order": 41,
+    "ka_codes": [
+      "KA2.1"
+    ],
+    "primary_ka": "KA2.1",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA2",
+    "node_type": "section",
+    "local_file": "Статьи/KA2/002_KA2.1_post-3917.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -699,7 +1223,17 @@
     "title": "KA2.1.1 Культурный код бренда, исследования и комьюнити",
     "source_url": "https://alliance.beinopen.ru/post/3915/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/3915_KA2.1.1_Культурный_код_бренда,_исследования_и_комьюнити.md",
+    "chapter": "KA2",
+    "outline_order": 3,
+    "source_order": 42,
+    "ka_codes": [
+      "KA2.1.1"
+    ],
+    "primary_ka": "KA2.1.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/003_KA2.1.1_post-3915.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -719,7 +1253,19 @@
     "title": "Стратегия медиапродукта бренда (KA2.1.2, KA2.2.6, KA2.3.2−2.3.4)",
     "source_url": "https://alliance.beinopen.ru/post/1503/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/1503_Стратегия_медиапродукта_бренда_(KA2.1.2,_KA2.2.6,_KA2.3.2−2.3.4).md",
+    "chapter": "KA2",
+    "outline_order": 4,
+    "source_order": 43,
+    "ka_codes": [
+      "KA2.1.2",
+      "KA2.2.6",
+      "KA2.3.2"
+    ],
+    "primary_ka": "KA2.1.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/004_KA2.1.2_post-1503.md",
     "authors": [
       {
         "name": "Ольга Смирнова",
@@ -735,7 +1281,18 @@
     "title": "Процессы и роли внутри модного бренда. Управление созданием медиа-продукта (KA2.1.3, KA2.2.2)",
     "source_url": "https://alliance.beinopen.ru/post/2100/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/2100_Процессы_и_роли_внутри_модного_бренда._Управление_созданием_медиа-продукта_(KA2.1.3,_KA2.2.2).md",
+    "chapter": "KA2",
+    "outline_order": 5,
+    "source_order": 44,
+    "ka_codes": [
+      "KA2.1.3",
+      "KA2.2.2"
+    ],
+    "primary_ka": "KA2.1.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/005_KA2.1.3_post-2100.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -755,7 +1312,17 @@
     "title": "KA2.2.1 Айдентика модного бренда",
     "source_url": "https://alliance.beinopen.ru/post/151/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/151_KA2.2.1_Айдентика_модного_бренда.md",
+    "chapter": "KA2",
+    "outline_order": 6,
+    "source_order": 45,
+    "ka_codes": [
+      "KA2.2.1"
+    ],
+    "primary_ka": "KA2.2.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/006_KA2.2.1_post-151.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -771,7 +1338,17 @@
     "title": "KA2.2.3 Управление проектом съёмки и чек-лист подготовки для стилистов и продюсеров",
     "source_url": "https://alliance.beinopen.ru/post/3518/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/3518_KA2.2.3_Управление_проектом_съёмки_и_чек-лист_подготовки_для_стилистов_и_продюсеров.md",
+    "chapter": "KA2",
+    "outline_order": 7,
+    "source_order": 46,
+    "ka_codes": [
+      "KA2.2.3"
+    ],
+    "primary_ka": "KA2.2.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/007_KA2.2.3_post-3518.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -787,7 +1364,17 @@
     "title": "KA2.2.4 Введение в работу с fashion-видео",
     "source_url": "https://alliance.beinopen.ru/post/540/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/540_KA2.2.4_Введение_в_работу_с_fashion-видео.md",
+    "chapter": "KA2",
+    "outline_order": 8,
+    "source_order": 47,
+    "ka_codes": [
+      "KA2.2.4"
+    ],
+    "primary_ka": "KA2.2.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/008_KA2.2.4_post-540.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -803,7 +1390,17 @@
     "title": "KA2.2.5 Создание визуального контента с помощью ИИ",
     "source_url": "https://alliance.beinopen.ru/post/3344/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/3344_KA2.2.5_Создание_визуального_контента_с_помощью_ИИ.md",
+    "chapter": "KA2",
+    "outline_order": 9,
+    "source_order": 48,
+    "ka_codes": [
+      "KA2.2.5"
+    ],
+    "primary_ka": "KA2.2.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/009_KA2.2.5_post-3344.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -819,7 +1416,17 @@
     "title": "KA2.3.1 Тон коммуникации (Tone of voice) модного бренда",
     "source_url": "https://alliance.beinopen.ru/post/150/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/150_KA2.3.1_Тон_коммуникации_(Tone_of_voice)_модного_бренда.md",
+    "chapter": "KA2",
+    "outline_order": 10,
+    "source_order": 49,
+    "ka_codes": [
+      "KA2.3.1"
+    ],
+    "primary_ka": "KA2.3.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/010_KA2.3.1_post-150.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -835,7 +1442,17 @@
     "title": "KA2.4.1 KPI медиапродукта и SMM",
     "source_url": "https://alliance.beinopen.ru/post/2422/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/2422_KA2.4.1_KPI_медиапродукта_и_SMM.md",
+    "chapter": "KA2",
+    "outline_order": 11,
+    "source_order": 50,
+    "ka_codes": [
+      "KA2.4.1"
+    ],
+    "primary_ka": "KA2.4.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.4",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/011_KA2.4.1_post-2422.md",
     "authors": [
       {
         "name": "Наиля Асланова",
@@ -851,7 +1468,17 @@
     "title": "KA2.4.2 Тренд-аналитика в фэшн-индустрии",
     "source_url": "https://alliance.beinopen.ru/post/3421/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/3421_KA2.4.2_Тренд-аналитика_в_фэшн-индустрии.md",
+    "chapter": "KA2",
+    "outline_order": 12,
+    "source_order": 51,
+    "ka_codes": [
+      "KA2.4.2"
+    ],
+    "primary_ka": "KA2.4.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA2.4",
+    "node_type": "article",
+    "local_file": "Статьи/KA2/012_KA2.4.2_post-3421.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -867,7 +1494,17 @@
     "title": "KA2.5 Управление цифровыми активами (DAM): хранение, доступы, авторство",
     "source_url": "https://alliance.beinopen.ru/post/3918/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/3918_KA2.5_Управление_цифровыми_активами_(DAM)_хранение,_доступы,_авторство.md",
+    "chapter": "KA2",
+    "outline_order": 13,
+    "source_order": 52,
+    "ka_codes": [
+      "KA2.5"
+    ],
+    "primary_ka": "KA2.5",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA2",
+    "node_type": "section",
+    "local_file": "Статьи/KA2/013_KA2.5_post-3918.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -883,7 +1520,15 @@
     "title": "Red September. Как вырастить из своего продукта объект желания: сильная бренд-платформа, медиаприсутствие и селебрити-стайлинг",
     "source_url": "https://alliance.beinopen.ru/post/2337/",
     "source_context": "Глава 2. Медиа-продукт (KA2)",
-    "local_file": "Статьи/KA2/2337_Red_September._Как_вырастить_из_своего_продукта_объект_желания_сильная_бренд-платформа,_медиаприсутствие_и_сел.md",
+    "chapter": "KA2",
+    "outline_order": 14,
+    "source_order": 53,
+    "ka_codes": [],
+    "primary_ka": "KA2",
+    "hierarchy_depth": 1,
+    "parent_ka": "",
+    "node_type": "chapter",
+    "local_file": "Статьи/KA2/014_KA2_post-2337.md",
     "authors": [
       {
         "name": "Денис Ламехов",
@@ -899,7 +1544,18 @@
     "title": "Глава 3. Индустрия влияния (KA3)",
     "source_url": "https://alliance.beinopen.ru/post/2955/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2955_Глава_3._Индустрия_влияния_(KA3).md",
+    "chapter": "KA3",
+    "outline_order": 1,
+    "source_order": 54,
+    "ka_codes": [
+      "KA3",
+      "KA3.1"
+    ],
+    "primary_ka": "KA3",
+    "hierarchy_depth": 1,
+    "parent_ka": "",
+    "node_type": "chapter",
+    "local_file": "Статьи/KA3/001_KA3_post-2955.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -915,7 +1571,17 @@
     "title": "Процессы и роли внутри модного бренда. Индустрия влияния (маркетинг) (KA3.1)",
     "source_url": "https://alliance.beinopen.ru/post/2210/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2210_Процессы_и_роли_внутри_модного_бренда._Индустрия_влияния_(маркетинг)_(KA3.1).md",
+    "chapter": "KA3",
+    "outline_order": 2,
+    "source_order": 55,
+    "ka_codes": [
+      "KA3.1"
+    ],
+    "primary_ka": "KA3.1",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA3",
+    "node_type": "section",
+    "local_file": "Статьи/KA3/002_KA3.1_post-2210.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -931,7 +1597,17 @@
     "title": "11 критериев оценки конкурентов в индустрии моды (KA3.2.1.1)",
     "source_url": "https://alliance.beinopen.ru/post/317/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/317_11_критериев_оценки_конкурентов_в_индустрии_моды_(KA3.2.1.1).md",
+    "chapter": "KA3",
+    "outline_order": 3,
+    "source_order": 56,
+    "ka_codes": [
+      "KA3.2.1.1"
+    ],
+    "primary_ka": "KA3.2.1.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/003_KA3.2.1.1_post-317.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -947,7 +1623,17 @@
     "title": "Работа с фокус-группами (KA3.2.1.2)",
     "source_url": "https://alliance.beinopen.ru/post/153/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/153_Работа_с_фокус-группами_(KA3.2.1.2).md",
+    "chapter": "KA3",
+    "outline_order": 4,
+    "source_order": 57,
+    "ka_codes": [
+      "KA3.2.1.2"
+    ],
+    "primary_ka": "KA3.2.1.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/004_KA3.2.1.2_post-153.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -963,7 +1649,17 @@
     "title": "SWOT-анализ вашего бренда и конкурентов (KA3.2.1.3)",
     "source_url": "https://alliance.beinopen.ru/post/148/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/148_SWOT-анализ_вашего_бренда_и_конкурентов_(KA3.2.1.3).md",
+    "chapter": "KA3",
+    "outline_order": 5,
+    "source_order": 58,
+    "ka_codes": [
+      "KA3.2.1.3"
+    ],
+    "primary_ka": "KA3.2.1.3",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/005_KA3.2.1.3_post-148.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -979,7 +1675,17 @@
     "title": "Фрейм для анализа гипотез и проблем в процессах (KA3.2.1.4)",
     "source_url": "https://alliance.beinopen.ru/post/3275/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/3275_Фрейм_для_анализа_гипотез_и_проблем_в_процессах_(KA3.2.1.4).md",
+    "chapter": "KA3",
+    "outline_order": 6,
+    "source_order": 59,
+    "ka_codes": [
+      "KA3.2.1.4"
+    ],
+    "primary_ka": "KA3.2.1.4",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/006_KA3.2.1.4_post-3275.md",
     "authors": [
       {
         "name": "Марина Сидорина",
@@ -999,7 +1705,17 @@
     "title": "Владимир Амлинский: Фрейм разработки маркетингового плана для модного бренда (KA3.2.2)",
     "source_url": "https://alliance.beinopen.ru/post/2842/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2842_Владимир_Амлинский_Фрейм_разработки_маркетингового_плана_для_модного_бренда_(KA3.2.2).md",
+    "chapter": "KA3",
+    "outline_order": 7,
+    "source_order": 60,
+    "ka_codes": [
+      "KA3.2.2"
+    ],
+    "primary_ka": "KA3.2.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/007_KA3.2.2_post-2842.md",
     "authors": [
       {
         "name": "Владимир Амлинский",
@@ -1015,7 +1731,17 @@
     "title": "Новые потоки внимания и переходов с учетом ИИ (KA3.2.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/2841/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2841_Новые_потоки_внимания_и_переходов_с_учетом_ИИ_(KA3.2.2.1).md",
+    "chapter": "KA3",
+    "outline_order": 8,
+    "source_order": 61,
+    "ka_codes": [
+      "KA3.2.2.1"
+    ],
+    "primary_ka": "KA3.2.2.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/008_KA3.2.2.1_post-2841.md",
     "authors": [
       {
         "name": "Есения Пенкина",
@@ -1031,7 +1757,17 @@
     "title": "Взаимосвязь ассортиментной матрицы и маркетинга (KA3.2.2.2)",
     "source_url": "https://alliance.beinopen.ru/post/2220/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2220_Взаимосвязь_ассортиментной_матрицы_и_маркетинга_(KA3.2.2.2).md",
+    "chapter": "KA3",
+    "outline_order": 9,
+    "source_order": 62,
+    "ka_codes": [
+      "KA3.2.2.2"
+    ],
+    "primary_ka": "KA3.2.2.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/009_KA3.2.2.2_post-2220.md",
     "authors": [
       {
         "name": "Ирина Кузеванова",
@@ -1047,7 +1783,17 @@
     "title": "Маркетинговый план (KA3.2.3)",
     "source_url": "https://alliance.beinopen.ru/post/2463/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2463_Маркетинговый_план_(KA3.2.3).md",
+    "chapter": "KA3",
+    "outline_order": 10,
+    "source_order": 63,
+    "ka_codes": [
+      "KA3.2.3"
+    ],
+    "primary_ka": "KA3.2.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/010_KA3.2.3_post-2463.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -1067,7 +1813,17 @@
     "title": "Особенности и различия коммуникационной, SMM и контент-стратегий (KA3.2.4)",
     "source_url": "https://alliance.beinopen.ru/post/2415/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2415_Особенности_и_различия_коммуникационной,_SMM_и_контент-стратегий_(KA3.2.4).md",
+    "chapter": "KA3",
+    "outline_order": 11,
+    "source_order": 64,
+    "ka_codes": [
+      "KA3.2.4"
+    ],
+    "primary_ka": "KA3.2.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/011_KA3.2.4_post-2415.md",
     "authors": [
       {
         "name": "Наиля Асланова",
@@ -1083,7 +1839,17 @@
     "title": "Коммуникационная стратегия и идеи для постов (KA3.2.5)",
     "source_url": "https://alliance.beinopen.ru/post/201/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/201_Коммуникационная_стратегия_и_идеи_для_постов_(KA3.2.5).md",
+    "chapter": "KA3",
+    "outline_order": 12,
+    "source_order": 65,
+    "ka_codes": [
+      "KA3.2.5"
+    ],
+    "primary_ka": "KA3.2.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/012_KA3.2.5_post-201.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1103,7 +1869,17 @@
     "title": "Лестница теплоты трафика или Пирамида Ханта для фэшн (KA3.2.6)",
     "source_url": "https://alliance.beinopen.ru/post/2974/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2974_Лестница_теплоты_трафика_или_Пирамида_Ханта_для_фэшн_(KA3.2.6).md",
+    "chapter": "KA3",
+    "outline_order": 13,
+    "source_order": 66,
+    "ka_codes": [
+      "KA3.2.6"
+    ],
+    "primary_ka": "KA3.2.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/013_KA3.2.6_post-2974.md",
     "authors": [
       {
         "name": "Елена Кагирова",
@@ -1119,7 +1895,17 @@
     "title": "Сторителлинг для fashion-проектов (KA3.2.8.2)",
     "source_url": "https://alliance.beinopen.ru/post/527/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/527_Сторителлинг_для_fashion-проектов_(KA3.2.8.2).md",
+    "chapter": "KA3",
+    "outline_order": 14,
+    "source_order": 67,
+    "ka_codes": [
+      "KA3.2.8.2"
+    ],
+    "primary_ka": "KA3.2.8.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.8",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/014_KA3.2.8.2_post-527.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1139,7 +1925,17 @@
     "title": "Прозрачность в коммуникации с клиентом (KA3.2.8.3)",
     "source_url": "https://alliance.beinopen.ru/post/206/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/206_Прозрачность_в_коммуникации_с_клиентом_(KA3.2.8.3).md",
+    "chapter": "KA3",
+    "outline_order": 15,
+    "source_order": 68,
+    "ka_codes": [
+      "KA3.2.8.3"
+    ],
+    "primary_ka": "KA3.2.8.3",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.8",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/015_KA3.2.8.3_post-206.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1159,7 +1955,17 @@
     "title": "10 советов по созданию email рассылок (KA3.2.8.4)",
     "source_url": "https://alliance.beinopen.ru/post/202/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/202_10_советов_по_созданию_email_рассылок_(KA3.2.8.4).md",
+    "chapter": "KA3",
+    "outline_order": 16,
+    "source_order": 69,
+    "ka_codes": [
+      "KA3.2.8.4"
+    ],
+    "primary_ka": "KA3.2.8.4",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.2.8",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/016_KA3.2.8.4_post-202.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1175,7 +1981,17 @@
     "title": "Как брендам взаимодействовать со СМИ. Правила (KA3.3.1)",
     "source_url": "https://alliance.beinopen.ru/post/36/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/36_Как_брендам_взаимодействовать_со_СМИ._Правила_(KA3.3.1).md",
+    "chapter": "KA3",
+    "outline_order": 17,
+    "source_order": 70,
+    "ka_codes": [
+      "KA3.3.1"
+    ],
+    "primary_ka": "KA3.3.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/017_KA3.3.1_post-36.md",
     "authors": [
       {
         "name": "💀 Юзер-зомби",
@@ -1191,7 +2007,17 @@
     "title": "Как написать хороший пресс-релиз (KA3.3.2)",
     "source_url": "https://alliance.beinopen.ru/post/194/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/194_Как_написать_хороший_пресс-релиз_(KA3.3.2).md",
+    "chapter": "KA3",
+    "outline_order": 18,
+    "source_order": 71,
+    "ka_codes": [
+      "KA3.3.2"
+    ],
+    "primary_ka": "KA3.3.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/018_KA3.3.2_post-194.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1211,11 +2037,55 @@
     "title": "Как работать с инфлюэнсерами (KA3.3.3)",
     "source_url": "https://alliance.beinopen.ru/post/199/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/199_Как_работать_с_инфлюэнсерами_(KA3.3.3).md",
+    "chapter": "KA3",
+    "outline_order": 19,
+    "source_order": 72,
+    "ka_codes": [
+      "KA3.3.3"
+    ],
+    "primary_ka": "KA3.3.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/019_KA3.3.3_post-199.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
         "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+      }
+    ]
+  },
+  {
+    "id": "2456",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Марки и стилисты: Какие форматы взаимодействия со стилистами сейчас есть на рынке? (три семинара) (KA3.3.3.1)",
+    "source_url": "https://alliance.beinopen.ru/post/2456/",
+    "source_context": "Глава 3. Индустрия влияния (KA3)",
+    "chapter": "KA3",
+    "outline_order": 20,
+    "source_order": 73,
+    "ka_codes": [
+      "KA3.3.3.1"
+    ],
+    "primary_ka": "KA3.3.3.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA3.3.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/020_KA3.3.3.1_post-2456.md",
+    "authors": [
+      {
+        "name": "Алеша Баженов",
+        "profile_url": "https://alliance.beinopen.ru/user/abajenov"
+      },
+      {
+        "name": "Марина Сидорина",
+        "profile_url": "https://alliance.beinopen.ru/user/sidorinamv"
+      },
+      {
+        "name": "Дарья Ярыгина",
+        "profile_url": "https://alliance.beinopen.ru/user/daryayarygina"
       }
     ]
   },
@@ -1227,7 +2097,17 @@
     "title": "Системный инфлюенс-маркетинг: инструменты, аналитика и отчетность (KA3.3.4)",
     "source_url": "https://alliance.beinopen.ru/post/3016/",
     "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/3016_Системный_инфлюенс-маркетинг_инструменты,_аналитика_и_отчетность_(KA3.3.4).md",
+    "chapter": "KA3",
+    "outline_order": 21,
+    "source_order": 74,
+    "ka_codes": [
+      "KA3.3.4"
+    ],
+    "primary_ka": "KA3.3.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA3.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA3/021_KA3.3.4_post-3016.md",
     "authors": [
       {
         "name": "Алина Косоветис",
@@ -1243,7 +2123,17 @@
     "title": "Роли в процессе производства (KA4.1)",
     "source_url": "https://alliance.beinopen.ru/post/2976/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/2976_Роли_в_процессе_производства_(KA4.1).md",
+    "chapter": "KA4",
+    "outline_order": 1,
+    "source_order": 75,
+    "ka_codes": [
+      "KA4.1"
+    ],
+    "primary_ka": "KA4.1",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA4",
+    "node_type": "section",
+    "local_file": "Статьи/KA4/001_KA4.1_post-2976.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -1259,7 +2149,17 @@
     "title": "Концепция коллекции и корректировка визуальных материалов (кампейны, лукбуки, мудборды, соцсети) (KA4.2.1.1)",
     "source_url": "https://alliance.beinopen.ru/post/2048/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/2048_Концепция_коллекции_и_корректировка_визуальных_материалов_(кампейны,_лукбуки,_мудборды,_соцсети)_(KA4.2.1.1).md",
+    "chapter": "KA4",
+    "outline_order": 2,
+    "source_order": 76,
+    "ka_codes": [
+      "KA4.2.1.1"
+    ],
+    "primary_ka": "KA4.2.1.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/002_KA4.2.1.1_post-2048.md",
     "authors": [
       {
         "name": "Александра Чубарова",
@@ -1275,7 +2175,17 @@
     "title": "От эскиза до технического рисунка (KA4.2.1.2)",
     "source_url": "https://alliance.beinopen.ru/post/174/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/174_От_эскиза_до_технического_рисунка_(KA4.2.1.2).md",
+    "chapter": "KA4",
+    "outline_order": 3,
+    "source_order": 77,
+    "ka_codes": [
+      "KA4.2.1.2"
+    ],
+    "primary_ka": "KA4.2.1.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/003_KA4.2.1.2_post-174.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1291,7 +2201,17 @@
     "title": "Разработка изделий для производства",
     "source_url": "https://alliance.beinopen.ru/post/173/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/173_Разработка_изделий_для_производства.md",
+    "chapter": "KA4",
+    "outline_order": 4,
+    "source_order": 78,
+    "ka_codes": [
+      "KA4.2.1.3"
+    ],
+    "primary_ka": "KA4.2.1.3",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/004_KA4.2.1.3_post-173.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1307,7 +2227,17 @@
     "title": "Производственный цикл для брендов S",
     "source_url": "https://alliance.beinopen.ru/post/176/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/176_Производственный_цикл_для_брендов_S.md",
+    "chapter": "KA4",
+    "outline_order": 5,
+    "source_order": 79,
+    "ka_codes": [
+      "KA4.2.1.4"
+    ],
+    "primary_ka": "KA4.2.1.4",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/005_KA4.2.1.4_post-176.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1323,7 +2253,17 @@
     "title": "Планирование ассортиментной матрицы // Татьяна Лавренова (KA4.2.1.5)",
     "source_url": "https://alliance.beinopen.ru/post/530/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/530_Планирование_ассортиментной_матрицы_Татьяна_Лавренова_(KA4.2.1.5).md",
+    "chapter": "KA4",
+    "outline_order": 6,
+    "source_order": 80,
+    "ka_codes": [
+      "KA4.2.1.5"
+    ],
+    "primary_ka": "KA4.2.1.5",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/006_KA4.2.1.5_post-530.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1339,7 +2279,17 @@
     "title": "Расход ткани (KA4.2.1.6)",
     "source_url": "https://alliance.beinopen.ru/post/178/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/178_Расход_ткани_(KA4.2.1.6).md",
+    "chapter": "KA4",
+    "outline_order": 7,
+    "source_order": 81,
+    "ka_codes": [
+      "KA4.2.1.6"
+    ],
+    "primary_ka": "KA4.2.1.6",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/007_KA4.2.1.6_post-178.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1355,7 +2305,17 @@
     "title": "Создание принтов и дизайн тканей (примеры российских брендов) (KA4.2.1.8)",
     "source_url": "https://alliance.beinopen.ru/post/517/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/517_Создание_принтов_и_дизайн_тканей_(примеры_российских_брендов)_(KA4.2.1.8).md",
+    "chapter": "KA4",
+    "outline_order": 8,
+    "source_order": 82,
+    "ka_codes": [
+      "KA4.2.1.8"
+    ],
+    "primary_ka": "KA4.2.1.8",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/008_KA4.2.1.8_post-517.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -1371,7 +2331,17 @@
     "title": "Основные стадии проектирования одежды с целью оптимизации производства // Ольга Грассер (KA4.2.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/534/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/534_Основные_стадии_проектирования_одежды_с_целью_оптимизации_производства_Ольга_Грассер_(KA4.2.2.1).md",
+    "chapter": "KA4",
+    "outline_order": 9,
+    "source_order": 83,
+    "ka_codes": [
+      "KA4.2.2.1"
+    ],
+    "primary_ka": "KA4.2.2.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/009_KA4.2.2.1_post-534.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1387,7 +2357,17 @@
     "title": "Как создать комплект лекал для производства (KA4.2.2.2)",
     "source_url": "https://alliance.beinopen.ru/post/283/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/283_Как_создать_комплект_лекал_для_производства_(KA4.2.2.2).md",
+    "chapter": "KA4",
+    "outline_order": 10,
+    "source_order": 84,
+    "ka_codes": [
+      "KA4.2.2.2"
+    ],
+    "primary_ka": "KA4.2.2.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/010_KA4.2.2.2_post-283.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1403,7 +2383,17 @@
     "title": "Контроль качества (KA4.2.2.4)",
     "source_url": "https://alliance.beinopen.ru/post/180/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/180_Контроль_качества_(KA4.2.2.4).md",
+    "chapter": "KA4",
+    "outline_order": 11,
+    "source_order": 85,
+    "ka_codes": [
+      "KA4.2.2.4"
+    ],
+    "primary_ka": "KA4.2.2.4",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/011_KA4.2.2.4_post-180.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1419,7 +2409,17 @@
     "title": "Лейблы и этикетки (KA4.2.2.5)",
     "source_url": "https://alliance.beinopen.ru/post/175/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/175_Лейблы_и_этикетки_(KA4.2.2.5).md",
+    "chapter": "KA4",
+    "outline_order": 12,
+    "source_order": 86,
+    "ka_codes": [
+      "KA4.2.2.5"
+    ],
+    "primary_ka": "KA4.2.2.5",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/012_KA4.2.2.5_post-175.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1435,7 +2435,17 @@
     "title": "ГОСТы швейной отрасли (KA4.2.2.6)",
     "source_url": "https://alliance.beinopen.ru/post/1290/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/1290_ГОСТы_швейной_отрасли_(KA4.2.2.6).md",
+    "chapter": "KA4",
+    "outline_order": 13,
+    "source_order": 87,
+    "ka_codes": [
+      "KA4.2.2.6"
+    ],
+    "primary_ka": "KA4.2.2.6",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/013_KA4.2.2.6_post-1290.md",
     "authors": [
       {
         "name": "Ольга Смирнова",
@@ -1451,7 +2461,17 @@
     "title": "Как найти производство? (KA4.2.3.1)",
     "source_url": "https://alliance.beinopen.ru/post/177/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/177_Как_найти_производство_(KA4.2.3.1).md",
+    "chapter": "KA4",
+    "outline_order": 14,
+    "source_order": 88,
+    "ka_codes": [
+      "KA4.2.3.1"
+    ],
+    "primary_ka": "KA4.2.3.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/014_KA4.2.3.1_post-177.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1467,7 +2487,17 @@
     "title": "Где покупать ткани? Закупка сырья для коллекции (KA4.2.3.2)",
     "source_url": "https://alliance.beinopen.ru/post/181/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/181_Где_покупать_ткани_Закупка_сырья_для_коллекции_(KA4.2.3.2).md",
+    "chapter": "KA4",
+    "outline_order": 15,
+    "source_order": 89,
+    "ka_codes": [
+      "KA4.2.3.2"
+    ],
+    "primary_ka": "KA4.2.3.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/015_KA4.2.3.2_post-181.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1483,7 +2513,17 @@
     "title": "Скрипт. Производство коллекции на аутсорсе (Турция, Китай) (KA4.2.3.7)",
     "source_url": "https://alliance.beinopen.ru/post/1340/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/1340_Скрипт._Производство_коллекции_на_аутсорсе_(Турция,_Китай)_(KA4.2.3.7).md",
+    "chapter": "KA4",
+    "outline_order": 16,
+    "source_order": 90,
+    "ka_codes": [
+      "KA4.2.3.7"
+    ],
+    "primary_ka": "KA4.2.3.7",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA4.2.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/016_KA4.2.3.7_post-1340.md",
     "authors": [
       {
         "name": "Ольга Смирнова",
@@ -1499,11 +2539,52 @@
     "title": "План продаж и обязательные метрики (KA4.3.1)",
     "source_url": "https://alliance.beinopen.ru/post/2380/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/2380_План_продаж_и_обязательные_метрики_(KA4.3.1).md",
+    "chapter": "KA4",
+    "outline_order": 17,
+    "source_order": 91,
+    "ka_codes": [
+      "KA4.3.1",
+      "KA4.3.1.1"
+    ],
+    "primary_ka": "KA4.3.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/017_KA4.3.1_post-2380.md",
     "authors": [
       {
         "name": "Надежда Сачек",
         "profile_url": "https://alliance.beinopen.ru/user/NAD_Sachek"
+      }
+    ]
+  },
+  {
+    "id": "2739",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Навигационная карта: компетенции, требования и карьерные треки продакт-менеджера в fashion (KA4.6.1) (DocKA4.HS.S.5)",
+    "source_url": "https://alliance.beinopen.ru/post/2739/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 18,
+    "source_order": 92,
+    "ka_codes": [
+      "KA4.6.1"
+    ],
+    "primary_ka": "KA4.6.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "local_file": "Статьи/KA4/018_KA4.6.1_post-2739.md",
+    "authors": [
+      {
+        "name": "ИИ-ассистент",
+        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+      },
+      {
+        "name": "Наталья Болмазова",
+        "profile_url": "https://alliance.beinopen.ru/user/nbolmazova"
       }
     ]
   },
@@ -1515,7 +2596,17 @@
     "title": "Полезные списки и контакты (KA4.7)",
     "source_url": "https://alliance.beinopen.ru/post/3328/",
     "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/3328_Полезные_списки_и_контакты_(KA4.7).md",
+    "chapter": "KA4",
+    "outline_order": 19,
+    "source_order": 93,
+    "ka_codes": [
+      "KA4.7"
+    ],
+    "primary_ka": "KA4.7",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA4",
+    "node_type": "section",
+    "local_file": "Статьи/KA4/019_KA4.7_post-3328.md",
     "authors": [
       {
         "name": "Алеша Баженов",
@@ -1531,7 +2622,17 @@
     "title": "Ценообразование (KA5.1.1)",
     "source_url": "https://alliance.beinopen.ru/post/184/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/184_Ценообразование_(KA5.1.1).md",
+    "chapter": "KA5",
+    "outline_order": 1,
+    "source_order": 94,
+    "ka_codes": [
+      "KA5.1.1"
+    ],
+    "primary_ka": "KA5.1.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/001_KA5.1.1_post-184.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1547,7 +2648,18 @@
     "title": "Основы обслуживания клиентов (KA5.1.4)",
     "source_url": "https://alliance.beinopen.ru/post/220/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/220_Основы_обслуживания_клиентов_(KA5.1.4).md",
+    "chapter": "KA5",
+    "outline_order": 2,
+    "source_order": 95,
+    "ka_codes": [
+      "KA5.1.4",
+      "KA5.1.3"
+    ],
+    "primary_ka": "KA5.1.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/002_KA5.1.4_post-220.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1563,7 +2675,17 @@
     "title": "Фреймворк: 4 группы покупателей (KA5.1.5)",
     "source_url": "https://alliance.beinopen.ru/post/316/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/316_Фреймворк_4_группы_покупателей_(KA5.1.5).md",
+    "chapter": "KA5",
+    "outline_order": 3,
+    "source_order": 96,
+    "ka_codes": [
+      "KA5.1.5"
+    ],
+    "primary_ka": "KA5.1.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/003_KA5.1.5_post-316.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1579,7 +2701,17 @@
     "title": "Ритейл и продажи: роли (KA5.2)",
     "source_url": "https://alliance.beinopen.ru/post/209/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/209_Ритейл_и_продажи_роли_(KA5.2).md",
+    "chapter": "KA5",
+    "outline_order": 4,
+    "source_order": 97,
+    "ka_codes": [
+      "KA5.2"
+    ],
+    "primary_ka": "KA5.2",
+    "hierarchy_depth": 2,
+    "parent_ka": "KA5",
+    "node_type": "section",
+    "local_file": "Статьи/KA5/004_KA5.2_post-209.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1595,7 +2727,17 @@
     "title": "Стандарты продаж как способ повышения уровня сервиса (KA5.3.1.1)",
     "source_url": "https://alliance.beinopen.ru/post/2464/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/2464_Стандарты_продаж_как_способ_повышения_уровня_сервиса_(KA5.3.1.1).md",
+    "chapter": "KA5",
+    "outline_order": 5,
+    "source_order": 98,
+    "ka_codes": [
+      "KA5.3.1.1"
+    ],
+    "primary_ka": "KA5.3.1.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA5.3.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/005_KA5.3.1.1_post-2464.md",
     "authors": [
       {
         "name": "Ольга Зимина",
@@ -1615,7 +2757,17 @@
     "title": "Реестр документов для обучения персонала (KA5.3.1.2)",
     "source_url": "https://alliance.beinopen.ru/post/2453/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/2453_Реестр_документов_для_обучения_персонала_(KA5.3.1.2).md",
+    "chapter": "KA5",
+    "outline_order": 6,
+    "source_order": 99,
+    "ka_codes": [
+      "KA5.3.1.2"
+    ],
+    "primary_ka": "KA5.3.1.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA5.3.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/006_KA5.3.1.2_post-2453.md",
     "authors": [
       {
         "name": "Ольга Зимина",
@@ -1635,7 +2787,17 @@
     "title": "Обучения персонала как способ увеличения продаж (KA5.3.1.3)",
     "source_url": "https://alliance.beinopen.ru/post/2435/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/2435_Обучения_персонала_как_способ_увеличения_продаж_(KA5.3.1.3).md",
+    "chapter": "KA5",
+    "outline_order": 7,
+    "source_order": 100,
+    "ka_codes": [
+      "KA5.3.1.3"
+    ],
+    "primary_ka": "KA5.3.1.3",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA5.3.1",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/007_KA5.3.1.3_post-2435.md",
     "authors": [
       {
         "name": "Ольга Зимина",
@@ -1655,7 +2817,17 @@
     "title": "Оффлайн-магазин: Планировка торгового зала (KA5.3.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/213/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/213_Оффлайн-магазин_Планировка_торгового_зала_(KA5.3.2.1).md",
+    "chapter": "KA5",
+    "outline_order": 8,
+    "source_order": 101,
+    "ka_codes": [
+      "KA5.3.2.1"
+    ],
+    "primary_ka": "KA5.3.2.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA5.3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/008_KA5.3.2.1_post-213.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1675,7 +2847,17 @@
     "title": "Оффлайн-магазин: Оснащение примерочных (KA5.3.2.2)",
     "source_url": "https://alliance.beinopen.ru/post/214/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/214_Оффлайн-магазин_Оснащение_примерочных_(KA5.3.2.2).md",
+    "chapter": "KA5",
+    "outline_order": 9,
+    "source_order": 102,
+    "ka_codes": [
+      "KA5.3.2.2"
+    ],
+    "primary_ka": "KA5.3.2.2",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA5.3.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/009_KA5.3.2.2_post-214.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1695,7 +2877,17 @@
     "title": "Оффлайн-магазин: Мерчандайзинг (KA5.3.3)",
     "source_url": "https://alliance.beinopen.ru/post/215/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/215_Оффлайн-магазин_Мерчандайзинг_(KA5.3.3).md",
+    "chapter": "KA5",
+    "outline_order": 10,
+    "source_order": 103,
+    "ka_codes": [
+      "KA5.3.3"
+    ],
+    "primary_ka": "KA5.3.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/010_KA5.3.3_post-215.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1715,7 +2907,17 @@
     "title": "Средства визуального мерчандайзинга (KA5.3.3.1)",
     "source_url": "https://alliance.beinopen.ru/post/529/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/529_Средства_визуального_мерчандайзинга_(KA5.3.3.1).md",
+    "chapter": "KA5",
+    "outline_order": 11,
+    "source_order": 104,
+    "ka_codes": [
+      "KA5.3.3.1"
+    ],
+    "primary_ka": "KA5.3.3.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA5.3.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/011_KA5.3.3.1_post-529.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1731,7 +2933,17 @@
     "title": "Дизайн-проект интерьера магазина: этапы, условия, поиск идей (KA5.3.4)",
     "source_url": "https://alliance.beinopen.ru/post/1172/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/1172_Дизайн-проект_интерьера_магазина_этапы,_условия,_поиск_идей_(KA5.3.4).md",
+    "chapter": "KA5",
+    "outline_order": 12,
+    "source_order": 105,
+    "ka_codes": [
+      "KA5.3.4"
+    ],
+    "primary_ka": "KA5.3.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/012_KA5.3.4_post-1172.md",
     "authors": [
       {
         "name": "Анастасия Романова",
@@ -1751,7 +2963,17 @@
     "title": "Временные форматы: поп-ап, маркет, сэмпл-сейл (KA5.3.5)",
     "source_url": "https://alliance.beinopen.ru/post/212/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/212_Временные_форматы_поп-ап,_маркет,_сэмпл-сейл_(KA5.3.5).md",
+    "chapter": "KA5",
+    "outline_order": 13,
+    "source_order": 106,
+    "ka_codes": [
+      "KA5.3.5"
+    ],
+    "primary_ka": "KA5.3.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/013_KA5.3.5_post-212.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1767,7 +2989,17 @@
     "title": "Стимулирование продаж (KA5.3.6)",
     "source_url": "https://alliance.beinopen.ru/post/222/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/222_Стимулирование_продаж_(KA5.3.6).md",
+    "chapter": "KA5",
+    "outline_order": 14,
+    "source_order": 107,
+    "ka_codes": [
+      "KA5.3.6"
+    ],
+    "primary_ka": "KA5.3.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/014_KA5.3.6_post-222.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1783,7 +3015,17 @@
     "title": "Политика возвратов (KA5.3.7)",
     "source_url": "https://alliance.beinopen.ru/post/223/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/223_Политика_возвратов_(KA5.3.7).md",
+    "chapter": "KA5",
+    "outline_order": 15,
+    "source_order": 108,
+    "ka_codes": [
+      "KA5.3.7"
+    ],
+    "primary_ka": "KA5.3.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/015_KA5.3.7_post-223.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1799,7 +3041,17 @@
     "title": "Инвентаризация (KA5.3.8)",
     "source_url": "https://alliance.beinopen.ru/post/225/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/225_Инвентаризация_(KA5.3.8).md",
+    "chapter": "KA5",
+    "outline_order": 16,
+    "source_order": 109,
+    "ka_codes": [
+      "KA5.3.8"
+    ],
+    "primary_ka": "KA5.3.8",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/016_KA5.3.8_post-225.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1815,7 +3067,17 @@
     "title": "Получение обратной связи (KA5.3.9)",
     "source_url": "https://alliance.beinopen.ru/post/226/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/226_Получение_обратной_связи_(KA5.3.9).md",
+    "chapter": "KA5",
+    "outline_order": 17,
+    "source_order": 110,
+    "ka_codes": [
+      "KA5.3.9"
+    ],
+    "primary_ka": "KA5.3.9",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.3",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/017_KA5.3.9_post-226.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1831,7 +3093,17 @@
     "title": "Создание интернет-магазина (KA5.4.1)",
     "source_url": "https://alliance.beinopen.ru/post/210/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/210_Создание_интернет-магазина_(KA5.4.1).md",
+    "chapter": "KA5",
+    "outline_order": 18,
+    "source_order": 111,
+    "ka_codes": [
+      "KA5.4.1"
+    ],
+    "primary_ka": "KA5.4.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.4",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/018_KA5.4.1_post-210.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1847,7 +3119,17 @@
     "title": "Инструменты онлайн-маркетинга (KA5.4.2)",
     "source_url": "https://alliance.beinopen.ru/post/531/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/531_Инструменты_онлайн-маркетинга_(KA5.4.2).md",
+    "chapter": "KA5",
+    "outline_order": 19,
+    "source_order": 112,
+    "ka_codes": [
+      "KA5.4.2"
+    ],
+    "primary_ka": "KA5.4.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.4",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/019_KA5.4.2_post-531.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1863,7 +3145,17 @@
     "title": "Оптимизация сайтов под ИИ-запросы (KA5.4.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/3343/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/3343_Оптимизация_сайтов_под_ИИ-запросы_(KA5.4.2.1).md",
+    "chapter": "KA5",
+    "outline_order": 20,
+    "source_order": 113,
+    "ka_codes": [
+      "KA5.4.2.1"
+    ],
+    "primary_ka": "KA5.4.2.1",
+    "hierarchy_depth": 4,
+    "parent_ka": "KA5.4.2",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/020_KA5.4.2.1_post-3343.md",
     "authors": [
       {
         "name": "Максим Муратов",
@@ -1879,7 +3171,17 @@
     "title": "Презентация для байеров / компани профайл — полная инструкция (KA5.5.1)",
     "source_url": "https://alliance.beinopen.ru/post/1143/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/1143_Презентация_для_байеров_компани_профайл_—_полная_инструкция_(KA5.5.1).md",
+    "chapter": "KA5",
+    "outline_order": 21,
+    "source_order": 114,
+    "ka_codes": [
+      "KA5.5.1"
+    ],
+    "primary_ka": "KA5.5.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/021_KA5.5.1_post-1143.md",
     "authors": [
       {
         "name": "Александра Чубарова",
@@ -1895,7 +3197,17 @@
     "title": "Как презентовать бренд байеру? Ошибки в составлении компани профайла (KA5.5.2)",
     "source_url": "https://alliance.beinopen.ru/post/1112/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/1112_Как_презентовать_бренд_байеру_Ошибки_в_составлении_компани_профайла_(KA5.5.2).md",
+    "chapter": "KA5",
+    "outline_order": 22,
+    "source_order": 115,
+    "ka_codes": [
+      "KA5.5.2"
+    ],
+    "primary_ka": "KA5.5.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/022_KA5.5.2_post-1112.md",
     "authors": [
       {
         "name": "Марина Шипилова",
@@ -1911,7 +3223,17 @@
     "title": "Участие в шоурумах (KA5.5.3)",
     "source_url": "https://alliance.beinopen.ru/post/182/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/182_Участие_в_шоурумах_(KA5.5.3).md",
+    "chapter": "KA5",
+    "outline_order": 23,
+    "source_order": 116,
+    "ka_codes": [
+      "KA5.5.3"
+    ],
+    "primary_ka": "KA5.5.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/023_KA5.5.3_post-182.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1927,7 +3249,17 @@
     "title": "Шаблон оформления лайншита (KA5.5.4)",
     "source_url": "https://alliance.beinopen.ru/post/1132/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/1132_Шаблон_оформления_лайншита_(KA5.5.4).md",
+    "chapter": "KA5",
+    "outline_order": 24,
+    "source_order": 117,
+    "ka_codes": [
+      "KA5.5.4"
+    ],
+    "primary_ka": "KA5.5.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/024_KA5.5.4_post-1132.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1943,7 +3275,17 @@
     "title": "Участие в отраслевых выставках (KA5.5.5)",
     "source_url": "https://alliance.beinopen.ru/post/183/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/183_Участие_в_отраслевых_выставках_(KA5.5.5).md",
+    "chapter": "KA5",
+    "outline_order": 25,
+    "source_order": 118,
+    "ka_codes": [
+      "KA5.5.5"
+    ],
+    "primary_ka": "KA5.5.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/025_KA5.5.5_post-183.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1959,7 +3301,17 @@
     "title": "Работа с ритейлерами (KA5.5.6)",
     "source_url": "https://alliance.beinopen.ru/post/187/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/187_Работа_с_ритейлерами_(KA5.5.6).md",
+    "chapter": "KA5",
+    "outline_order": 26,
+    "source_order": 119,
+    "ka_codes": [
+      "KA5.5.6"
+    ],
+    "primary_ka": "KA5.5.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/026_KA5.5.6_post-187.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1975,7 +3327,17 @@
     "title": "Оформление сделки между марокой и ритейлером (KA5.5.7)",
     "source_url": "https://alliance.beinopen.ru/post/185/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/185_Оформление_сделки_между_марокой_и_ритейлером_(KA5.5.7).md",
+    "chapter": "KA5",
+    "outline_order": 27,
+    "source_order": 120,
+    "ka_codes": [
+      "KA5.5.7"
+    ],
+    "primary_ka": "KA5.5.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/027_KA5.5.7_post-185.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -1991,7 +3353,17 @@
     "title": "White label, работа по лицензии и франчайзинг (KA5.5.8)",
     "source_url": "https://alliance.beinopen.ru/post/188/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/188_White_label,_работа_по_лицензии_и_франчайзинг_(KA5.5.8).md",
+    "chapter": "KA5",
+    "outline_order": 28,
+    "source_order": 121,
+    "ka_codes": [
+      "KA5.5.8"
+    ],
+    "primary_ka": "KA5.5.8",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.5",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/028_KA5.5.8_post-188.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
@@ -2007,183 +3379,21 @@
     "title": "Профессиональное сообщество (DocKA5.8)",
     "source_url": "https://alliance.beinopen.ru/post/132/",
     "source_context": "Глава 5. Продажи (KA5)",
-    "local_file": "Статьи/KA5/132_Профессиональное_сообщество_(DocKA5.8).md",
+    "chapter": "KA5",
+    "outline_order": 29,
+    "source_order": 122,
+    "ka_codes": [
+      "KA5.8.1"
+    ],
+    "primary_ka": "KA5.8.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA5.8",
+    "node_type": "article",
+    "local_file": "Статьи/KA5/029_KA5.8.1_post-132.md",
     "authors": [
       {
         "name": "ИИ-ассистент",
         "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
-  },
-  {
-    "id": "3023",
-    "artifact_type": "knowledge_article",
-    "access": "resident",
-    "mirror_mode": "index_only_public_full_private",
-    "title": "Партнерская стратегия Альянса х РАНХиГС х Beinopen",
-    "source_url": "https://alliance.beinopen.ru/post/3023/",
-    "source_context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
-    "local_file": "Статьи/Общее/3023_Партнерская_стратегия_Альянса_х_РАНХиГС_х_Beinopen.md",
-    "private_file": "Статьи_для_своих/Общее/3023_Партнерская_стратегия_Альянса_х_РАНХиГС_х_Beinopen.md",
-    "authors": [
-      {
-        "name": "Алеша Баженов",
-        "profile_url": "https://alliance.beinopen.ru/user/abajenov"
-      },
-      {
-        "name": "Елена Кагирова",
-        "profile_url": "https://alliance.beinopen.ru/user/smmkagirova"
-      },
-      {
-        "name": "Марина Сидорина",
-        "profile_url": "https://alliance.beinopen.ru/user/sidorinamv"
-      },
-      {
-        "name": "Алина Косоветис",
-        "profile_url": "https://alliance.beinopen.ru/user/kosovetis"
-      },
-      {
-        "name": "Кристина Фисан",
-        "profile_url": "https://alliance.beinopen.ru/user/Kzarubina"
-      }
-    ]
-  },
-  {
-    "id": "3775",
-    "artifact_type": "knowledge_article",
-    "access": "resident",
-    "mirror_mode": "index_only_public_full_private",
-    "title": "Паспорт Свода знаний KA (KA-P)",
-    "source_url": "https://alliance.beinopen.ru/post/3775/",
-    "source_context": "Введение",
-    "local_file": "Статьи/Введение/3775_Паспорт_Свода_знаний_KA_(KA-P).md",
-    "private_file": "Статьи_для_своих/Введение/3775_Паспорт_Свода_знаний_KA_(KA-P).md",
-    "authors": [
-      {
-        "name": "Алеша Баженов",
-        "profile_url": "https://alliance.beinopen.ru/user/abajenov"
-      }
-    ]
-  },
-  {
-    "id": "2963",
-    "artifact_type": "knowledge_article",
-    "access": "resident",
-    "mirror_mode": "index_only_public_full_private",
-    "title": "Дашборды и отчетность (KA1.6.4)",
-    "source_url": "https://alliance.beinopen.ru/post/2963/",
-    "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/2963_Дашборды_и_отчетность_(KA1.6.4).md",
-    "private_file": "Статьи_для_своих/KA1/2963_Дашборды_и_отчетность_(KA1.6.4).md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      },
-      {
-        "name": "Алина Цуцу",
-        "profile_url": "https://alliance.beinopen.ru/user/Alinetsu"
-      }
-    ]
-  },
-  {
-    "id": "1213",
-    "artifact_type": "knowledge_article",
-    "access": "resident",
-    "mirror_mode": "index_only_public_full_private",
-    "title": "Дизайнеры в эмиграции: как перенастроить внутренние бизнес-процессы (KA1.7.2)",
-    "source_url": "https://alliance.beinopen.ru/post/1213/",
-    "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/1213_Дизайнеры_в_эмиграции_как_перенастроить_внутренние_бизнес-процессы_(KA1.7.2).md",
-    "private_file": "Статьи_для_своих/KA1/1213_Дизайнеры_в_эмиграции_как_перенастроить_внутренние_бизнес-процессы_(KA1.7.2).md",
-    "authors": [
-      {
-        "name": "Василий Волчок",
-        "profile_url": "https://alliance.beinopen.ru/user/Vasiliivolchok"
-      },
-      {
-        "name": "Antonina Vlasenko",
-        "profile_url": "https://alliance.beinopen.ru/user/Svoya"
-      }
-    ]
-  },
-  {
-    "id": "1147",
-    "artifact_type": "knowledge_article",
-    "access": "resident",
-    "mirror_mode": "index_only_public_full_private",
-    "title": "Как перенастроить бизнес-процессы: поиск эффективных решений (KA1.7.3)",
-    "source_url": "https://alliance.beinopen.ru/post/1147/",
-    "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/1147_Как_перенастроить_бизнес-процессы_поиск_эффективных_решений_(KA1.7.3).md",
-    "private_file": "Статьи_для_своих/KA1/1147_Как_перенастроить_бизнес-процессы_поиск_эффективных_решений_(KA1.7.3).md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
-  },
-  {
-    "id": "586",
-    "artifact_type": "knowledge_article",
-    "access": "resident",
-    "mirror_mode": "index_only_public_full_private",
-    "title": "Стратегии развития модного бизнеса в кризис (KA1.7.4)",
-    "source_url": "https://alliance.beinopen.ru/post/586/",
-    "source_context": "Глава 1. Управление маркой (KA1)",
-    "local_file": "Статьи/KA1/586_Стратегии_развития_модного_бизнеса_в_кризис_(KA1.7.4).md",
-    "private_file": "Статьи_для_своих/KA1/586_Стратегии_развития_модного_бизнеса_в_кризис_(KA1.7.4).md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
-  },
-  {
-    "id": "2456",
-    "artifact_type": "knowledge_article",
-    "access": "resident",
-    "mirror_mode": "index_only_public_full_private",
-    "title": "Марки и стилисты: Какие форматы взаимодействия со стилистами сейчас есть на рынке? (три семинара) (KA3.3.3.1)",
-    "source_url": "https://alliance.beinopen.ru/post/2456/",
-    "source_context": "Глава 3. Индустрия влияния (KA3)",
-    "local_file": "Статьи/KA3/2456_Марки_и_стилисты_Какие_форматы_взаимодействия_со_стилистами_сейчас_есть_на_рынке_(три_семинара)_(KA3.3.3.1).md",
-    "private_file": "Статьи_для_своих/KA3/2456_Марки_и_стилисты_Какие_форматы_взаимодействия_со_стилистами_сейчас_есть_на_рынке_(три_семинара)_(KA3.3.3.1).md",
-    "authors": [
-      {
-        "name": "Алеша Баженов",
-        "profile_url": "https://alliance.beinopen.ru/user/abajenov"
-      },
-      {
-        "name": "Марина Сидорина",
-        "profile_url": "https://alliance.beinopen.ru/user/sidorinamv"
-      },
-      {
-        "name": "Дарья Ярыгина",
-        "profile_url": "https://alliance.beinopen.ru/user/daryayarygina"
-      }
-    ]
-  },
-  {
-    "id": "2739",
-    "artifact_type": "knowledge_article",
-    "access": "resident",
-    "mirror_mode": "index_only_public_full_private",
-    "title": "Навигационная карта: компетенции, требования и карьерные треки продакт-менеджера в fashion (KA4.6.1) (DocKA4.HS.S.5)",
-    "source_url": "https://alliance.beinopen.ru/post/2739/",
-    "source_context": "Глава 4. Производство (KA4)",
-    "local_file": "Статьи/KA4/2739_Навигационная_карта_компетенции,_требования_и_карьерные_треки_продакт-менеджера_в_fashion_(KA4.6.1)_(DocKA4.HS.md",
-    "private_file": "Статьи_для_своих/KA4/2739_Навигационная_карта_компетенции,_требования_и_карьерные_треки_продакт-менеджера_в_fashion_(KA4.6.1)_(DocKA4.HS.md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      },
-      {
-        "name": "Наталья Болмазова",
-        "profile_url": "https://alliance.beinopen.ru/user/nbolmazova"
       }
     ]
   },
@@ -2195,23 +3405,22 @@
     "title": "(Балансировка) Пошаговая процедура присоединения к профессиональному сообществу (KA6)",
     "source_url": "https://alliance.beinopen.ru/post/3308/",
     "source_context": "Глава 6. Навигатор сообщества (KA6)",
-    "local_file": "Статьи/KA6/3308_(Балансировка)_Пошаговая_процедура_присоединения_к_профессиональному_сообществу_(KA6).md",
-    "private_file": "Статьи_для_своих/KA6/3308_(Балансировка)_Пошаговая_процедура_присоединения_к_профессиональному_сообществу_(KA6).md",
+    "chapter": "KA6",
+    "outline_order": 1,
+    "source_order": 123,
+    "ka_codes": [
+      "KA6"
+    ],
+    "primary_ka": "KA6",
+    "hierarchy_depth": 1,
+    "parent_ka": "",
+    "node_type": "chapter",
+    "local_file": "Статьи/KA6/001_KA6_post-3308.md",
     "authors": [
       {
         "name": "Алеша Баженов",
         "profile_url": "https://alliance.beinopen.ru/user/abajenov"
       }
     ]
-  },
-  {
-    "id": null,
-    "artifact_type": "alliance_navigation",
-    "access": "platform",
-    "mirror_mode": "index_only",
-    "title": "Навигатор по развитию профессиональных ролей в формате эталонных траекторий и сопровождения индивидуальных траекторий",
-    "source_url": "https://alliance.beinopen.ru/post/about",
-    "source_context": "Введение",
-    "authors": []
   }
 ]
