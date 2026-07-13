@@ -49,12 +49,37 @@ New-Item -ItemType Directory -Path $TargetPath -Force | Out-Null
 Copy-DirectoryContents (Join-Path $RepoRoot "templates/common") $TargetPath
 Copy-DirectoryContents (Join-Path $RepoRoot "templates/$RoleTemplate") $TargetPath
 
-$LibraryTarget = Join-Path $TargetPath "03_Библиотека_роли/01_Открытый_стандарт/Свод_знаний_репозиторий"
-$SkillTarget = Join-Path $TargetPath "09_Скиллы_для_Codex/alliance-resident-workspace"
+$LibraryTarget = [System.IO.Path]::Combine(
+  $TargetPath,
+  "03_Библиотека_роли",
+  "01_Открытый_стандарт",
+  "Свод_знаний_репозиторий"
+)
+$SkillTarget = [System.IO.Path]::Combine(
+  $TargetPath,
+  "09_Скиллы_для_Codex",
+  "alliance-resident-workspace"
+)
 New-Item -ItemType Directory -Path (Split-Path -Parent $LibraryTarget) -Force | Out-Null
 New-Item -ItemType Directory -Path (Split-Path -Parent $SkillTarget) -Force | Out-Null
 Copy-DirectoryContents (Join-Path $RepoRoot "knowledge-base") $LibraryTarget
 Copy-DirectoryContents (Join-Path $RepoRoot "skills/alliance-resident-workspace") $SkillTarget
+
+$InstalledChecks = @(
+  @{ Label = "Knowledge Base version"; Path = (Join-Path $LibraryTarget "VERSION.json") },
+  @{ Label = "Codex skill"; Path = (Join-Path $SkillTarget "SKILL.md") }
+)
+
+foreach ($Check in $InstalledChecks) {
+  if (-not (Test-Path -LiteralPath $Check.Path -PathType Leaf)) {
+    $LeafName = Split-Path -Leaf $Check.Path
+    $Found = @(
+      Get-ChildItem -LiteralPath $TargetPath -Recurse -File -Filter $LeafName -ErrorAction SilentlyContinue |
+        ForEach-Object { $_.FullName }
+    )
+    throw "$($Check.Label) is missing at $($Check.Path). Found: $($Found -join '; ')"
+  }
+}
 
 Write-Host "Workspace installed: $TargetPath"
 Write-Host "Type: $RoleTemplate"
