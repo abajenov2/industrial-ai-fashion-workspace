@@ -1,0 +1,46 @@
+policy_version: 0.1.0
+policy_status: draft
+workspace_type_source: 00_Паспорт_рабочего_места/Тип_рабочего_места.md
+sources_of_truth:
+  public_and_resident_standard: alliance_platform
+  structured_statuses: agreed_registry
+  private_work: local_workspace
+access_levels:
+  public: reusable_after_review
+  resident: active_residents_only
+  private: workspace_owner_only
+  temporary: local_processing_only
+  pending_rights: do_not_share
+external_actions:
+  publish: explicit_approval_required
+  message: explicit_approval_required
+  upload: explicit_approval_required
+  change_access: explicit_approval_required
+prohibited_in_repository:
+  - passwords
+  - api_tokens
+  - cookies
+  - payment_data
+  - contact_databases
+  - unapproved_raw_transcripts
+  - third_party_private_correspondence
+membership:
+  source_of_truth: alliance_registry
+  trial_days: 30
+  expiry_action: revoke_repository_access
+knowledge_navigation:
+  entrypoint: KA6
+  trajectory_reference: RLTR
+  ka_standard_maintainer_role: architect
+docka:
+  distribution: selective_from_managed_yandex_disk
+  full_archive_in_common_github: false
+  require_source_metadata:
+    - docka_id
+    - ka
+    - author
+    - alliance_page
+    - version
+    - sha256
+    - received_at
+notice: Revoking GitHub access does not delete local clones; contractual restrictions remain in force.

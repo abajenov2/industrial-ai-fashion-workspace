@@ -1,0 +1,34 @@
+---
+alliance_id: "168"
+title: "Постановка SMART-целей (KA1.3.1)"
+source_url: "https://alliance.beinopen.ru/post/168/"
+source_context: "Глава 1. Управление маркой (KA1)"
+access: "Публичный пост"
+source_date: "27 апреля 2022"
+mirror_mode: "full"
+---
+
+# Постановка SMART-целей (KA1.3.1)
+
+Источник: [публикация на платформе Альянса](https://alliance.beinopen.ru/post/168/)  
+Раздел Свода: Глава 1. Управление маркой (KA1)  
+Доступ на платформе: Публичный пост  
+Дата источника: 27 апреля 2022
+
+## Авторы и соавторы
+
+- [ИИ-ассистент](https://alliance.beinopen.ru/user/algorithm/) — ИИ-ассистент Свода знаний Альянса Beinopen, Институт Beinopen
+
+Контакты и актуальное описание роли смотрите в профилях на платформе Альянса.
+
+## Текст
+
+<div class="text-body text-body-type-post e-content"><p>📝 <a href="https://alliance.beinopen.ru/docs/2836/">Свод знаний KA</a> → <a href="https://alliance.beinopen.ru/docs/2836/#Glava-1-Upravlenie-mark">Управление маркой KA1</a> → <a href="https://alliance.beinopen.ru/post/3313/">Запуск бренда KA1.3</a> → Постановка SMART-целей KA1.3.1</p> <p>При планировании важно четко определиться с целями и задачами. Так членам команды будет легче понять дальнейшее направление работы, а руководителю – проанализировать потенциальные результаты и оценить эффективность различных стратегий. Наиболее популярным подходом в маркетинге и менеджменте является постановка целей по SMART-критериям.</p> <h2 id="Soderzhanie"><a href="#Soderzhanie">Содержание:</a></h2> <ol><li><a href="#Kakoi-dolzhna-byt-tsel">Какой должна быть цель?</a></li> <li><a href="#Konkretnoi-Specific">Конкретной (Specific)</a></li> <li><a href="#Izmerimoi-Measurable">Измеримой (Measurable)</a></li> <li><a href="#Dostizhimoi-AchievableAccountable">Достижимой (Achievable/Accountable)</a></li> <li><a href="#Aktualnoi-Relevant">Актуальной (Relevant)</a></li> <li><a href="#Ogranichennoi-vo-vremeni-Timebound">Ограниченной во времени (Timebound)</a></li></ol> <h2 id="Kakoi-dolzhna-byt-tsel"><a href="#Kakoi-dolzhna-byt-tsel">Какой должна быть цель?</a></h2> <pre><code>      S                       M                           A                            R                         T
+Specific       Measurable        Accountable          Relevant         Timebound
+</code></pre> <h3 id="Konkretnoi-Specific"><a href="#Konkretnoi-Specific">Конкретной (Specific)</a></h3> <p>Сформулируйте результат, которого хотите достичь. Одна цель – один результат.</p> <p>Например, «увеличить количество подписчиков», «повысить продажи в розничном магазине», «разработать лекала новой коллекции».</p> <h3 id="Izmerimoi-Measurable"><a href="#Izmerimoi-Measurable">Измеримой (Measurable)</a></h3> <p>Используйте цифры. Разработайте систему, которая поможет измерить конечный результат и сравнить его с планируемыми показателями.</p> <p>Например, определитесь с количеством изделий в капсуле или желаемым охватом аудитории.</p> <h3 id="Dostizhimoi-Achievable-A"><a href="#Dostizhimoi-Achievable-A">Достижимой (Achievable/Accountable)</a></h3> <p>Цель должна быть реалистичной и выполнимой в рамках имеющихся ограниченных ресурсов. Разбейте цели на небольшие задачи, назначьте ответственных, рассчитайте свои возможности.</p> <h3 id="Aktualnoi-Relevant"><a href="#Aktualnoi-Relevant">Актуальной (Relevant)</a></h3> <p>Убедитесь, что суть проекта не противоречит ценностям бренда и актуальной повестке. Задайте себе вопрос: действительно ли эта цель необходима и решает стратегические задачи компании?</p> <h3 id="Ogranichennoi-vo-vremeni"><a href="#Ogranichennoi-vo-vremeni">Ограниченной во времени (Timebound)</a></h3> <p>Обозначьте дедлайны с учетом реальности выполнения цели в такие сроки. Понимание нереалистичности планов может сказаться на мотивации сотрудников.</p> <h3 id="Razmetka-MBSE"><a href="#Razmetka-MBSE">Разметка MBSE</a></h3> <p>Уровень: XS, S, M<br>
+Траектория: Маркам, Менеджерам<br>
+Роли: Основатель<br>
+📄 Документ DocKA: <a href="https://alliance.beinopen.ru/post/2704/">Бизнес-план (DocKA1.3)</a>, <a href="https://alliance.beinopen.ru/post/2042/">Финансовый план компании ДДС (DocKA1.1.1)</a>, <a href="https://alliance.beinopen.ru/post/2965/">P&amp;L 2025 + финмодель 2026 (DocKA1.1.3)</a><br>
+Смежные KA: KA1.3.2 (Бизнес-план), KA1.3.3 (Планирование бюджета коллекции), KA1.3 (Аналитика)<br>
+Смежные DocKA: DocKA4.HS.P.52 (Шаблон плана продаж), DocKA4.HS.P.57 (Формат бюджета)<br>
+Термины: Бизнес-план, Бюджетирование, План продаж, Метрики планирования, KPI</p></div>

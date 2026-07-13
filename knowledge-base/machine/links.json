@@ -1,0 +1,1002 @@
+{
+  "counts": {
+    "docs": 5,
+    "event": 32,
+    "other": 2,
+    "post": 124,
+    "user": 2
+  },
+  "links": [
+    {
+      "context": "",
+      "text": "Альянс x Beinopen",
+      "type": "other",
+      "url": "https://alliance.beinopen.ru"
+    },
+    {
+      "context": "",
+      "text": "Пиcать",
+      "type": "other",
+      "url": "https://alliance.beinopen.ru/create"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "оптимальные групповые и индивидуальные траектории для основателей, сотрудников и партнеров малого бизнеса XS, S, M",
+      "type": "docs",
+      "url": "https://alliance.beinopen.ru/docs/3029"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "Спортмастеру",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/2981"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "Т-банку",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1968"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "Авито",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2109"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "Trend Island",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/2147"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "Корпорации развития Якутии",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1738"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "ЭФ МГУ",
+      "type": "user",
+      "url": "https://alliance.beinopen.ru/user/ElenaTishchenko"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "ИРКИ НИУ ВШЭ",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1894"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "РАНХиГС",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3023"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "ФКИ",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2097"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "АСИ",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1844"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "ПНТИ",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1423"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "Минпромторг",
+      "type": "user",
+      "url": "https://alliance.beinopen.ru/user/BobylevaKV"
+    },
+    {
+      "context": "📚 Свод знаний по управлению бизнес-процессами в индустрии моды (KA)",
+      "text": "ТПП РФ",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2997"
+    },
+    {
+      "context": "Содержание",
+      "text": "Содержание",
+      "type": "docs",
+      "url": "https://alliance.beinopen.ru/docs/2836"
+    },
+    {
+      "context": "Введение",
+      "text": "Набор документов (DocKA)",
+      "type": "docs",
+      "url": "https://alliance.beinopen.ru/docs/2046"
+    },
+    {
+      "context": "Введение",
+      "text": "Навигатор по развитию профессиональных ролей в формате эталонных траекторий и сопровождения индивидуальных траекторий",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/about"
+    },
+    {
+      "context": "Введение",
+      "text": "Паспорт Свода знаний KA (KA-P)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3775"
+    },
+    {
+      "context": "Часть 1. Теоретические основы",
+      "text": "экспертная валидация",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3815"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Введение и экспертная валидация",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3795"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Структура команды / Оргструктура бренда",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2743"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Управленческая модель марки (KA1.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3869"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Постановка SMART-целей",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/168"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Бизнес-план",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/230"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Бренд-платформа / ДНК бренда",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2121"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Источники финансирования на старте",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/231"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Планирование бюджета",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/229"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Как рассчитать затраты на выпуск коллекции",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/265"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Кейс: Запуск обувного бренда с Ириной Левченко-Кукшевой, видео",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/143045"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Управление финансами фэшн-бренда: ключевые показатели и ошибки (KA1.4.1.1)// Оксана Ткаченко, видео",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1685"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Ошибки финансового планирования в фэшн-компаниях (KA1.4.1.2)// Ирина Балицкая",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1148"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Ценообразование в премиальных брендах, опыт The Row (KA1.4.2.1)// Рената Дорофеева, видео",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1507"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Как привлечь инвестиции в фэшн-проект: работа и документы для инвестора, видео",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1269"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Как подготовиться к встрече с потенциальным инвестором, видео",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1425"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Регистрация бизнеса и договоры / юридическое оформление фэшн-стартапа",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1325"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Юридические аспекты модного бизнеса // Анастасия Дорофеева, видео",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1312"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Лицензирование, ко-брендинг, франчайзинг (KA1.5.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/528"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Товарный знак и авторские права",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/238"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Защита авторских прав. Что делать с плагиатом?",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1330"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Сертификация и маркировка, видео",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1562"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Проверка контрагентов",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/407"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Юридические аспекты ресайкла и апсайкла",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/518"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Чек-лист документов для модного бренда: от регистрации до ВЭД",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3834"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Анализ продаж",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/236"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Как собирать аналитику по продажам и как с ней работать (KA1.6.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/588"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Анализ эффективности товарного ассортимента (ABC/XYZ)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/237"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Аналитика и план каналов и категорий XS, S",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2705"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Анализ конкурентов / обзор рынка марок разных сегментов",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1042"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Дашборды и отчётность",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2963"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Операционка и финансы при масштабировании регионального бренда // Максим Рябыкин",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1495"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Как бренду из России сегодня выйти на международный рынок // Рената Дорофеева",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1473"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Volchok: бизнес в эмиграции, открытие магазинов в Ереване и Алматы",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1202"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Krakatau: масштабироваться и производить в Китае",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1240"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Дизайнеры в эмиграции: как перенастроить внутренние бизнес-процессы (KA1.7.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1213"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Способы организации логистики для fashion (KA1.7.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1195"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Бэк-офис бренда: боты, CRM, Notion и другие IT-инструменты // Артём Глебов",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1403"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Как перенастроить бизнес-процессы: поиск эффективных решений (KA1.7.3)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1147"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Стратегии поведения на падающем рынке (KA1.7.4)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2323"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Стратегии развития модного бизнеса в кризис (KA1.7.4)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/586"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Сложности развития концептуальной марки в России и мире. Кейсы Fakoshima и Krakatau (KA1.7.5)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/123214"
+    },
+    {
+      "context": "Глава 1. Управление маркой (KA1)",
+      "text": "Трансформация бренда: риски, решения и оценка эффективности (KA1.7.5)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1040"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Материальный и нематериальный продукт бренда",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3916"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Бренд-религия: система идентичности бренда, культурный код, манифест и комьюнити",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3917"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Культурный код бренда, исследования и комьюнити",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3915"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Исследование, определение целевых аудиторий",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1503"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Роли в создании медиа-продукта",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2100"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Логотип, фирменные цвета, типографика",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/151"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Управление проектом съемки и чек-лист подготовки",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3518"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Введение в работу с fashion-видео",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/540"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Создание визуального контента с помощью ИИ",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3344"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Тон коммуникации (Tone of Voice) модного бренда",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/150"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Как правильно установить KPI для SMM",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2422"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Тренд-аналитика",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3421"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Управление цифровыми активами (DAM)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3918"
+    },
+    {
+      "context": "Глава 2. Медиа-продукт (KA2)",
+      "text": "Кейс Red September. Как вырастить из своего продукта объект желания",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2337"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Роли, создающие маркетинг и PR бренда (KA3.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2955"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Процессы и роли внутри маркетинга модного бренда",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2210"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Критерии оценки конкурентов",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/317"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Фокус-группа",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/153"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "SWOT-анализ",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/148"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Фрейм для фасилитационной сессии по разработке маркетинговой стратегии бренда",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3275"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Фрейм разработки маркетингового плана // Владимир Амлинский (KA3.2.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2842"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Маркетинговая стратегия в эпоху ИИ // Есения Пенкина (KA3.2.2.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2841"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Взаимосвязь маркетинговой стратегии с ценовым сегментом (KA3.2.2.2) // Ирина Кузеванова",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2220"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Создание маркетингового плана (KA3.2.3) // Мария Горобец",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2463"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Особенности и различия коммуникационной, SMM и контент-стратегий (KA3.2.4) // Наиля Асланова",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2415"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Коммуникационная стратегия",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/201"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Лестница теплоты трафика или пирамида Ханта // Елена Кагирова",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2974"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Системный SMM",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/295558"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Сторителлинг для фэшн проектов",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/527"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Прозрачность коммуникации",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/206"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "E-mail рассылка",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/202"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Юридические моменты цифрового маркетинга на 2025 год // Анастасия Иванова",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/2682"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Правила взаимодействия со СМИ",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/36"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Написание пресс-релиза",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/194"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Работа с инфлюэнсерами",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/199"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Марки и стилисты: какие форматы взаимодействия сейчас есть на рынке",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2456"
+    },
+    {
+      "context": "Глава 3. Индустрия влияния (KA3)",
+      "text": "Системный инфлюенс-маркетинг: инструменты, аналитика и отчетность",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3016"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Роли, участвующие в процессе производства (KA4.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2976"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Создание концепции коллекции (KA4.2.1.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2048"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "От эскиза до технического рисунка (KA4.2.1.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/174"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Разработка изделий для производства (KA4.2.1.3)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/173"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Производственный цикл для брендов S (KA4.2.1.4)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/176"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Планирование ассортиментной матрицы (KA4.2.1.5)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/530"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Построение ассортиментной матрицы в сегменте middle up // Надежда Черданцева (KA4.2.1.7)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1551"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Расход ткани (KA4.2.1.6)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/178"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Создание принтов и дизайн тканей (KA4.2.1.8)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/517"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Разработка базовой конструкции (базового лекала) // Ольга Грассер (KA4.2.2.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/534"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Как создать комплект лекал для производства (KA4.2.2.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/283"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Контроль качества (KA4.2.2.4)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/180"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Лейблы и этикетки (KA4.2.2.5)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/175"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "ГОСТы швейной отрасли (KA4.2.2.6)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1290"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Техзадание для зарубежной фабрики // Елена Бондаренко (KA4.2.2.7)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1439"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Как составить грамотное ТЗ для конструктора // Ольга Родькина (KA4.2.2.8)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1612"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Как найти производство (KA4.2.3.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/177"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Measure: поиск производства в Турции (KA4.2.3.8)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1208"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Возможности производств в Турции (KA4.2.3.10)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1241"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Как настроить работу с турецкими производствами // Татьяна Минковская (KA4.2.3.11)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1611"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Где покупать ткани (KA4.2.3.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/181"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Закупка тканей в Италии и текстильные тренды (KA4.2.3.12)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1408"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Печать на ткани // Kunjut (KA4.2.3.13)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1464"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Как работают с кожей в России сегодня (KA4.2.3.14)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1284"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "О производстве, эко-практиках (PLNB Jeans) (KA4.2.3.15)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1282"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Производство коллекции на аутсорсе (KA4.2.3.7)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1340"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Unit-экономика и калькулятор себестоимости (KA4.3.1.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2380"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Структура отдела продукта: роли и зоны ответственности (KA4.6.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2739"
+    },
+    {
+      "context": "Глава 4. Производство (KA4)",
+      "text": "Полезные списки и контакты (KA4.7)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3328"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Ценообразование (KA5.1.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/184"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Оценка воспринимаемой ценности (KA5.1.3)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/220"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Фреймворк: 4 типа покупателей (KA5.1.5)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/316"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Роли в продажах (KA5.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/209"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Стандарты продаж как способ повышения уровня сервиса (KA5.3.1.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2464"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Реестр документов для обучения персонала (KA5.3.1.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2453"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Обучение персонала как способ увеличения продаж (KA5.3.1.3)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/2435"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Планировка торгового зала (KA5.3.2.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/213"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Оснащение примерочных (KA5.3.2.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/214"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Мерчандайзинг (KA5.3.3)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/215"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Средства визуального мерчандайзинга (KA5.3.3.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/529"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Дизайн-проект интерьера магазина (KA5.3.4)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1172"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Временные форматы: поп-ап, маркет, сэмпл-сейл (KA5.3.5)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/212"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Стимулирование продаж (KA5.3.6)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/222"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Маркетинговые инструменты увеличения продаж (KA5.3.6.1)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1511"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Политика возвратов (KA5.3.7)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/223"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Инвентаризация (KA5.3.8)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/225"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Получение обратной связи (KA5.3.9)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/226"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Создание интернет-магазина (KA5.4.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/210"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Инструменты онлайн-маркетинга (KA5.4.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/531"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Оптимизация сайта под ИИ-запросы (KA5.4.2.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3343"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Как презентовать бренд байеру? Компани-профайл (KA5.5.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1143"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Как презентовать бренд байеру? Ошибки в составлении компани-профайла (KA5.5.2)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1112"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Участие в шоурумах (KA5.5.3)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/182"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Как оформить лайншит (шаблоны) (KA5.5.4)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/1132"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Участие в отраслевых выставках (KA5.5.5)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/183"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Работа с ритейлерами (KA5.5.6)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/187"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Как попасть в мультибренд глазами байеров (KA5.5.6.1)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1570"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Презентация для байера: компани-профайл и лайншит (KA5.5.6.2)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1563"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Как понравиться байеру, ассортимент для шоурума (KA5.5.6.3)",
+      "type": "event",
+      "url": "https://alliance.beinopen.ru/event/1262"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Оформление сделки (KA5.5.7)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/185"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "White label, работа по лицензии и франчайзинг (KA5.5.8)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/188"
+    },
+    {
+      "context": "Глава 5. Продажи (KA5)",
+      "text": "Полезные тг-каналы о ритейле и продажах (KA5.8.1)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/132"
+    },
+    {
+      "context": "Глава 6. Навигатор сообщества (KA6)",
+      "text": "Присоединяйтесь к Акселератору, запросите тестовый месяц",
+      "type": "docs",
+      "url": "https://alliance.beinopen.ru/docs/3027"
+    },
+    {
+      "context": "Глава 6. Навигатор сообщества (KA6)",
+      "text": "Тут траектории, которые были получены из исследований",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/3308"
+    },
+    {
+      "context": "Глава 6. Навигатор сообщества (KA6)",
+      "text": "реальных кейсов и тракеторий участников Акселератора",
+      "type": "docs",
+      "url": "https://alliance.beinopen.ru/docs/3028"
+    }
+  ],
+  "total": 165
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alliance Resident Workspace"
+  short_description: "Set up resident AI workspaces"
+  default_prompt: "Use $alliance-resident-workspace to set up a safe AI-assisted workspace for an Alliance resident."
