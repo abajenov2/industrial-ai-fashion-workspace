@@ -53,8 +53,8 @@ $LibraryTarget = Join-Path $TargetPath "03_Библиотека_роли/01_От
 $SkillTarget = Join-Path $TargetPath "09_Скиллы_для_Codex/alliance-resident-workspace"
 New-Item -ItemType Directory -Path (Split-Path -Parent $LibraryTarget) -Force | Out-Null
 New-Item -ItemType Directory -Path (Split-Path -Parent $SkillTarget) -Force | Out-Null
-Copy-Item -LiteralPath (Join-Path $RepoRoot "knowledge-base") -Destination $LibraryTarget -Recurse -Force
-Copy-Item -LiteralPath (Join-Path $RepoRoot "skills/alliance-resident-workspace") -Destination $SkillTarget -Recurse -Force
+Copy-DirectoryContents (Join-Path $RepoRoot "knowledge-base") $LibraryTarget
+Copy-DirectoryContents (Join-Path $RepoRoot "skills/alliance-resident-workspace") $SkillTarget
 
 Write-Host "Workspace installed: $TargetPath"
 Write-Host "Type: $RoleTemplate"
