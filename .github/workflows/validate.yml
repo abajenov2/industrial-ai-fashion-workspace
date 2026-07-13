@@ -9,6 +9,7 @@ jobs:
   linux-install:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         type: [brand, expert, factory, architect]
     steps:
@@ -25,6 +26,7 @@ jobs:
   windows-install:
     runs-on: windows-latest
     strategy:
+      fail-fast: false
       matrix:
         type: [brand, expert, factory, architect]
     steps:
@@ -33,7 +35,7 @@ jobs:
         shell: powershell
         run: .\install.ps1 -Type "${{ matrix.type }}" -Target "$env:RUNNER_TEMP\${{ matrix.type }}-workspace"
       - name: Check required files
-        shell: powershell
+        shell: pwsh
         run: |
           $Root = "$env:RUNNER_TEMP\${{ matrix.type }}-workspace"
           if (-not (Test-Path -LiteralPath "$Root\AGENTS.md")) { throw "AGENTS.md is missing" }
