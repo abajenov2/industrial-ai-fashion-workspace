@@ -1,0 +1,42 @@
+name: Validate workspace installers
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  linux-install:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        type: [brand, expert, factory, architect]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install workspace
+        run: bash install.sh "${{ matrix.type }}" "$RUNNER_TEMP/${{ matrix.type }}-workspace"
+      - name: Check required files
+        run: |
+          test -f "$RUNNER_TEMP/${{ matrix.type }}-workspace/AGENTS.md"
+          test -f "$RUNNER_TEMP/${{ matrix.type }}-workspace/00_Паспорт_рабочего_места/Паспорт_рабочего_места.md"
+          test -f "$RUNNER_TEMP/${{ matrix.type }}-workspace/03_Библиотека_роли/01_Открытый_стандарт/Свод_знаний_репозиторий/VERSION.json"
+          test -f "$RUNNER_TEMP/${{ matrix.type }}-workspace/03_Библиотека_роли/01_Открытый_стандарт/Свод_знаний_репозиторий/Статьи/KA1/003_KA1.2_post-3869.md"
+
+  windows-install:
+    runs-on: windows-latest
+    strategy:
+      matrix:
+        type: [brand, expert, factory, architect]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install workspace
+        shell: powershell
+        run: .\install.ps1 -Type "${{ matrix.type }}" -Target "$env:RUNNER_TEMP\${{ matrix.type }}-workspace"
+      - name: Check required files
+        shell: powershell
+        run: |
+          $Root = "$env:RUNNER_TEMP\${{ matrix.type }}-workspace"
+          if (-not (Test-Path -LiteralPath "$Root\AGENTS.md")) { throw "AGENTS.md is missing" }
+          if (-not (Test-Path -LiteralPath "$Root\00_Паспорт_рабочего_места\Паспорт_рабочего_места.md")) { throw "Passport is missing" }
+          if (-not (Test-Path -LiteralPath "$Root\03_Библиотека_роли\01_Открытый_стандарт\Свод_знаний_репозиторий\VERSION.json")) { throw "Knowledge Base is missing" }
+          if (-not (Test-Path -LiteralPath "$Root\03_Библиотека_роли\01_Открытый_стандарт\Свод_знаний_репозиторий\Статьи\KA1\003_KA1.2_post-3869.md")) { throw "KA1.2 is missing" }
