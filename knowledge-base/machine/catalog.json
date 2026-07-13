@@ -15,6 +15,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Общее/001_post-2109.md",
     "authors": [
       {
@@ -47,6 +49,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Общее/002_post-1738.md",
     "authors": [
       {
@@ -79,6 +83,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Общее/003_post-1894.md",
     "authors": [
       {
@@ -119,6 +125,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Общее/004_post-3023.md",
     "authors": [
       {
@@ -159,6 +167,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Общее/005_post-2097.md",
     "authors": [
       {
@@ -183,6 +193,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Общее/006_post-1423.md",
     "authors": [
       {
@@ -239,6 +251,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Общее/007_post-2997.md",
     "authors": [
       {
@@ -274,6 +288,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Введение/001_post-3775.md",
     "authors": [
       {
@@ -298,6 +314,8 @@
     "hierarchy_depth": 0,
     "parent_ka": "",
     "node_type": "material",
+    "canonical_index": "",
+    "canonical_sequence": null,
     "local_file": "Статьи/Теория/001_post-3815.md",
     "authors": [
       {
@@ -356,6 +374,8 @@
     "hierarchy_depth": 2,
     "parent_ka": "KA1",
     "node_type": "section",
+    "canonical_index": "KA1.0",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/001_KA1.0_post-3795.md",
     "authors": [
       {
@@ -386,6 +406,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.1",
     "node_type": "article",
+    "canonical_index": "KA1.1.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/002_KA1.1.1_post-2743.md",
     "authors": [
       {
@@ -412,6 +434,8 @@
     "hierarchy_depth": 2,
     "parent_ka": "KA1",
     "node_type": "section",
+    "canonical_index": "KA1.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/003_KA1.2_post-3869.md",
     "authors": [
       {
@@ -442,6 +466,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.3",
     "node_type": "article",
+    "canonical_index": "KA1.3.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/004_KA1.3.1_post-168.md",
     "authors": [
       {
@@ -468,6 +494,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.3",
     "node_type": "article",
+    "canonical_index": "KA1.3.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/005_KA1.3.2_post-230.md",
     "authors": [
       {
@@ -494,6 +522,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA1.3.2",
     "node_type": "article",
+    "canonical_index": "KA1.3.2.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/006_KA1.3.2.1_post-2121.md",
     "authors": [
       {
@@ -520,6 +550,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA1.3.2",
     "node_type": "article",
+    "canonical_index": "KA1.3.2.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/007_KA1.3.2.2_post-231.md",
     "authors": [
       {
@@ -546,6 +578,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.3",
     "node_type": "article",
+    "canonical_index": "KA1.3.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/008_KA1.3.3_post-229.md",
     "authors": [
       {
@@ -572,6 +606,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.3",
     "node_type": "article",
+    "canonical_index": "KA1.3.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/009_KA1.3.4_post-265.md",
     "authors": [
       {
@@ -598,6 +634,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA1.4.1",
     "node_type": "article",
+    "canonical_index": "KA1.4.1.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/010_KA1.4.1.2_post-1148.md",
     "authors": [
       {
@@ -625,6 +663,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.5",
     "node_type": "article",
+    "canonical_index": "KA1.5.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/011_KA1.5.1_post-1325.md",
     "authors": [
       {
@@ -655,6 +695,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.5",
     "node_type": "article",
+    "canonical_index": "KA1.5.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/012_KA1.5.1_post-528.md",
     "authors": [
       {
@@ -681,6 +723,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.5",
     "node_type": "article",
+    "canonical_index": "KA1.5.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/013_KA1.5.2_post-238.md",
     "authors": [
       {
@@ -707,6 +751,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA1.5.2",
     "node_type": "article",
+    "canonical_index": "KA1.5.2.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/014_KA1.5.2.1_post-1330.md",
     "authors": [
       {
@@ -737,6 +783,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.5",
     "node_type": "article",
+    "canonical_index": "KA1.5.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/015_KA1.5.4_post-407.md",
     "authors": [
       {
@@ -763,6 +811,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.5",
     "node_type": "article",
+    "canonical_index": "KA1.5.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/016_KA1.5.5_post-518.md",
     "authors": [
       {
@@ -789,6 +839,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.5",
     "node_type": "article",
+    "canonical_index": "KA1.5.7",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/017_KA1.5.7_post-3834.md",
     "authors": [
       {
@@ -815,6 +867,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.6",
     "node_type": "article",
+    "canonical_index": "KA1.6.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/018_KA1.6.1_post-236.md",
     "authors": [
       {
@@ -841,6 +895,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.6",
     "node_type": "article",
+    "canonical_index": "KA1.6.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/019_KA1.6.1_post-588.md",
     "authors": [
       {
@@ -867,6 +923,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.6",
     "node_type": "article",
+    "canonical_index": "KA1.6.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/020_KA1.6.2_post-237.md",
     "authors": [
       {
@@ -893,6 +951,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA1.6.2",
     "node_type": "article",
+    "canonical_index": "KA1.6.2.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/021_KA1.6.2.1_post-2705.md",
     "authors": [
       {
@@ -919,6 +979,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.6",
     "node_type": "article",
+    "canonical_index": "KA1.6.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/022_KA1.6.3_post-1042.md",
     "authors": [
       {
@@ -957,6 +1019,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.6",
     "node_type": "article",
+    "canonical_index": "KA1.6.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/023_KA1.6.4_post-2963.md",
     "authors": [
       {
@@ -987,6 +1051,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.7",
     "node_type": "article",
+    "canonical_index": "KA1.7.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/024_KA1.7.2_post-1213.md",
     "authors": [
       {
@@ -1017,6 +1083,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.7",
     "node_type": "article",
+    "canonical_index": "KA1.7.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/025_KA1.7.2_post-1195.md",
     "authors": [
       {
@@ -1043,6 +1111,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.7",
     "node_type": "article",
+    "canonical_index": "KA1.7.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/026_KA1.7.3_post-1147.md",
     "authors": [
       {
@@ -1069,6 +1139,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.7",
     "node_type": "article",
+    "canonical_index": "KA1.7.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/027_KA1.7.4_post-2323.md",
     "authors": [
       {
@@ -1095,6 +1167,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.7",
     "node_type": "article",
+    "canonical_index": "KA1.7.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/028_KA1.7.4_post-586.md",
     "authors": [
       {
@@ -1121,6 +1195,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.7",
     "node_type": "article",
+    "canonical_index": "KA1.7.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/029_KA1.7.5_post-123214.md",
     "authors": [
       {
@@ -1147,6 +1223,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA1.7",
     "node_type": "article",
+    "canonical_index": "KA1.7.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA1/030_KA1.7.5_post-1040.md",
     "authors": [
       {
@@ -1181,6 +1259,8 @@
     "hierarchy_depth": 2,
     "parent_ka": "KA2",
     "node_type": "section",
+    "canonical_index": "KA2.0",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/001_KA2.0_post-3916.md",
     "authors": [
       {
@@ -1207,6 +1287,8 @@
     "hierarchy_depth": 2,
     "parent_ka": "KA2",
     "node_type": "section",
+    "canonical_index": "KA2.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/002_KA2.1_post-3917.md",
     "authors": [
       {
@@ -1233,6 +1315,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.1",
     "node_type": "article",
+    "canonical_index": "KA2.1.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/003_KA2.1.1_post-3915.md",
     "authors": [
       {
@@ -1265,6 +1349,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.1",
     "node_type": "article",
+    "canonical_index": "KA2.1.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/004_KA2.1.2_post-1503.md",
     "authors": [
       {
@@ -1292,6 +1378,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.1",
     "node_type": "article",
+    "canonical_index": "KA2.1.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/005_KA2.1.3_post-2100.md",
     "authors": [
       {
@@ -1322,6 +1410,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.2",
     "node_type": "article",
+    "canonical_index": "KA2.2.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/006_KA2.2.1_post-151.md",
     "authors": [
       {
@@ -1348,6 +1438,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.2",
     "node_type": "article",
+    "canonical_index": "KA2.2.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/007_KA2.2.3_post-3518.md",
     "authors": [
       {
@@ -1374,6 +1466,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.2",
     "node_type": "article",
+    "canonical_index": "KA2.2.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/008_KA2.2.4_post-540.md",
     "authors": [
       {
@@ -1400,6 +1494,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.2",
     "node_type": "article",
+    "canonical_index": "KA2.2.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/009_KA2.2.5_post-3344.md",
     "authors": [
       {
@@ -1426,6 +1522,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.3",
     "node_type": "article",
+    "canonical_index": "KA2.3.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/010_KA2.3.1_post-150.md",
     "authors": [
       {
@@ -1452,6 +1550,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.4",
     "node_type": "article",
+    "canonical_index": "KA2.4.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/011_KA2.4.1_post-2422.md",
     "authors": [
       {
@@ -1478,6 +1578,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA2.4",
     "node_type": "article",
+    "canonical_index": "KA2.4.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/012_KA2.4.2_post-3421.md",
     "authors": [
       {
@@ -1504,6 +1606,8 @@
     "hierarchy_depth": 2,
     "parent_ka": "KA2",
     "node_type": "section",
+    "canonical_index": "KA2.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/013_KA2.5_post-3918.md",
     "authors": [
       {
@@ -1528,6 +1632,8 @@
     "hierarchy_depth": 1,
     "parent_ka": "",
     "node_type": "chapter",
+    "canonical_index": "KA2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA2/014_KA2_post-2337.md",
     "authors": [
       {
@@ -1555,6 +1661,8 @@
     "hierarchy_depth": 1,
     "parent_ka": "",
     "node_type": "chapter",
+    "canonical_index": "KA3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/001_KA3_post-2955.md",
     "authors": [
       {
@@ -1581,6 +1689,8 @@
     "hierarchy_depth": 2,
     "parent_ka": "KA3",
     "node_type": "section",
+    "canonical_index": "KA3.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/002_KA3.1_post-2210.md",
     "authors": [
       {
@@ -1607,6 +1717,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.1",
     "node_type": "article",
+    "canonical_index": "KA3.2.1.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/003_KA3.2.1.1_post-317.md",
     "authors": [
       {
@@ -1633,6 +1745,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.1",
     "node_type": "article",
+    "canonical_index": "KA3.2.1.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/004_KA3.2.1.2_post-153.md",
     "authors": [
       {
@@ -1659,6 +1773,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.1",
     "node_type": "article",
+    "canonical_index": "KA3.2.1.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/005_KA3.2.1.3_post-148.md",
     "authors": [
       {
@@ -1685,6 +1801,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.1",
     "node_type": "article",
+    "canonical_index": "KA3.2.1.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/006_KA3.2.1.4_post-3275.md",
     "authors": [
       {
@@ -1715,6 +1833,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.2",
     "node_type": "article",
+    "canonical_index": "KA3.2.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/007_KA3.2.2_post-2842.md",
     "authors": [
       {
@@ -1741,6 +1861,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.2",
     "node_type": "article",
+    "canonical_index": "KA3.2.2.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/008_KA3.2.2.1_post-2841.md",
     "authors": [
       {
@@ -1767,6 +1889,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.2",
     "node_type": "article",
+    "canonical_index": "KA3.2.2.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/009_KA3.2.2.2_post-2220.md",
     "authors": [
       {
@@ -1793,6 +1917,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.2",
     "node_type": "article",
+    "canonical_index": "KA3.2.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/010_KA3.2.3_post-2463.md",
     "authors": [
       {
@@ -1823,6 +1949,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.2",
     "node_type": "article",
+    "canonical_index": "KA3.2.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/011_KA3.2.4_post-2415.md",
     "authors": [
       {
@@ -1849,6 +1977,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.2",
     "node_type": "article",
+    "canonical_index": "KA3.2.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/012_KA3.2.5_post-201.md",
     "authors": [
       {
@@ -1879,6 +2009,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.2",
     "node_type": "article",
+    "canonical_index": "KA3.2.6",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/013_KA3.2.6_post-2974.md",
     "authors": [
       {
@@ -1905,6 +2037,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.8",
     "node_type": "article",
+    "canonical_index": "KA3.2.8.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/014_KA3.2.8.2_post-527.md",
     "authors": [
       {
@@ -1935,6 +2069,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.8",
     "node_type": "article",
+    "canonical_index": "KA3.2.8.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/015_KA3.2.8.3_post-206.md",
     "authors": [
       {
@@ -1965,6 +2101,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.2.8",
     "node_type": "article",
+    "canonical_index": "KA3.2.8.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/016_KA3.2.8.4_post-202.md",
     "authors": [
       {
@@ -1991,6 +2129,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.3",
     "node_type": "article",
+    "canonical_index": "KA3.3.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/017_KA3.3.1_post-36.md",
     "authors": [
       {
@@ -2017,6 +2157,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.3",
     "node_type": "article",
+    "canonical_index": "KA3.3.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/018_KA3.3.2_post-194.md",
     "authors": [
       {
@@ -2047,6 +2189,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.3",
     "node_type": "article",
+    "canonical_index": "KA3.3.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/019_KA3.3.3_post-199.md",
     "authors": [
       {
@@ -2073,6 +2217,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA3.3.3",
     "node_type": "article",
+    "canonical_index": "KA3.3.3.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/020_KA3.3.3.1_post-2456.md",
     "authors": [
       {
@@ -2107,6 +2253,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA3.3",
     "node_type": "article",
+    "canonical_index": "KA3.3.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA3/021_KA3.3.4_post-3016.md",
     "authors": [
       {
@@ -2116,106 +2264,142 @@
     ]
   },
   {
-    "id": "2976",
+    "id": "393587",
     "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "Роли в процессе производства (KA4.1)",
-    "source_url": "https://alliance.beinopen.ru/post/2976/",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Отраслевые стандарты и путь материального продукта (KA4.0.1)",
+    "source_url": "https://alliance.beinopen.ru/post/393587/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 1,
     "source_order": 75,
     "ka_codes": [
-      "KA4.1"
+      "KA4.0.1"
     ],
-    "primary_ka": "KA4.1",
-    "hierarchy_depth": 2,
-    "parent_ka": "KA4",
-    "node_type": "section",
-    "local_file": "Статьи/KA4/001_KA4.1_post-2976.md",
+    "primary_ka": "KA4.0.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.0",
+    "node_type": "article",
+    "canonical_index": "KA4.0.1",
+    "canonical_sequence": 0,
+    "local_file": "Статьи/KA4/001_KA4.0.1_post-393587.md",
     "authors": [
       {
-        "name": "Максим Муратов",
-        "profile_url": "https://alliance.beinopen.ru/user/muratov"
+        "name": "Алла Старостина",
+        "profile_url": "https://alliance.beinopen.ru/user/allatex71/"
       }
     ]
   },
   {
-    "id": "2048",
+    "id": "3940",
     "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "Концепция коллекции и корректировка визуальных материалов (кампейны, лукбуки, мудборды, соцсети) (KA4.2.1.1)",
-    "source_url": "https://alliance.beinopen.ru/post/2048/",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Функция продакт-менеджмента и структура отдела продукта (KA4.0.2)",
+    "source_url": "https://alliance.beinopen.ru/post/3940/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 2,
     "source_order": 76,
     "ka_codes": [
-      "KA4.2.1.1"
+      "KA4.0.2"
     ],
-    "primary_ka": "KA4.2.1.1",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.1",
+    "primary_ka": "KA4.0.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.0",
     "node_type": "article",
-    "local_file": "Статьи/KA4/002_KA4.2.1.1_post-2048.md",
+    "canonical_index": "KA4.0.2",
+    "canonical_sequence": 1,
+    "local_file": "Статьи/KA4/002_KA4.0.2_post-3940.md",
     "authors": [
       {
-        "name": "Александра Чубарова",
-        "profile_url": "https://alliance.beinopen.ru/user/whatsashadid"
+        "name": "Влада Крылова",
+        "profile_url": "https://alliance.beinopen.ru/user/vladkrylova/"
       }
     ]
   },
   {
-    "id": "174",
+    "id": "2976",
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "От эскиза до технического рисунка (KA4.2.1.2)",
-    "source_url": "https://alliance.beinopen.ru/post/174/",
+    "title": "Роли бренда и фабрики в производственном контуре (KA4.0.3)",
+    "source_url": "https://alliance.beinopen.ru/post/2976/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 3,
     "source_order": 77,
     "ka_codes": [
-      "KA4.2.1.2"
+      "KA4.0.3"
     ],
-    "primary_ka": "KA4.2.1.2",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.1",
+    "primary_ka": "KA4.0.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.0",
     "node_type": "article",
-    "local_file": "Статьи/KA4/003_KA4.2.1.2_post-174.md",
+    "canonical_index": "KA4.0.3",
+    "canonical_sequence": 2,
+    "local_file": "Статьи/KA4/003_KA4.0.3_post-2976.md",
     "authors": [
       {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+        "name": "Екатерина Непочатых",
+        "profile_url": "https://alliance.beinopen.ru/user/katerinanepo/"
       }
     ]
   },
   {
-    "id": "173",
+    "id": "3953",
     "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "Разработка изделий для производства",
-    "source_url": "https://alliance.beinopen.ru/post/173/",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "От мира к спецификациям: как ДНК бренда превращается в ТЗ (KA4.1.1)",
+    "source_url": "https://alliance.beinopen.ru/post/3953/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 4,
     "source_order": 78,
     "ka_codes": [
-      "KA4.2.1.3"
+      "KA4.1.1"
     ],
-    "primary_ka": "KA4.2.1.3",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.1",
+    "primary_ka": "KA4.1.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
     "node_type": "article",
-    "local_file": "Статьи/KA4/004_KA4.2.1.3_post-173.md",
+    "canonical_index": "KA4.1.1",
+    "canonical_sequence": 3,
+    "local_file": "Статьи/KA4/004_KA4.1.1_post-3953.md",
     "authors": [
       {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+        "name": "Есения Пенкина",
+        "profile_url": "https://alliance.beinopen.ru/user/Essenya/"
+      }
+    ]
+  },
+  {
+    "id": "3957",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Жизненный цикл продукта и производственный календарь (KA4.1.2)",
+    "source_url": "https://alliance.beinopen.ru/post/3957/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 5,
+    "source_order": 79,
+    "ka_codes": [
+      "KA4.1.2"
+    ],
+    "primary_ka": "KA4.1.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
+    "node_type": "article",
+    "canonical_index": "KA4.1.2",
+    "canonical_sequence": 4,
+    "local_file": "Статьи/KA4/005_KA4.1.2_post-3957.md",
+    "authors": [
+      {
+        "name": "Виктория Бондаренко",
+        "profile_url": "https://alliance.beinopen.ru/user/vichkabond/"
       }
     ]
   },
@@ -2224,24 +2408,49 @@
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "Производственный цикл для брендов S",
+    "title": "Производственный цикл для брендов стадии S (KA4.1.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/176/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
-    "outline_order": 5,
-    "source_order": 79,
+    "outline_order": 6,
+    "source_order": 80,
     "ka_codes": [
-      "KA4.2.1.4"
+      "KA4.1.2.1"
     ],
-    "primary_ka": "KA4.2.1.4",
+    "primary_ka": "KA4.1.2.1",
     "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.1",
+    "parent_ka": "KA4.1.2",
     "node_type": "article",
-    "local_file": "Статьи/KA4/005_KA4.2.1.4_post-176.md",
+    "canonical_index": "KA4.1.2.1",
+    "canonical_sequence": 5,
+    "local_file": "Статьи/KA4/006_KA4.1.2.1_post-176.md",
+    "authors": []
+  },
+  {
+    "id": "3966",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Ассортиментная матрица и запуск сезонной разработки (KA4.1.3)",
+    "source_url": "https://alliance.beinopen.ru/post/3966/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 7,
+    "source_order": 81,
+    "ka_codes": [
+      "KA4.1.3"
+    ],
+    "primary_ka": "KA4.1.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
+    "node_type": "article",
+    "canonical_index": "KA4.1.3",
+    "canonical_sequence": 6,
+    "local_file": "Статьи/KA4/007_KA4.1.3_post-3966.md",
     "authors": [
       {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+        "name": "Екатерина Ткачук",
+        "profile_url": "https://alliance.beinopen.ru/user/Katerina_T/"
       }
     ]
   },
@@ -2250,76 +2459,72 @@
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "Планирование ассортиментной матрицы // Татьяна Лавренова (KA4.2.1.5)",
+    "title": "Планирование ассортиментной матрицы: базовая версия (KA4.1.3.1)",
     "source_url": "https://alliance.beinopen.ru/post/530/",
-    "source_context": "Глава 4. Производство (KA4)",
-    "chapter": "KA4",
-    "outline_order": 6,
-    "source_order": 80,
-    "ka_codes": [
-      "KA4.2.1.5"
-    ],
-    "primary_ka": "KA4.2.1.5",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.1",
-    "node_type": "article",
-    "local_file": "Статьи/KA4/006_KA4.2.1.5_post-530.md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
-  },
-  {
-    "id": "178",
-    "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "Расход ткани (KA4.2.1.6)",
-    "source_url": "https://alliance.beinopen.ru/post/178/",
-    "source_context": "Глава 4. Производство (KA4)",
-    "chapter": "KA4",
-    "outline_order": 7,
-    "source_order": 81,
-    "ka_codes": [
-      "KA4.2.1.6"
-    ],
-    "primary_ka": "KA4.2.1.6",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.1",
-    "node_type": "article",
-    "local_file": "Статьи/KA4/007_KA4.2.1.6_post-178.md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
-  },
-  {
-    "id": "517",
-    "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "Создание принтов и дизайн тканей (примеры российских брендов) (KA4.2.1.8)",
-    "source_url": "https://alliance.beinopen.ru/post/517/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 8,
     "source_order": 82,
     "ka_codes": [
-      "KA4.2.1.8"
+      "KA4.1.3.1"
     ],
-    "primary_ka": "KA4.2.1.8",
+    "primary_ka": "KA4.1.3.1",
     "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.1",
+    "parent_ka": "KA4.1.3",
     "node_type": "article",
-    "local_file": "Статьи/KA4/008_KA4.2.1.8_post-517.md",
+    "canonical_index": "KA4.1.3.1",
+    "canonical_sequence": 7,
+    "local_file": "Статьи/KA4/008_KA4.1.3.1_post-530.md",
+    "authors": []
+  },
+  {
+    "id": "174",
+    "artifact_type": "knowledge_article",
+    "access": "public",
+    "mirror_mode": "full",
+    "title": "От эскиза до технического рисунка (KA4.1.4)",
+    "source_url": "https://alliance.beinopen.ru/post/174/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 9,
+    "source_order": 83,
+    "ka_codes": [
+      "KA4.1.4"
+    ],
+    "primary_ka": "KA4.1.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
+    "node_type": "article",
+    "canonical_index": "KA4.1.4",
+    "canonical_sequence": 8,
+    "local_file": "Статьи/KA4/009_KA4.1.4_post-174.md",
+    "authors": []
+  },
+  {
+    "id": "3941",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Размерная типология, роль конструктора и ТЗ на лекала (KA4.1.5)",
+    "source_url": "https://alliance.beinopen.ru/post/3941/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 10,
+    "source_order": 84,
+    "ka_codes": [
+      "KA4.1.5"
+    ],
+    "primary_ka": "KA4.1.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
+    "node_type": "article",
+    "canonical_index": "KA4.1.5",
+    "canonical_sequence": 9,
+    "local_file": "Статьи/KA4/010_KA4.1.5_post-3941.md",
     "authors": [
       {
-        "name": "Максим Муратов",
-        "profile_url": "https://alliance.beinopen.ru/user/muratov"
+        "name": "Мария Шевченко",
+        "profile_url": "https://alliance.beinopen.ru/user/MariaShe/"
       }
     ]
   },
@@ -2328,128 +2533,426 @@
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "Основные стадии проектирования одежды с целью оптимизации производства // Ольга Грассер (KA4.2.2.1)",
+    "title": "Разработка базовой конструкции (KA4.1.6)",
     "source_url": "https://alliance.beinopen.ru/post/534/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
-    "outline_order": 9,
-    "source_order": 83,
+    "outline_order": 11,
+    "source_order": 85,
     "ka_codes": [
-      "KA4.2.2.1"
+      "KA4.1.6"
     ],
-    "primary_ka": "KA4.2.2.1",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.2",
+    "primary_ka": "KA4.1.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
     "node_type": "article",
-    "local_file": "Статьи/KA4/009_KA4.2.2.1_post-534.md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
+    "canonical_index": "KA4.1.6",
+    "canonical_sequence": 10,
+    "local_file": "Статьи/KA4/011_KA4.1.6_post-534.md",
+    "authors": []
   },
   {
     "id": "283",
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "Как создать комплект лекал для производства (KA4.2.2.2)",
+    "title": "Комплект лекал для производства (KA4.1.7)",
     "source_url": "https://alliance.beinopen.ru/post/283/",
-    "source_context": "Глава 4. Производство (KA4)",
-    "chapter": "KA4",
-    "outline_order": 10,
-    "source_order": 84,
-    "ka_codes": [
-      "KA4.2.2.2"
-    ],
-    "primary_ka": "KA4.2.2.2",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.2",
-    "node_type": "article",
-    "local_file": "Статьи/KA4/010_KA4.2.2.2_post-283.md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
-  },
-  {
-    "id": "180",
-    "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "Контроль качества (KA4.2.2.4)",
-    "source_url": "https://alliance.beinopen.ru/post/180/",
-    "source_context": "Глава 4. Производство (KA4)",
-    "chapter": "KA4",
-    "outline_order": 11,
-    "source_order": 85,
-    "ka_codes": [
-      "KA4.2.2.4"
-    ],
-    "primary_ka": "KA4.2.2.4",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.2",
-    "node_type": "article",
-    "local_file": "Статьи/KA4/011_KA4.2.2.4_post-180.md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
-  },
-  {
-    "id": "175",
-    "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "Лейблы и этикетки (KA4.2.2.5)",
-    "source_url": "https://alliance.beinopen.ru/post/175/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 12,
     "source_order": 86,
     "ka_codes": [
-      "KA4.2.2.5"
+      "KA4.1.7"
     ],
-    "primary_ka": "KA4.2.2.5",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.2",
+    "primary_ka": "KA4.1.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
     "node_type": "article",
-    "local_file": "Статьи/KA4/012_KA4.2.2.5_post-175.md",
-    "authors": [
-      {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      }
-    ]
+    "canonical_index": "KA4.1.7",
+    "canonical_sequence": 11,
+    "local_file": "Статьи/KA4/012_KA4.1.7_post-283.md",
+    "authors": []
   },
   {
-    "id": "1290",
+    "id": "173",
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "ГОСТы швейной отрасли (KA4.2.2.6)",
-    "source_url": "https://alliance.beinopen.ru/post/1290/",
+    "title": "Разработка изделия и комплект технической документации (KA4.1.8)",
+    "source_url": "https://alliance.beinopen.ru/post/173/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 13,
     "source_order": 87,
     "ka_codes": [
-      "KA4.2.2.6"
+      "KA4.1.8"
     ],
-    "primary_ka": "KA4.2.2.6",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.2",
+    "primary_ka": "KA4.1.8",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
     "node_type": "article",
-    "local_file": "Статьи/KA4/013_KA4.2.2.6_post-1290.md",
+    "canonical_index": "KA4.1.8",
+    "canonical_sequence": 12,
+    "local_file": "Статьи/KA4/013_KA4.1.8_post-173.md",
+    "authors": []
+  },
+  {
+    "id": "3962",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Экспериментальная разработка и утверждение образца (KA4.1.9)",
+    "source_url": "https://alliance.beinopen.ru/post/3962/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 14,
+    "source_order": 88,
+    "ka_codes": [
+      "KA4.1.9"
+    ],
+    "primary_ka": "KA4.1.9",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
+    "node_type": "article",
+    "canonical_index": "KA4.1.9",
+    "canonical_sequence": 13,
+    "local_file": "Статьи/KA4/014_KA4.1.9_post-3962.md",
     "authors": [
       {
-        "name": "Ольга Смирнова",
-        "profile_url": "https://alliance.beinopen.ru/user/funkyhelga"
+        "name": "Анна Иванова",
+        "profile_url": "https://alliance.beinopen.ru/user/Anna/"
+      }
+    ]
+  },
+  {
+    "id": "3963",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Команда экспериментальной разработки и экономика образца (KA4.1.10)",
+    "source_url": "https://alliance.beinopen.ru/post/3963/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 15,
+    "source_order": 89,
+    "ka_codes": [
+      "KA4.1.10"
+    ],
+    "primary_ka": "KA4.1.10",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
+    "node_type": "article",
+    "canonical_index": "KA4.1.10",
+    "canonical_sequence": 14,
+    "local_file": "Статьи/KA4/015_KA4.1.10_post-3963.md",
+    "authors": [
+      {
+        "name": "Анна Иванова",
+        "profile_url": "https://alliance.beinopen.ru/user/Anna/"
+      }
+    ]
+  },
+  {
+    "id": "3886",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Швейное производство как управляемая система (KA4.2.1)",
+    "source_url": "https://alliance.beinopen.ru/post/3886/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 17,
+    "source_order": 90,
+    "ka_codes": [
+      "KA4.2.1"
+    ],
+    "primary_ka": "KA4.2.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.1",
+    "canonical_sequence": 16,
+    "local_file": "Статьи/KA4/017_KA4.2.1_post-3886.md",
+    "authors": [
+      {
+        "name": "Екатерина Непочатых",
+        "profile_url": "https://alliance.beinopen.ru/user/katerinanepo/"
+      }
+    ]
+  },
+  {
+    "id": "3887",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Производственный процесс от заказа до отгрузки (KA4.2.2)",
+    "source_url": "https://alliance.beinopen.ru/post/3887/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 18,
+    "source_order": 91,
+    "ka_codes": [
+      "KA4.2.2"
+    ],
+    "primary_ka": "KA4.2.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.2",
+    "canonical_sequence": 17,
+    "local_file": "Статьи/KA4/018_KA4.2.2_post-3887.md",
+    "authors": [
+      {
+        "name": "Екатерина Непочатых",
+        "profile_url": "https://alliance.beinopen.ru/user/katerinanepo/"
+      }
+    ]
+  },
+  {
+    "id": "3944",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Типы производственных площадок и выбор схемы работы (KA4.2.3)",
+    "source_url": "https://alliance.beinopen.ru/post/3944/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 19,
+    "source_order": 92,
+    "ka_codes": [
+      "KA4.2.3"
+    ],
+    "primary_ka": "KA4.2.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.3",
+    "canonical_sequence": 18,
+    "local_file": "Статьи/KA4/019_KA4.2.3_post-3944.md",
+    "authors": [
+      {
+        "name": "Анна Иванова",
+        "profile_url": "https://alliance.beinopen.ru/user/Anna/"
+      }
+    ]
+  },
+  {
+    "id": "3888",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Структура производства, штат и функциональные роли (KA4.2.4)",
+    "source_url": "https://alliance.beinopen.ru/post/3888/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 20,
+    "source_order": 93,
+    "ka_codes": [
+      "KA4.2.4"
+    ],
+    "primary_ka": "KA4.2.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.4",
+    "canonical_sequence": 19,
+    "local_file": "Статьи/KA4/020_KA4.2.4_post-3888.md",
+    "authors": [
+      {
+        "name": "Екатерина Непочатых",
+        "profile_url": "https://alliance.beinopen.ru/user/katerinanepo/"
+      }
+    ]
+  },
+  {
+    "id": "3889",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Нормирование операций (KA4.2.9)",
+    "source_url": "https://alliance.beinopen.ru/post/3889/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 25,
+    "source_order": 94,
+    "ka_codes": [
+      "KA4.2.9"
+    ],
+    "primary_ka": "KA4.2.9",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.9",
+    "canonical_sequence": 24,
+    "local_file": "Статьи/KA4/025_KA4.2.9_post-3889.md",
+    "authors": [
+      {
+        "name": "Екатерина Непочатых",
+        "profile_url": "https://alliance.beinopen.ru/user/katerinanepo/"
+      }
+    ]
+  },
+  {
+    "id": "3890",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Разделение труда, балансировка потока и мотивация (KA4.2.10)",
+    "source_url": "https://alliance.beinopen.ru/post/3890/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 26,
+    "source_order": 95,
+    "ka_codes": [
+      "KA4.2.10"
+    ],
+    "primary_ka": "KA4.2.10",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.10",
+    "canonical_sequence": 25,
+    "local_file": "Статьи/KA4/026_KA4.2.10_post-3890.md",
+    "authors": []
+  },
+  {
+    "id": "3891",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Цифровые инструменты и ритм производственного потока (KA4.2.11)",
+    "source_url": "https://alliance.beinopen.ru/post/3891/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 27,
+    "source_order": 96,
+    "ka_codes": [
+      "KA4.2.11"
+    ],
+    "primary_ka": "KA4.2.11",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.11",
+    "canonical_sequence": 26,
+    "local_file": "Статьи/KA4/027_KA4.2.11_post-3891.md",
+    "authors": [
+      {
+        "name": "Константин Кривошеин",
+        "profile_url": "https://alliance.beinopen.ru/user/styloncomp/"
+      }
+    ]
+  },
+  {
+    "id": "3923",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Подготовка запуска партии (KA4.2.12)",
+    "source_url": "https://alliance.beinopen.ru/post/3923/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 28,
+    "source_order": 97,
+    "ka_codes": [
+      "KA4.2.12"
+    ],
+    "primary_ka": "KA4.2.12",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.12",
+    "canonical_sequence": 27,
+    "local_file": "Статьи/KA4/028_KA4.2.12_post-3923.md",
+    "authors": [
+      {
+        "name": "Константин Кривошеин",
+        "profile_url": "https://alliance.beinopen.ru/user/styloncomp/"
+      }
+    ]
+  },
+  {
+    "id": "3924",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Расчет заработной платы производственного персонала (KA4.2.13)",
+    "source_url": "https://alliance.beinopen.ru/post/3924/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 29,
+    "source_order": 98,
+    "ka_codes": [
+      "KA4.2.13"
+    ],
+    "primary_ka": "KA4.2.13",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.13",
+    "canonical_sequence": 28,
+    "local_file": "Статьи/KA4/029_KA4.2.13_post-3924.md",
+    "authors": [
+      {
+        "name": "Константин Кривошеин",
+        "profile_url": "https://alliance.beinopen.ru/user/styloncomp/"
+      }
+    ]
+  },
+  {
+    "id": "3929",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Команда, мотивация и контроль качества (KA4.2.14)",
+    "source_url": "https://alliance.beinopen.ru/post/3929/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 30,
+    "source_order": 99,
+    "ka_codes": [
+      "KA4.2.14"
+    ],
+    "primary_ka": "KA4.2.14",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.14",
+    "canonical_sequence": 29,
+    "local_file": "Статьи/KA4/030_KA4.2.14_post-3929.md",
+    "authors": [
+      {
+        "name": "Екатерина Непочатых",
+        "profile_url": "https://alliance.beinopen.ru/user/katerinanepo/"
+      }
+    ]
+  },
+  {
+    "id": "3926",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Работа фабрики с заказчиками и брендами (KA4.2.15)",
+    "source_url": "https://alliance.beinopen.ru/post/3926/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 31,
+    "source_order": 100,
+    "ka_codes": [
+      "KA4.2.15"
+    ],
+    "primary_ka": "KA4.2.15",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.15",
+    "canonical_sequence": 30,
+    "local_file": "Статьи/KA4/031_KA4.2.15_post-3926.md",
+    "authors": [
+      {
+        "name": "Наталия Устинова",
+        "profile_url": "https://alliance.beinopen.ru/user/natustinova/"
       }
     ]
   },
@@ -2458,24 +2961,49 @@
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "Как найти производство? (KA4.2.3.1)",
+    "title": "Поиск и первичная квалификация производства (KA4.3.1)",
     "source_url": "https://alliance.beinopen.ru/post/177/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
-    "outline_order": 14,
-    "source_order": 88,
+    "outline_order": 32,
+    "source_order": 101,
     "ka_codes": [
-      "KA4.2.3.1"
+      "KA4.3.1"
     ],
-    "primary_ka": "KA4.2.3.1",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.3",
+    "primary_ka": "KA4.3.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
     "node_type": "article",
-    "local_file": "Статьи/KA4/014_KA4.2.3.1_post-177.md",
+    "canonical_index": "KA4.3.1",
+    "canonical_sequence": 31,
+    "local_file": "Статьи/KA4/032_KA4.3.1_post-177.md",
+    "authors": []
+  },
+  {
+    "id": "3943",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Поиск поставщиков и управление закупками (KA4.3.2)",
+    "source_url": "https://alliance.beinopen.ru/post/3943/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 33,
+    "source_order": 102,
+    "ka_codes": [
+      "KA4.3.2"
+    ],
+    "primary_ka": "KA4.3.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.2",
+    "canonical_sequence": 32,
+    "local_file": "Статьи/KA4/033_KA4.3.2_post-3943.md",
     "authors": [
       {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+        "name": "Руслан Марков",
+        "profile_url": "https://alliance.beinopen.ru/user/markrus92/"
       }
     ]
   },
@@ -2484,24 +3012,49 @@
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "Где покупать ткани? Закупка сырья для коллекции (KA4.2.3.2)",
+    "title": "Где покупать ткани: базовая карта источников (KA4.3.2.1)",
     "source_url": "https://alliance.beinopen.ru/post/181/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
-    "outline_order": 15,
-    "source_order": 89,
+    "outline_order": 34,
+    "source_order": 103,
     "ka_codes": [
-      "KA4.2.3.2"
+      "KA4.3.2.1"
     ],
-    "primary_ka": "KA4.2.3.2",
+    "primary_ka": "KA4.3.2.1",
     "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.3",
+    "parent_ka": "KA4.3.2",
     "node_type": "article",
-    "local_file": "Статьи/KA4/015_KA4.2.3.2_post-181.md",
+    "canonical_index": "KA4.3.2.1",
+    "canonical_sequence": 33,
+    "local_file": "Статьи/KA4/034_KA4.3.2.1_post-181.md",
+    "authors": []
+  },
+  {
+    "id": "3945",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Давальческая схема, размещение заказа и ответственность (KA4.3.3)",
+    "source_url": "https://alliance.beinopen.ru/post/3945/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 35,
+    "source_order": 104,
+    "ka_codes": [
+      "KA4.3.3"
+    ],
+    "primary_ka": "KA4.3.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.3",
+    "canonical_sequence": 34,
+    "local_file": "Статьи/KA4/035_KA4.3.3_post-3945.md",
     "authors": [
       {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
+        "name": "Анна Иванова",
+        "profile_url": "https://alliance.beinopen.ru/user/Anna/"
       }
     ]
   },
@@ -2510,65 +3063,412 @@
     "artifact_type": "knowledge_article",
     "access": "public",
     "mirror_mode": "full",
-    "title": "Скрипт. Производство коллекции на аутсорсе (Турция, Китай) (KA4.2.3.7)",
+    "title": "Производство коллекции на аутсорсе (KA4.3.4)",
     "source_url": "https://alliance.beinopen.ru/post/1340/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
-    "outline_order": 16,
-    "source_order": 90,
+    "outline_order": 36,
+    "source_order": 105,
     "ka_codes": [
-      "KA4.2.3.7"
+      "KA4.3.4"
     ],
-    "primary_ka": "KA4.2.3.7",
-    "hierarchy_depth": 4,
-    "parent_ka": "KA4.2.3",
-    "node_type": "article",
-    "local_file": "Статьи/KA4/016_KA4.2.3.7_post-1340.md",
-    "authors": [
-      {
-        "name": "Ольга Смирнова",
-        "profile_url": "https://alliance.beinopen.ru/user/funkyhelga"
-      }
-    ]
-  },
-  {
-    "id": "2380",
-    "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "План продаж и обязательные метрики (KA4.3.1)",
-    "source_url": "https://alliance.beinopen.ru/post/2380/",
-    "source_context": "Глава 4. Производство (KA4)",
-    "chapter": "KA4",
-    "outline_order": 17,
-    "source_order": 91,
-    "ka_codes": [
-      "KA4.3.1",
-      "KA4.3.1.1"
-    ],
-    "primary_ka": "KA4.3.1",
+    "primary_ka": "KA4.3.4",
     "hierarchy_depth": 3,
     "parent_ka": "KA4.3",
     "node_type": "article",
-    "local_file": "Статьи/KA4/017_KA4.3.1_post-2380.md",
+    "canonical_index": "KA4.3.4",
+    "canonical_sequence": 35,
+    "local_file": "Статьи/KA4/036_KA4.3.4_post-1340.md",
     "authors": [
       {
-        "name": "Надежда Сачек",
-        "profile_url": "https://alliance.beinopen.ru/user/NAD_Sachek"
+        "name": "Ольга Смирнова",
+        "profile_url": "https://alliance.beinopen.ru/user/funkyhelga/"
       }
     ]
   },
   {
-    "id": "2739",
+    "id": "3965",
     "artifact_type": "knowledge_article",
     "access": "resident",
     "mirror_mode": "index_only_public_full_private",
-    "title": "Навигационная карта: компетенции, требования и карьерные треки продакт-менеджера в fashion (KA4.6.1) (DocKA4.HS.S.5)",
-    "source_url": "https://alliance.beinopen.ru/post/2739/",
+    "title": "Материалы как фактор управляемости: волокна и пряжа (KA4.3.5)",
+    "source_url": "https://alliance.beinopen.ru/post/3965/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
-    "outline_order": 18,
-    "source_order": 92,
+    "outline_order": 37,
+    "source_order": 106,
+    "ka_codes": [
+      "KA4.3.5"
+    ],
+    "primary_ka": "KA4.3.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.5",
+    "canonical_sequence": 36,
+    "local_file": "Статьи/KA4/037_KA4.3.5_post-3965.md",
+    "authors": [
+      {
+        "name": "Наталия Устинова",
+        "profile_url": "https://alliance.beinopen.ru/user/natustinova/"
+      }
+    ]
+  },
+  {
+    "id": "3967",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Химические волокна, состав и риски сырья (KA4.3.6)",
+    "source_url": "https://alliance.beinopen.ru/post/3967/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 38,
+    "source_order": 107,
+    "ka_codes": [
+      "KA4.3.6"
+    ],
+    "primary_ka": "KA4.3.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.6",
+    "canonical_sequence": 37,
+    "local_file": "Статьи/KA4/038_KA4.3.6_post-3967.md",
+    "authors": [
+      {
+        "name": "Наталия Устинова",
+        "profile_url": "https://alliance.beinopen.ru/user/natustinova/"
+      }
+    ]
+  },
+  {
+    "id": "3968",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Ткань, трикотаж, переплетения и свойства (KA4.3.7)",
+    "source_url": "https://alliance.beinopen.ru/post/3968/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 39,
+    "source_order": 108,
+    "ka_codes": [
+      "KA4.3.7"
+    ],
+    "primary_ka": "KA4.3.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.7",
+    "canonical_sequence": 38,
+    "local_file": "Статьи/KA4/039_KA4.3.7_post-3968.md",
+    "authors": [
+      {
+        "name": "Наталия Устинова",
+        "profile_url": "https://alliance.beinopen.ru/user/natustinova/"
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "artifact_type": "knowledge_article",
+    "access": "public",
+    "mirror_mode": "full",
+    "title": "Расход ткани (KA4.3.9)",
+    "source_url": "https://alliance.beinopen.ru/post/178/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 41,
+    "source_order": 109,
+    "ka_codes": [
+      "KA4.3.9"
+    ],
+    "primary_ka": "KA4.3.9",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.9",
+    "canonical_sequence": 40,
+    "local_file": "Статьи/KA4/041_KA4.3.9_post-178.md",
+    "authors": []
+  },
+  {
+    "id": "3970",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Конфекционная карта и себестоимость сырья (KA4.3.10)",
+    "source_url": "https://alliance.beinopen.ru/post/3970/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 42,
+    "source_order": 110,
+    "ka_codes": [
+      "KA4.3.10"
+    ],
+    "primary_ka": "KA4.3.10",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.10",
+    "canonical_sequence": 41,
+    "local_file": "Статьи/KA4/042_KA4.3.10_post-3970.md",
+    "authors": [
+      {
+        "name": "Руслан Марков",
+        "profile_url": "https://alliance.beinopen.ru/user/markrus92/"
+      }
+    ]
+  },
+  {
+    "id": "3974",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Логистика материалов и готовой продукции (KA4.3.12)",
+    "source_url": "https://alliance.beinopen.ru/post/3974/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 44,
+    "source_order": 111,
+    "ka_codes": [
+      "KA4.3.12"
+    ],
+    "primary_ka": "KA4.3.12",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.12",
+    "canonical_sequence": 43,
+    "local_file": "Статьи/KA4/044_KA4.3.12_post-3974.md",
+    "authors": []
+  },
+  {
+    "id": "3971",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Импортное производство под ключ (KA4.3.13)",
+    "source_url": "https://alliance.beinopen.ru/post/3971/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 45,
+    "source_order": 112,
+    "ka_codes": [
+      "KA4.3.13"
+    ],
+    "primary_ka": "KA4.3.13",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.13",
+    "canonical_sequence": 44,
+    "local_file": "Статьи/KA4/045_KA4.3.13_post-3971.md",
+    "authors": [
+      {
+        "name": "Руслан Марков",
+        "profile_url": "https://alliance.beinopen.ru/user/markrus92/"
+      }
+    ]
+  },
+  {
+    "id": "3942",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Требования к технологии и качеству для разных типов брендов (KA4.4.2)",
+    "source_url": "https://alliance.beinopen.ru/post/3942/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 47,
+    "source_order": 113,
+    "ka_codes": [
+      "KA4.4.2"
+    ],
+    "primary_ka": "KA4.4.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.4",
+    "node_type": "article",
+    "canonical_index": "KA4.4.2",
+    "canonical_sequence": 46,
+    "local_file": "Статьи/KA4/047_KA4.4.2_post-3942.md",
+    "authors": [
+      {
+        "name": "Наталия Устинова",
+        "profile_url": "https://alliance.beinopen.ru/user/natustinova/"
+      }
+    ]
+  },
+  {
+    "id": "3969",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Входной контроль материалов и разбраковка (KA4.4.3)",
+    "source_url": "https://alliance.beinopen.ru/post/3969/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 48,
+    "source_order": 114,
+    "ka_codes": [
+      "KA4.4.3"
+    ],
+    "primary_ka": "KA4.4.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.4",
+    "node_type": "article",
+    "canonical_index": "KA4.4.3",
+    "canonical_sequence": 47,
+    "local_file": "Статьи/KA4/048_KA4.4.3_post-3969.md",
+    "authors": [
+      {
+        "name": "Наталия Устинова",
+        "profile_url": "https://alliance.beinopen.ru/user/natustinova/"
+      }
+    ]
+  },
+  {
+    "id": "3925",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Этапы контроля качества на производстве (KA4.4.4)",
+    "source_url": "https://alliance.beinopen.ru/post/3925/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 49,
+    "source_order": 115,
+    "ka_codes": [
+      "KA4.4.4"
+    ],
+    "primary_ka": "KA4.4.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.4",
+    "node_type": "article",
+    "canonical_index": "KA4.4.4",
+    "canonical_sequence": 48,
+    "local_file": "Статьи/KA4/049_KA4.4.4_post-3925.md",
+    "authors": [
+      {
+        "name": "Наталия Устинова",
+        "profile_url": "https://alliance.beinopen.ru/user/natustinova/"
+      }
+    ]
+  },
+  {
+    "id": "3972",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Стандарты тестирования готовых изделий, QC и AQL (KA4.4.5)",
+    "source_url": "https://alliance.beinopen.ru/post/3972/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 50,
+    "source_order": 116,
+    "ka_codes": [
+      "KA4.4.5"
+    ],
+    "primary_ka": "KA4.4.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.4",
+    "node_type": "article",
+    "canonical_index": "KA4.4.5",
+    "canonical_sequence": 49,
+    "local_file": "Статьи/KA4/050_KA4.4.5_post-3972.md",
+    "authors": [
+      {
+        "name": "Наталия Устинова",
+        "profile_url": "https://alliance.beinopen.ru/user/natustinova/"
+      }
+    ]
+  },
+  {
+    "id": "3984",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Сертификация продукции, ВЭД и регуляторные требования (KA4.5.1)",
+    "source_url": "https://alliance.beinopen.ru/post/3984/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 53,
+    "source_order": 117,
+    "ka_codes": [
+      "KA4.5.1"
+    ],
+    "primary_ka": "KA4.5.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.5",
+    "node_type": "article",
+    "canonical_index": "KA4.5.1",
+    "canonical_sequence": 52,
+    "local_file": "Статьи/KA4/053_KA4.5.1_post-3984.md",
+    "authors": []
+  },
+  {
+    "id": "175",
+    "artifact_type": "knowledge_article",
+    "access": "public",
+    "mirror_mode": "full",
+    "title": "Лейблы, этикетки и обязательная информация (KA4.5.2)",
+    "source_url": "https://alliance.beinopen.ru/post/175/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 54,
+    "source_order": 118,
+    "ka_codes": [
+      "KA4.5.2"
+    ],
+    "primary_ka": "KA4.5.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.5",
+    "node_type": "article",
+    "canonical_index": "KA4.5.2",
+    "canonical_sequence": 53,
+    "local_file": "Статьи/KA4/054_KA4.5.2_post-175.md",
+    "authors": []
+  },
+  {
+    "id": "1290",
+    "artifact_type": "knowledge_article",
+    "access": "public",
+    "mirror_mode": "full",
+    "title": "Нормативная база швейной отрасли (KA4.5.3)",
+    "source_url": "https://alliance.beinopen.ru/post/1290/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 55,
+    "source_order": 119,
+    "ka_codes": [
+      "KA4.5.3"
+    ],
+    "primary_ka": "KA4.5.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.5",
+    "node_type": "article",
+    "canonical_index": "KA4.5.3",
+    "canonical_sequence": 54,
+    "local_file": "Статьи/KA4/055_KA4.5.3_post-1290.md",
+    "authors": [
+      {
+        "name": "Ольга Смирнова",
+        "profile_url": "https://alliance.beinopen.ru/user/funkyhelga/"
+      }
+    ]
+  },
+  {
+    "id": "3893",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Мощности потоков и оперативное планирование (KA4.6.1)",
+    "source_url": "https://alliance.beinopen.ru/post/3893/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 57,
+    "source_order": 120,
     "ka_codes": [
       "KA4.6.1"
     ],
@@ -2576,43 +3476,191 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA4.6",
     "node_type": "article",
-    "local_file": "Статьи/KA4/018_KA4.6.1_post-2739.md",
+    "canonical_index": "KA4.6.1",
+    "canonical_sequence": 56,
+    "local_file": "Статьи/KA4/057_KA4.6.1_post-3893.md",
+    "authors": []
+  },
+  {
+    "id": "3892",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Эффективность и потери швейного производства (KA4.6.2)",
+    "source_url": "https://alliance.beinopen.ru/post/3892/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 58,
+    "source_order": 121,
+    "ka_codes": [
+      "KA4.6.2"
+    ],
+    "primary_ka": "KA4.6.2",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "canonical_index": "KA4.6.2",
+    "canonical_sequence": 57,
+    "local_file": "Статьи/KA4/058_KA4.6.2_post-3892.md",
+    "authors": []
+  },
+  {
+    "id": "3927",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Анализ эффективности процессов и сотрудников (KA4.6.3)",
+    "source_url": "https://alliance.beinopen.ru/post/3927/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 59,
+    "source_order": 122,
+    "ka_codes": [
+      "KA4.6.3"
+    ],
+    "primary_ka": "KA4.6.3",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "canonical_index": "KA4.6.3",
+    "canonical_sequence": 58,
+    "local_file": "Статьи/KA4/059_KA4.6.3_post-3927.md",
+    "authors": []
+  },
+  {
+    "id": "3928",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Финансовая модель и производственная себестоимость (KA4.6.4)",
+    "source_url": "https://alliance.beinopen.ru/post/3928/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 60,
+    "source_order": 123,
+    "ka_codes": [
+      "KA4.6.4"
+    ],
+    "primary_ka": "KA4.6.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "canonical_index": "KA4.6.4",
+    "canonical_sequence": 59,
+    "local_file": "Статьи/KA4/060_KA4.6.4_post-3928.md",
     "authors": [
       {
-        "name": "ИИ-ассистент",
-        "profile_url": "https://alliance.beinopen.ru/user/algorithm"
-      },
-      {
-        "name": "Наталья Болмазова",
-        "profile_url": "https://alliance.beinopen.ru/user/nbolmazova"
+        "name": "Екатерина Непочатых",
+        "profile_url": "https://alliance.beinopen.ru/user/katerinanepo/"
       }
     ]
   },
   {
-    "id": "3328",
+    "id": "3958",
     "artifact_type": "knowledge_article",
-    "access": "public",
-    "mirror_mode": "full",
-    "title": "Полезные списки и контакты (KA4.7)",
-    "source_url": "https://alliance.beinopen.ru/post/3328/",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "FFF, структура ассортимента и ABC/XYZ (KA4.6.5)",
+    "source_url": "https://alliance.beinopen.ru/post/3958/",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
-    "outline_order": 19,
-    "source_order": 93,
+    "outline_order": 61,
+    "source_order": 124,
     "ka_codes": [
-      "KA4.7"
+      "KA4.6.5"
     ],
-    "primary_ka": "KA4.7",
-    "hierarchy_depth": 2,
-    "parent_ka": "KA4",
-    "node_type": "section",
-    "local_file": "Статьи/KA4/019_KA4.7_post-3328.md",
+    "primary_ka": "KA4.6.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "canonical_index": "KA4.6.5",
+    "canonical_sequence": 60,
+    "local_file": "Статьи/KA4/061_KA4.6.5_post-3958.md",
     "authors": [
       {
-        "name": "Алеша Баженов",
-        "profile_url": "https://alliance.beinopen.ru/user/abajenov"
+        "name": "Надежда Сачек",
+        "profile_url": "https://alliance.beinopen.ru/user/NAD_Sachek/"
       }
     ]
+  },
+  {
+    "id": "3959",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Ассортиментная матрица и категорийный бюджет (KA4.6.6)",
+    "source_url": "https://alliance.beinopen.ru/post/3959/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 62,
+    "source_order": 125,
+    "ka_codes": [
+      "KA4.6.6"
+    ],
+    "primary_ka": "KA4.6.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "canonical_index": "KA4.6.6",
+    "canonical_sequence": 61,
+    "local_file": "Статьи/KA4/062_KA4.6.6_post-3959.md",
+    "authors": [
+      {
+        "name": "Надежда Сачек",
+        "profile_url": "https://alliance.beinopen.ru/user/NAD_Sachek/"
+      }
+    ]
+  },
+  {
+    "id": "3960",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Себестоимость продукта и ценовая архитектура (KA4.6.7)",
+    "source_url": "https://alliance.beinopen.ru/post/3960/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 63,
+    "source_order": 126,
+    "ka_codes": [
+      "KA4.6.7"
+    ],
+    "primary_ka": "KA4.6.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "canonical_index": "KA4.6.7",
+    "canonical_sequence": 62,
+    "local_file": "Статьи/KA4/063_KA4.6.7_post-3960.md",
+    "authors": [
+      {
+        "name": "Екатерина Ткачук",
+        "profile_url": "https://alliance.beinopen.ru/user/Katerina_T/"
+      }
+    ]
+  },
+  {
+    "id": "3986",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Оперативный учет, аналитика сезона и итоговый отчет (KA4.6.8)",
+    "source_url": "https://alliance.beinopen.ru/post/3986/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 64,
+    "source_order": 127,
+    "ka_codes": [
+      "KA4.6.8"
+    ],
+    "primary_ka": "KA4.6.8",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "canonical_index": "KA4.6.8",
+    "canonical_sequence": 63,
+    "local_file": "Статьи/KA4/064_KA4.6.8_post-3986.md",
+    "authors": []
   },
   {
     "id": "184",
@@ -2624,7 +3672,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 1,
-    "source_order": 94,
+    "source_order": 128,
     "ka_codes": [
       "KA5.1.1"
     ],
@@ -2632,6 +3680,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.1",
     "node_type": "article",
+    "canonical_index": "KA5.1.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/001_KA5.1.1_post-184.md",
     "authors": [
       {
@@ -2650,7 +3700,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 2,
-    "source_order": 95,
+    "source_order": 129,
     "ka_codes": [
       "KA5.1.4",
       "KA5.1.3"
@@ -2659,6 +3709,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.1",
     "node_type": "article",
+    "canonical_index": "KA5.1.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/002_KA5.1.4_post-220.md",
     "authors": [
       {
@@ -2677,7 +3729,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 3,
-    "source_order": 96,
+    "source_order": 130,
     "ka_codes": [
       "KA5.1.5"
     ],
@@ -2685,6 +3737,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.1",
     "node_type": "article",
+    "canonical_index": "KA5.1.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/003_KA5.1.5_post-316.md",
     "authors": [
       {
@@ -2703,7 +3757,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 4,
-    "source_order": 97,
+    "source_order": 131,
     "ka_codes": [
       "KA5.2"
     ],
@@ -2711,6 +3765,8 @@
     "hierarchy_depth": 2,
     "parent_ka": "KA5",
     "node_type": "section",
+    "canonical_index": "KA5.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/004_KA5.2_post-209.md",
     "authors": [
       {
@@ -2729,7 +3785,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 5,
-    "source_order": 98,
+    "source_order": 132,
     "ka_codes": [
       "KA5.3.1.1"
     ],
@@ -2737,6 +3793,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA5.3.1",
     "node_type": "article",
+    "canonical_index": "KA5.3.1.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/005_KA5.3.1.1_post-2464.md",
     "authors": [
       {
@@ -2759,7 +3817,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 6,
-    "source_order": 99,
+    "source_order": 133,
     "ka_codes": [
       "KA5.3.1.2"
     ],
@@ -2767,6 +3825,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA5.3.1",
     "node_type": "article",
+    "canonical_index": "KA5.3.1.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/006_KA5.3.1.2_post-2453.md",
     "authors": [
       {
@@ -2789,7 +3849,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 7,
-    "source_order": 100,
+    "source_order": 134,
     "ka_codes": [
       "KA5.3.1.3"
     ],
@@ -2797,6 +3857,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA5.3.1",
     "node_type": "article",
+    "canonical_index": "KA5.3.1.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/007_KA5.3.1.3_post-2435.md",
     "authors": [
       {
@@ -2819,7 +3881,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 8,
-    "source_order": 101,
+    "source_order": 135,
     "ka_codes": [
       "KA5.3.2.1"
     ],
@@ -2827,6 +3889,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA5.3.2",
     "node_type": "article",
+    "canonical_index": "KA5.3.2.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/008_KA5.3.2.1_post-213.md",
     "authors": [
       {
@@ -2849,7 +3913,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 9,
-    "source_order": 102,
+    "source_order": 136,
     "ka_codes": [
       "KA5.3.2.2"
     ],
@@ -2857,6 +3921,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA5.3.2",
     "node_type": "article",
+    "canonical_index": "KA5.3.2.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/009_KA5.3.2.2_post-214.md",
     "authors": [
       {
@@ -2879,7 +3945,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 10,
-    "source_order": 103,
+    "source_order": 137,
     "ka_codes": [
       "KA5.3.3"
     ],
@@ -2887,6 +3953,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.3",
     "node_type": "article",
+    "canonical_index": "KA5.3.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/010_KA5.3.3_post-215.md",
     "authors": [
       {
@@ -2909,7 +3977,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 11,
-    "source_order": 104,
+    "source_order": 138,
     "ka_codes": [
       "KA5.3.3.1"
     ],
@@ -2917,6 +3985,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA5.3.3",
     "node_type": "article",
+    "canonical_index": "KA5.3.3.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/011_KA5.3.3.1_post-529.md",
     "authors": [
       {
@@ -2935,7 +4005,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 12,
-    "source_order": 105,
+    "source_order": 139,
     "ka_codes": [
       "KA5.3.4"
     ],
@@ -2943,6 +4013,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.3",
     "node_type": "article",
+    "canonical_index": "KA5.3.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/012_KA5.3.4_post-1172.md",
     "authors": [
       {
@@ -2965,7 +4037,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 13,
-    "source_order": 106,
+    "source_order": 140,
     "ka_codes": [
       "KA5.3.5"
     ],
@@ -2973,6 +4045,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.3",
     "node_type": "article",
+    "canonical_index": "KA5.3.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/013_KA5.3.5_post-212.md",
     "authors": [
       {
@@ -2991,7 +4065,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 14,
-    "source_order": 107,
+    "source_order": 141,
     "ka_codes": [
       "KA5.3.6"
     ],
@@ -2999,6 +4073,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.3",
     "node_type": "article",
+    "canonical_index": "KA5.3.6",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/014_KA5.3.6_post-222.md",
     "authors": [
       {
@@ -3017,7 +4093,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 15,
-    "source_order": 108,
+    "source_order": 142,
     "ka_codes": [
       "KA5.3.7"
     ],
@@ -3025,6 +4101,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.3",
     "node_type": "article",
+    "canonical_index": "KA5.3.7",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/015_KA5.3.7_post-223.md",
     "authors": [
       {
@@ -3043,7 +4121,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 16,
-    "source_order": 109,
+    "source_order": 143,
     "ka_codes": [
       "KA5.3.8"
     ],
@@ -3051,6 +4129,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.3",
     "node_type": "article",
+    "canonical_index": "KA5.3.8",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/016_KA5.3.8_post-225.md",
     "authors": [
       {
@@ -3069,7 +4149,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 17,
-    "source_order": 110,
+    "source_order": 144,
     "ka_codes": [
       "KA5.3.9"
     ],
@@ -3077,6 +4157,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.3",
     "node_type": "article",
+    "canonical_index": "KA5.3.9",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/017_KA5.3.9_post-226.md",
     "authors": [
       {
@@ -3095,7 +4177,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 18,
-    "source_order": 111,
+    "source_order": 145,
     "ka_codes": [
       "KA5.4.1"
     ],
@@ -3103,6 +4185,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.4",
     "node_type": "article",
+    "canonical_index": "KA5.4.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/018_KA5.4.1_post-210.md",
     "authors": [
       {
@@ -3121,7 +4205,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 19,
-    "source_order": 112,
+    "source_order": 146,
     "ka_codes": [
       "KA5.4.2"
     ],
@@ -3129,6 +4213,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.4",
     "node_type": "article",
+    "canonical_index": "KA5.4.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/019_KA5.4.2_post-531.md",
     "authors": [
       {
@@ -3147,7 +4233,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 20,
-    "source_order": 113,
+    "source_order": 147,
     "ka_codes": [
       "KA5.4.2.1"
     ],
@@ -3155,6 +4241,8 @@
     "hierarchy_depth": 4,
     "parent_ka": "KA5.4.2",
     "node_type": "article",
+    "canonical_index": "KA5.4.2.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/020_KA5.4.2.1_post-3343.md",
     "authors": [
       {
@@ -3173,7 +4261,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 21,
-    "source_order": 114,
+    "source_order": 148,
     "ka_codes": [
       "KA5.5.1"
     ],
@@ -3181,6 +4269,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.5",
     "node_type": "article",
+    "canonical_index": "KA5.5.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/021_KA5.5.1_post-1143.md",
     "authors": [
       {
@@ -3199,7 +4289,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 22,
-    "source_order": 115,
+    "source_order": 149,
     "ka_codes": [
       "KA5.5.2"
     ],
@@ -3207,6 +4297,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.5",
     "node_type": "article",
+    "canonical_index": "KA5.5.2",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/022_KA5.5.2_post-1112.md",
     "authors": [
       {
@@ -3225,7 +4317,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 23,
-    "source_order": 116,
+    "source_order": 150,
     "ka_codes": [
       "KA5.5.3"
     ],
@@ -3233,6 +4325,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.5",
     "node_type": "article",
+    "canonical_index": "KA5.5.3",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/023_KA5.5.3_post-182.md",
     "authors": [
       {
@@ -3251,7 +4345,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 24,
-    "source_order": 117,
+    "source_order": 151,
     "ka_codes": [
       "KA5.5.4"
     ],
@@ -3259,6 +4353,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.5",
     "node_type": "article",
+    "canonical_index": "KA5.5.4",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/024_KA5.5.4_post-1132.md",
     "authors": [
       {
@@ -3277,7 +4373,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 25,
-    "source_order": 118,
+    "source_order": 152,
     "ka_codes": [
       "KA5.5.5"
     ],
@@ -3285,6 +4381,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.5",
     "node_type": "article",
+    "canonical_index": "KA5.5.5",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/025_KA5.5.5_post-183.md",
     "authors": [
       {
@@ -3303,7 +4401,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 26,
-    "source_order": 119,
+    "source_order": 153,
     "ka_codes": [
       "KA5.5.6"
     ],
@@ -3311,6 +4409,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.5",
     "node_type": "article",
+    "canonical_index": "KA5.5.6",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/026_KA5.5.6_post-187.md",
     "authors": [
       {
@@ -3329,7 +4429,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 27,
-    "source_order": 120,
+    "source_order": 154,
     "ka_codes": [
       "KA5.5.7"
     ],
@@ -3337,6 +4437,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.5",
     "node_type": "article",
+    "canonical_index": "KA5.5.7",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/027_KA5.5.7_post-185.md",
     "authors": [
       {
@@ -3355,7 +4457,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 28,
-    "source_order": 121,
+    "source_order": 155,
     "ka_codes": [
       "KA5.5.8"
     ],
@@ -3363,6 +4465,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.5",
     "node_type": "article",
+    "canonical_index": "KA5.5.8",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/028_KA5.5.8_post-188.md",
     "authors": [
       {
@@ -3381,7 +4485,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 29,
-    "source_order": 122,
+    "source_order": 156,
     "ka_codes": [
       "KA5.8.1"
     ],
@@ -3389,6 +4493,8 @@
     "hierarchy_depth": 3,
     "parent_ka": "KA5.8",
     "node_type": "article",
+    "canonical_index": "KA5.8.1",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA5/029_KA5.8.1_post-132.md",
     "authors": [
       {
@@ -3407,7 +4513,7 @@
     "source_context": "Глава 6. Навигатор сообщества (KA6)",
     "chapter": "KA6",
     "outline_order": 1,
-    "source_order": 123,
+    "source_order": 157,
     "ka_codes": [
       "KA6"
     ],
@@ -3415,6 +4521,8 @@
     "hierarchy_depth": 1,
     "parent_ka": "",
     "node_type": "chapter",
+    "canonical_index": "KA6",
+    "canonical_sequence": null,
     "local_file": "Статьи/KA6/001_KA6_post-3308.md",
     "authors": [
       {
@@ -3422,5 +4530,281 @@
         "profile_url": "https://alliance.beinopen.ru/user/abajenov"
       }
     ]
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Технологическая подготовка производства",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 16,
+    "source_order": 173,
+    "ka_codes": [
+      "KA4.1.11"
+    ],
+    "primary_ka": "KA4.1.11",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.1",
+    "node_type": "article",
+    "canonical_index": "KA4.1.11",
+    "canonical_sequence": 15,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Производственная площадка: помещение, оборудование и комплектация",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 21,
+    "source_order": 178,
+    "ka_codes": [
+      "KA4.2.5"
+    ],
+    "primary_ka": "KA4.2.5",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.5",
+    "canonical_sequence": 20,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Автоматизация, IT-системы и требования к данным",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 22,
+    "source_order": 179,
+    "ka_codes": [
+      "KA4.2.6"
+    ],
+    "primary_ka": "KA4.2.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.6",
+    "canonical_sequence": 21,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Охрана труда и производственные риски",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 23,
+    "source_order": 180,
+    "ka_codes": [
+      "KA4.2.7"
+    ],
+    "primary_ka": "KA4.2.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.7",
+    "canonical_sequence": 22,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Подготовительно-раскройное производство",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 24,
+    "source_order": 181,
+    "ka_codes": [
+      "KA4.2.8"
+    ],
+    "primary_ka": "KA4.2.8",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.8",
+    "canonical_sequence": 23,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Прокладочные, клеевые материалы, фурнитура и нитки",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 40,
+    "source_order": 197,
+    "ka_codes": [
+      "KA4.3.8"
+    ],
+    "primary_ka": "KA4.3.8",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.8",
+    "canonical_sequence": 39,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Складской и сквозной учет ТМЦ",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 43,
+    "source_order": 200,
+    "ka_codes": [
+      "KA4.3.11"
+    ],
+    "primary_ka": "KA4.3.11",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.3",
+    "node_type": "article",
+    "canonical_index": "KA4.3.11",
+    "canonical_sequence": 42,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Система управления качеством на производстве",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 46,
+    "source_order": 203,
+    "ka_codes": [
+      "KA4.4.1"
+    ],
+    "primary_ka": "KA4.4.1",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.4",
+    "node_type": "article",
+    "canonical_index": "KA4.4.1",
+    "canonical_sequence": 45,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": "3969",
+    "artifact_type": "knowledge_anchor",
+    "access": "platform",
+    "mirror_mode": "metadata_only",
+    "title": "Рекламации и корректирующие действия",
+    "source_url": "https://alliance.beinopen.ru/post/3969/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 51,
+    "source_order": 208,
+    "ka_codes": [
+      "KA4.4.6"
+    ],
+    "primary_ka": "KA4.4.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.4",
+    "node_type": "article",
+    "canonical_index": "KA4.4.6",
+    "canonical_sequence": 50,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": "3926",
+    "artifact_type": "knowledge_anchor",
+    "access": "platform",
+    "mirror_mode": "metadata_only",
+    "title": "Приемка между брендом и фабрикой",
+    "source_url": "https://alliance.beinopen.ru/post/3926/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 52,
+    "source_order": 209,
+    "ka_codes": [
+      "KA4.4.7"
+    ],
+    "primary_ka": "KA4.4.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.4",
+    "node_type": "article",
+    "canonical_index": "KA4.4.7",
+    "canonical_sequence": 51,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Маркировка и прослеживаемость продукта",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 56,
+    "source_order": 213,
+    "ka_codes": [
+      "KA4.5.4"
+    ],
+    "primary_ka": "KA4.5.4",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.5",
+    "node_type": "article",
+    "canonical_index": "KA4.5.4",
+    "canonical_sequence": 55,
+    "local_file": null,
+    "authors": []
+  },
+  {
+    "id": null,
+    "artifact_type": "planned_knowledge_node",
+    "access": "planned",
+    "mirror_mode": "metadata_only",
+    "title": "Цифровые отчеты и минимальная модель производственных данных",
+    "source_url": "",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 65,
+    "source_order": 222,
+    "ka_codes": [
+      "KA4.6.9"
+    ],
+    "primary_ka": "KA4.6.9",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.6",
+    "node_type": "article",
+    "canonical_index": "KA4.6.9",
+    "canonical_sequence": 64,
+    "local_file": null,
+    "authors": []
   }
 ]
