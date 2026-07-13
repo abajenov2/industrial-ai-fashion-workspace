@@ -1,3 +1,4 @@
+﻿# Encoding: keep this file as UTF-8 with BOM for Windows PowerShell 5.1.
 [CmdletBinding()]
 param(
   [Parameter(Mandatory = $true)]
