@@ -9,6 +9,7 @@
 - [Свод знаний KA](https://alliance.beinopen.ru/docs/2836/)
 - [DocKA](https://alliance.beinopen.ru/docs/2046/)
 - [Модульные сборки A1](https://alliance.beinopen.ru/post/2169/)
+- [Безопасный перенос рабочего места в Windows](./WINDOWS_WORKSPACE_MIGRATION.md)
 
 Локальная копия протокола может помогать поиску, но при расхождении источником
 для внешнего действия считается опубликованная версия и ее режим доступа.

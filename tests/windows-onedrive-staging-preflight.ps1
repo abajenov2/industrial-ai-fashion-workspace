@@ -40,7 +40,16 @@ foreach ($File in @($Passport, $Roles, $Rhythm)) {
   $Before[$File] = (Get-FileHash -LiteralPath $File -Algorithm SHA256).Hash
 }
 
-& $UpdateScript -Target $Root -LibraryOnly -DryRun -CheckWriteAccess
+$OneDriveWarnings = @()
+& $UpdateScript `
+  -Target $Root `
+  -LibraryOnly `
+  -DryRun `
+  -CheckWriteAccess `
+  -WarningVariable OneDriveWarnings
+if (-not (($OneDriveWarnings | Out-String) -match "Target is inside OneDrive")) {
+  throw "OneDrive target warning was not emitted"
+}
 if (-not (Test-Path -LiteralPath (Join-Path $Library ".keep") -PathType Leaf)) {
   throw "DryRun write preflight changed the legacy library"
 }
@@ -83,14 +92,19 @@ $BlockedParent = Join-Path $BlockedLibraryRole "01_Открытый_станда
 Set-Content -LiteralPath $BlockedParent -Value "blocked-parent" -Encoding UTF8
 
 $FailedSafely = $false
+$BlockedFailureMessage = ""
 try {
   & $UpdateScript -Target $BlockedRoot -LibraryOnly -DryRun -CheckWriteAccess
 }
 catch {
   $FailedSafely = $true
+  $BlockedFailureMessage = $_.Exception.Message
 }
 if (-not $FailedSafely) {
   throw "Preflight unexpectedly succeeded against a blocked parent"
+}
+if ($BlockedFailureMessage -notmatch "short ASCII path outside OneDrive") {
+  throw "Blocked OneDrive preflight did not return safe migration guidance"
 }
 if (-not (Test-Path -LiteralPath $BlockedParent -PathType Leaf)) {
   throw "Failed preflight changed the blocked parent"

@@ -121,6 +121,81 @@ function Invoke-WritePreflight {
   Write-Host "Write probe location: $ProbeParent"
 }
 
+function Test-OneDriveTarget {
+  param([Parameter(Mandatory = $true)][string]$Path)
+
+  $NormalizedTarget = [System.IO.Path]::GetFullPath($Path).TrimEnd(
+    [char[]]@(
+      [System.IO.Path]::DirectorySeparatorChar,
+      [System.IO.Path]::AltDirectorySeparatorChar
+    )
+  )
+  $OneDriveRoots = @(
+    $env:OneDrive,
+    $env:OneDriveConsumer,
+    $env:OneDriveCommercial
+  )
+
+  foreach ($Root in $OneDriveRoots) {
+    if ([string]::IsNullOrWhiteSpace($Root)) {
+      continue
+    }
+
+    $NormalizedRoot = [System.IO.Path]::GetFullPath($Root).TrimEnd(
+      [char[]]@(
+        [System.IO.Path]::DirectorySeparatorChar,
+        [System.IO.Path]::AltDirectorySeparatorChar
+      )
+    )
+    $RootPrefix = $NormalizedRoot + [System.IO.Path]::DirectorySeparatorChar
+    if (
+      $NormalizedTarget.Equals(
+        $NormalizedRoot,
+        [System.StringComparison]::OrdinalIgnoreCase
+      ) -or
+      $NormalizedTarget.StartsWith(
+        $RootPrefix,
+        [System.StringComparison]::OrdinalIgnoreCase
+      )
+    ) {
+      return $true
+    }
+  }
+
+  foreach ($Segment in ($NormalizedTarget -split '[\\/]')) {
+    if (
+      $Segment.Equals("OneDrive", [System.StringComparison]::OrdinalIgnoreCase) -or
+      $Segment.StartsWith("OneDrive - ", [System.StringComparison]::OrdinalIgnoreCase)
+    ) {
+      return $true
+    }
+  }
+
+  return $false
+}
+
+function Invoke-TargetWritePreflight {
+  param(
+    [Parameter(Mandatory = $true)][string]$ParentPath,
+    [Parameter(Mandatory = $true)][bool]$OneDriveTarget
+  )
+
+  try {
+    Invoke-WritePreflight -ParentPath $ParentPath
+  }
+  catch {
+    if ($OneDriveTarget) {
+      throw (
+        "OneDrive write preflight failed. Test the same release in a short " +
+        "ASCII path outside OneDrive, such as C:\Alliance\Workspace or " +
+        "D:\Alliance\Workspace. Do not overwrite the live library manually " +
+        "or force-delete the old workspace. Details: $($_.Exception.Message)"
+      )
+    }
+    throw
+  }
+}
+
 function Copy-DirectoryContents {
   param(
     [Parameter(Mandatory = $true)][string]$SourcePath,
@@ -229,11 +304,21 @@ $Mode = "SharedLayer"
 if ($LibraryOnly) {
   $Mode = "LibraryOnly"
 }
+$IsOneDriveTarget = Test-OneDriveTarget -Path $TargetPath
 
 Write-Host "Update mode: $Mode"
 Write-Host "Dry run: $($DryRun.IsPresent)"
 Write-Host "Target workspace: $TargetPath"
+Write-Host "OneDrive target: $IsOneDriveTarget"
 Write-Host "Package version: $($VersionData.package_version)"
+if ($IsOneDriveTarget) {
+  Write-Warning (
+    "Target is inside OneDrive. Sync, ACL or cloud attributes can block " +
+    "staging. Run -DryRun -CheckWriteAccess first. If it fails, test the " +
+    "same release in a short ASCII path outside OneDrive. Do not copy files " +
+    "manually over the live library or force-delete the old workspace."
+  )
+}
 Write-Host "Existing destinations are preserved until all staged copies pass validation."
 Write-Host "The script will update only:"
 foreach ($Operation in $Operations) {
@@ -267,7 +352,9 @@ if ($DryRun) {
     $CheckedParents = @{}
     foreach ($Operation in $Operations) {
       if (-not $CheckedParents.ContainsKey($Operation.Parent)) {
-        Invoke-WritePreflight -ParentPath $Operation.Parent
+        Invoke-TargetWritePreflight `
+          -ParentPath $Operation.Parent `
+          -OneDriveTarget $IsOneDriveTarget
         $CheckedParents[$Operation.Parent] = $true
       }
     }
@@ -283,7 +370,9 @@ if ($DryRun) {
 $CheckedParents = @{}
 foreach ($Operation in $Operations) {
   if (-not $CheckedParents.ContainsKey($Operation.Parent)) {
-    Invoke-WritePreflight -ParentPath $Operation.Parent
+    Invoke-TargetWritePreflight `
+      -ParentPath $Operation.Parent `
+      -OneDriveTarget $IsOneDriveTarget
     $CheckedParents[$Operation.Parent] = $true
   }
 }
