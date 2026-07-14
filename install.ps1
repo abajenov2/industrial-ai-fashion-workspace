@@ -2,16 +2,11 @@
 [CmdletBinding()]
 param(
   [Parameter(Mandatory = $true)]
-  [ValidateSet("brand", "marka", "expert", "factory", "architect")]
-  [string]$Type,
-
-  [Parameter(Mandatory = $true)]
   [string]$Target
 )
 
 $ErrorActionPreference = "Stop"
 $RepoRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
-$RoleTemplate = if ($Type -eq "marka") { "brand" } else { $Type }
 $TargetPath = [System.IO.Path]::GetFullPath($Target)
 
 function Copy-DirectoryContents {
@@ -27,9 +22,9 @@ function Copy-DirectoryContents {
 }
 
 $RequiredDirectories = @(
-  (Join-Path $RepoRoot "templates/common"),
-  (Join-Path $RepoRoot "templates/$RoleTemplate"),
+  (Join-Path $RepoRoot "templates/workspace"),
   (Join-Path $RepoRoot "knowledge-base"),
+  (Join-Path $RepoRoot "alliance-system"),
   (Join-Path $RepoRoot "skills/alliance-resident-workspace")
 )
 
@@ -47,8 +42,18 @@ if (Test-Path -LiteralPath $TargetPath) {
 }
 
 New-Item -ItemType Directory -Path $TargetPath -Force | Out-Null
-Copy-DirectoryContents (Join-Path $RepoRoot "templates/common") $TargetPath
-Copy-DirectoryContents (Join-Path $RepoRoot "templates/$RoleTemplate") $TargetPath
+Copy-DirectoryContents (Join-Path $RepoRoot "templates/workspace") $TargetPath
+
+$StandardDirectories = @(
+  "04_Проекты_и_рабочие_задачи",
+  "05_Встречи_и_цифровой_след",
+  "06_Публикации_и_обновления_платформы",
+  "08_Кооперационные_цепочки_и_рынок_роли",
+  "99_Архив_исходников"
+)
+foreach ($Directory in $StandardDirectories) {
+  New-Item -ItemType Directory -Path (Join-Path $TargetPath $Directory) -Force | Out-Null
+}
 
 $LibraryTarget = [System.IO.Path]::Combine(
   $TargetPath,
@@ -61,9 +66,17 @@ $SkillTarget = [System.IO.Path]::Combine(
   "09_Скиллы_для_Codex",
   "alliance-resident-workspace"
 )
+$SystemTarget = [System.IO.Path]::Combine(
+  $TargetPath,
+  "03_Библиотека_роли",
+  "01_Открытый_стандарт",
+  "Система_Альянса"
+)
 New-Item -ItemType Directory -Path (Split-Path -Parent $LibraryTarget) -Force | Out-Null
+New-Item -ItemType Directory -Path (Split-Path -Parent $SystemTarget) -Force | Out-Null
 New-Item -ItemType Directory -Path (Split-Path -Parent $SkillTarget) -Force | Out-Null
 Copy-DirectoryContents (Join-Path $RepoRoot "knowledge-base") $LibraryTarget
+Copy-DirectoryContents (Join-Path $RepoRoot "alliance-system") $SystemTarget
 Copy-DirectoryContents (Join-Path $RepoRoot "skills/alliance-resident-workspace") $SkillTarget
 
 $InstalledChecks = @(
@@ -83,5 +96,5 @@ foreach ($Check in $InstalledChecks) {
 }
 
 Write-Host "Workspace installed: $TargetPath"
-Write-Host "Type: $RoleTemplate"
-Write-Host "Next: open this folder in Codex and ask it to help fill in the workspace passport."
+Write-Host "Model: unified resident workspace"
+Write-Host "Next: open this folder in Codex and fill in the owner context, roles and nearest task."

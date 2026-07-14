@@ -1,0 +1,27 @@
+schema_version: 1
+artifact_type: assembly_card_schema
+required:
+  - assembly_id
+  - title
+  - version
+  - status
+  - owner
+  - requirements
+  - modules
+  - workflow
+  - evidence_cases
+  - validation
+fields:
+  assembly_id: candidate_or_A1_code
+  status: [candidate, pilot, validated, deprecated]
+  stakeholder_needs: list
+  requirements: list
+  constraints: list
+  roles: list_of_role_ids
+  knowledge: list_of_ka_ids
+  documents: list_of_docka_ids
+  journeys: list_of_cjm_ids
+  protocols: list_of_urls
+  evidence_cases: list_of_trxtr_urls
+  access: public_resident_or_private
+  next_review_date: iso_date_or_pending

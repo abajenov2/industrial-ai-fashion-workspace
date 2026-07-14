@@ -1,0 +1,25 @@
+schema_version: 1
+artifact_type: role_card_schema
+required:
+  - role_id
+  - title
+  - version
+  - status
+  - source_url
+  - access
+  - rbs
+  - fbs
+  - sbs
+  - wbs
+  - dsm
+fields:
+  role_id: stable_string
+  owner_profile_url: alliance_profile_url_or_pending
+  organization_contexts: list
+  program_contexts: list
+  related_ka: list
+  related_docka: list
+  related_cjm: list
+  related_rltr: list
+  evidence_cases: list_of_alliance_urls
+  next_review_date: iso_date_or_pending

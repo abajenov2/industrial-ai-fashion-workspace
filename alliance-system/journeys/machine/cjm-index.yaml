@@ -1,0 +1,30 @@
+schema_version: 1
+artifact_type: cjm_registry
+journeys:
+  - id: CJM-RESIDENT-001
+    title: Первый запуск рабочего места
+    version: 0.1
+    status: preview
+    access: public
+    file: alliance-system/journeys/CJM-RESIDENT-001_FIRST_RUN.md
+    entry_state: workspace_not_configured
+    exit_state: minimum_workspace_ready
+    related_objects: [RL, KA6, TR]
+  - id: CJM-RESIDENT-002
+    title: Рабочий цикл от вопроса к результату
+    version: 0.1
+    status: preview
+    access: public
+    file: alliance-system/journeys/CJM-RESIDENT-002_WORK_CYCLE.md
+    entry_state: real_question_exists
+    exit_state: dated_result_or_next_state
+    related_objects: [KA, RL, RLTR, DocKA, TR, TRxTR, A1]
+  - id: CJM-RESIDENT-003
+    title: Встреча, цифровой след и публикация
+    version: 0.1
+    status: preview
+    access: public
+    file: alliance-system/journeys/CJM-RESIDENT-003_MEETING_TO_TRACE.md
+    entry_state: meeting_source_exists
+    exit_state: approved_trace_and_next_action
+    related_objects: [TR, TRxTR, KA, DocKA, CJM, A1]
