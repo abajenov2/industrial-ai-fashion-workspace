@@ -62,11 +62,11 @@ jobs:
           if (-not (Test-Path -LiteralPath "$Root\03_Библиотека_роли\01_Открытый_стандарт\Система_Альянса\journeys\machine\cjm-index.yaml")) { throw "CJM index is missing" }
           if (Test-Path -LiteralPath "$Root\00_Паспорт_рабочего_места\Тип_рабочего_места.md") { throw "Deprecated workspace type found" }
       - name: Update shared layer without changing owner data
-        shell: powershell
+        shell: pwsh
         run: |
           $Root = "$env:RUNNER_TEMP\${{ matrix.scenario }}-workspace"
           Add-Content -LiteralPath "$Root\00_Паспорт_рабочего_места\Паспорт_рабочего_места.md" -Value "owner-data-must-survive"
           Remove-Item -LiteralPath "$Root\03_Библиотека_роли\01_Открытый_стандарт\Система_Альянса\navigation\START_HERE.md"
-          .\update-library.ps1 -Target $Root
+          powershell -ExecutionPolicy Bypass -File .\update-library.ps1 -Target $Root
           if (-not (Select-String -LiteralPath "$Root\00_Паспорт_рабочего_места\Паспорт_рабочего_места.md" -Pattern "owner-data-must-survive" -Quiet)) { throw "Owner data was overwritten" }
           if (-not (Test-Path -LiteralPath "$Root\03_Библиотека_роли\01_Открытый_стандарт\Система_Альянса\navigation\START_HERE.md")) { throw "System navigation was not restored" }
