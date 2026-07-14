@@ -1,0 +1,33 @@
+schema_version: 1
+system: alliance_resident_workspace
+entrypoint: alliance-system/navigation/START_HERE.md
+objects:
+  - id: KA
+    purpose: knowledge
+    human_index: knowledge-base/КАРТА_СВОДА.md
+    machine_index: knowledge-base/machine/catalog.json
+  - id: CJM
+    purpose: step_by_step_journey
+    human_index: alliance-system/journeys/README.md
+    machine_index: alliance-system/journeys/machine/cjm-index.yaml
+  - id: RL
+    purpose: role_configuration
+    human_index: alliance-system/roles/README.md
+    machine_index: alliance-system/roles/machine/role-card.schema.yaml
+  - id: A1
+    purpose: repeatable_assembly
+    human_index: alliance-system/assemblies/README.md
+    machine_index: alliance-system/assemblies/machine/assembly-card.schema.yaml
+  - id: RULES
+    purpose: access_search_and_coordination
+    human_index: alliance-system/rules/README.md
+  - id: PROTOCOLS
+    purpose: coordination_and_sources_of_truth
+    human_index: alliance-system/protocols/README.md
+authoring_standard: alliance-system/AUTHORING_STANDARD.md
+roadmap: alliance-system/ROADMAP.md
+source_urls:
+  knowledge_base: https://alliance.beinopen.ru/docs/2836/
+  workspace_protocol: https://alliance.beinopen.ru/post/3871/
+  ontology: https://alliance.beinopen.ru/post/3341/
+  assemblies: https://alliance.beinopen.ru/post/2169/

@@ -1,0 +1,16 @@
+schema_version: 1
+workspace_model: unified_resident_workspace
+owner:
+  type: needs_owner_input
+  alliance_profile: needs_owner_input
+organization_contexts: []
+program_contexts: []
+roles: []
+access:
+  public: true
+  resident: needs_validation
+  governance: false
+  private: local_only
+next_action:
+  owner: needs_owner_input
+  due_date: needs_owner_input
