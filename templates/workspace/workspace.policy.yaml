@@ -1,4 +1,4 @@
-policy_version: 0.2.0
+policy_version: 0.3.0
 policy_status: draft
 workspace_model: unified_resident_workspace
 owner_context_source: 00_Паспорт_рабочего_места/Контекст_владельца.md
@@ -40,6 +40,15 @@ role_configuration:
   multiple_roles_allowed: true
   reinstall_on_role_change: false
   elevated_authority_requires_separate_verification: true
+update_contract:
+  install_requires_new_or_empty_target: true
+  existing_workspace_first_mode: library_only
+  existing_workspace_requires_dry_run: true
+  preserve_existing_destination_until_staging_valid: true
+  rollback_on_swap_failure: true
+  compare_owner_file_hashes_before_and_after: true
+  onedrive_unicode_failure_action: create_isolated_temp_test_and_report
+  explicit_old_release_action: record_version_conflict_and_isolate_test
 knowledge_navigation:
   entrypoint: KA6
   trajectory_reference: RLTR

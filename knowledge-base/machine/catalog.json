@@ -2785,6 +2785,92 @@
     ]
   },
   {
+    "id": "4032",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "platform_access": "Только для своих",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Автоматизация, IT-системы и требования к данным (KA4.2.6)",
+    "source_url": "https://alliance.beinopen.ru/post/4032/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 22,
+    "source_order": 94,
+    "ka_codes": [
+      "KA4.2.6"
+    ],
+    "primary_ka": "KA4.2.6",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.6",
+    "canonical_sequence": 21,
+    "local_file": "Статьи/KA4/022_KA4.2.6_post-4032.md",
+    "authors": [
+      {
+        "name": "Константин Кривошеин",
+        "profile_url": "https://alliance.beinopen.ru/user/styloncomp/"
+      },
+      {
+        "name": "Федор Шумилов",
+        "profile_url": "https://alliance.beinopen.ru/user/fshumilov/"
+      }
+    ]
+  },
+  {
+    "id": "4033",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "platform_access": "Только для своих",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Охрана труда и производственные риски (KA4.2.7)",
+    "source_url": "https://alliance.beinopen.ru/post/4033/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 23,
+    "source_order": 95,
+    "ka_codes": [
+      "KA4.2.7"
+    ],
+    "primary_ka": "KA4.2.7",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.7",
+    "canonical_sequence": 22,
+    "local_file": "Статьи/KA4/023_KA4.2.7_post-4033.md",
+    "authors": []
+  },
+  {
+    "id": "4034",
+    "artifact_type": "knowledge_article",
+    "access": "resident",
+    "platform_access": "Только для своих",
+    "mirror_mode": "index_only_public_full_private",
+    "title": "Подготовительно-раскройное производство (KA4.2.8)",
+    "source_url": "https://alliance.beinopen.ru/post/4034/",
+    "source_context": "Глава 4. Производство (KA4)",
+    "chapter": "KA4",
+    "outline_order": 24,
+    "source_order": 96,
+    "ka_codes": [
+      "KA4.2.8"
+    ],
+    "primary_ka": "KA4.2.8",
+    "hierarchy_depth": 3,
+    "parent_ka": "KA4.2",
+    "node_type": "article",
+    "canonical_index": "KA4.2.8",
+    "canonical_sequence": 23,
+    "local_file": "Статьи/KA4/024_KA4.2.8_post-4034.md",
+    "authors": [
+      {
+        "name": "Екатерина Непочатых",
+        "profile_url": "https://alliance.beinopen.ru/user/katerinanepo/"
+      }
+    ]
+  },
+  {
     "id": "3889",
     "artifact_type": "knowledge_article",
     "access": "resident",
@@ -2795,7 +2881,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 25,
-    "source_order": 94,
+    "source_order": 97,
     "ka_codes": [
       "KA4.2.9"
     ],
@@ -2824,7 +2910,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 26,
-    "source_order": 95,
+    "source_order": 98,
     "ka_codes": [
       "KA4.2.10"
     ],
@@ -2848,7 +2934,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 27,
-    "source_order": 96,
+    "source_order": 99,
     "ka_codes": [
       "KA4.2.11"
     ],
@@ -2877,7 +2963,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 28,
-    "source_order": 97,
+    "source_order": 100,
     "ka_codes": [
       "KA4.2.12"
     ],
@@ -2906,7 +2992,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 29,
-    "source_order": 98,
+    "source_order": 101,
     "ka_codes": [
       "KA4.2.13"
     ],
@@ -2935,7 +3021,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 30,
-    "source_order": 99,
+    "source_order": 102,
     "ka_codes": [
       "KA4.2.14"
     ],
@@ -2964,7 +3050,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 31,
-    "source_order": 100,
+    "source_order": 103,
     "ka_codes": [
       "KA4.2.15"
     ],
@@ -2992,7 +3078,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 32,
-    "source_order": 101,
+    "source_order": 104,
     "ka_codes": [
       "KA4.3.1"
     ],
@@ -3016,7 +3102,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 33,
-    "source_order": 102,
+    "source_order": 105,
     "ka_codes": [
       "KA4.3.2"
     ],
@@ -3044,7 +3130,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 34,
-    "source_order": 103,
+    "source_order": 106,
     "ka_codes": [
       "KA4.3.2.1"
     ],
@@ -3068,7 +3154,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 35,
-    "source_order": 104,
+    "source_order": 107,
     "ka_codes": [
       "KA4.3.3"
     ],
@@ -3096,7 +3182,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 36,
-    "source_order": 105,
+    "source_order": 108,
     "ka_codes": [
       "KA4.3.4"
     ],
@@ -3125,7 +3211,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 37,
-    "source_order": 106,
+    "source_order": 109,
     "ka_codes": [
       "KA4.3.5"
     ],
@@ -3154,7 +3240,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 38,
-    "source_order": 107,
+    "source_order": 110,
     "ka_codes": [
       "KA4.3.6"
     ],
@@ -3183,7 +3269,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 39,
-    "source_order": 108,
+    "source_order": 111,
     "ka_codes": [
       "KA4.3.7"
     ],
@@ -3211,7 +3297,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 41,
-    "source_order": 109,
+    "source_order": 112,
     "ka_codes": [
       "KA4.3.9"
     ],
@@ -3235,7 +3321,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 42,
-    "source_order": 110,
+    "source_order": 113,
     "ka_codes": [
       "KA4.3.10"
     ],
@@ -3264,7 +3350,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 44,
-    "source_order": 111,
+    "source_order": 114,
     "ka_codes": [
       "KA4.3.12"
     ],
@@ -3288,7 +3374,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 45,
-    "source_order": 112,
+    "source_order": 115,
     "ka_codes": [
       "KA4.3.13"
     ],
@@ -3317,7 +3403,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 47,
-    "source_order": 113,
+    "source_order": 116,
     "ka_codes": [
       "KA4.4.2"
     ],
@@ -3346,7 +3432,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 48,
-    "source_order": 114,
+    "source_order": 117,
     "ka_codes": [
       "KA4.4.3"
     ],
@@ -3375,7 +3461,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 49,
-    "source_order": 115,
+    "source_order": 118,
     "ka_codes": [
       "KA4.4.4"
     ],
@@ -3404,7 +3490,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 50,
-    "source_order": 116,
+    "source_order": 119,
     "ka_codes": [
       "KA4.4.5"
     ],
@@ -3433,7 +3519,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 53,
-    "source_order": 117,
+    "source_order": 120,
     "ka_codes": [
       "KA4.5.1"
     ],
@@ -3456,7 +3542,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 54,
-    "source_order": 118,
+    "source_order": 121,
     "ka_codes": [
       "KA4.5.2"
     ],
@@ -3479,7 +3565,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 55,
-    "source_order": 119,
+    "source_order": 122,
     "ka_codes": [
       "KA4.5.3"
     ],
@@ -3508,7 +3594,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 57,
-    "source_order": 120,
+    "source_order": 123,
     "ka_codes": [
       "KA4.6.1"
     ],
@@ -3532,7 +3618,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 58,
-    "source_order": 121,
+    "source_order": 124,
     "ka_codes": [
       "KA4.6.2"
     ],
@@ -3556,7 +3642,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 59,
-    "source_order": 122,
+    "source_order": 125,
     "ka_codes": [
       "KA4.6.3"
     ],
@@ -3580,7 +3666,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 60,
-    "source_order": 123,
+    "source_order": 126,
     "ka_codes": [
       "KA4.6.4"
     ],
@@ -3609,7 +3695,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 61,
-    "source_order": 124,
+    "source_order": 127,
     "ka_codes": [
       "KA4.6.5"
     ],
@@ -3638,7 +3724,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 62,
-    "source_order": 125,
+    "source_order": 128,
     "ka_codes": [
       "KA4.6.6"
     ],
@@ -3667,7 +3753,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 63,
-    "source_order": 126,
+    "source_order": 129,
     "ka_codes": [
       "KA4.6.7"
     ],
@@ -3696,7 +3782,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 64,
-    "source_order": 127,
+    "source_order": 130,
     "ka_codes": [
       "KA4.6.8"
     ],
@@ -3719,7 +3805,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 1,
-    "source_order": 128,
+    "source_order": 131,
     "ka_codes": [
       "KA5.1.1"
     ],
@@ -3747,7 +3833,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 2,
-    "source_order": 129,
+    "source_order": 132,
     "ka_codes": [
       "KA5.1.4",
       "KA5.1.3"
@@ -3776,7 +3862,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 3,
-    "source_order": 130,
+    "source_order": 133,
     "ka_codes": [
       "KA5.1.5"
     ],
@@ -3804,7 +3890,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 4,
-    "source_order": 131,
+    "source_order": 134,
     "ka_codes": [
       "KA5.2"
     ],
@@ -3832,7 +3918,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 5,
-    "source_order": 132,
+    "source_order": 135,
     "ka_codes": [
       "KA5.3.1.1"
     ],
@@ -3864,7 +3950,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 6,
-    "source_order": 133,
+    "source_order": 136,
     "ka_codes": [
       "KA5.3.1.2"
     ],
@@ -3896,7 +3982,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 7,
-    "source_order": 134,
+    "source_order": 137,
     "ka_codes": [
       "KA5.3.1.3"
     ],
@@ -3928,7 +4014,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 8,
-    "source_order": 135,
+    "source_order": 138,
     "ka_codes": [
       "KA5.3.2.1"
     ],
@@ -3960,7 +4046,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 9,
-    "source_order": 136,
+    "source_order": 139,
     "ka_codes": [
       "KA5.3.2.2"
     ],
@@ -3992,7 +4078,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 10,
-    "source_order": 137,
+    "source_order": 140,
     "ka_codes": [
       "KA5.3.3"
     ],
@@ -4024,7 +4110,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 11,
-    "source_order": 138,
+    "source_order": 141,
     "ka_codes": [
       "KA5.3.3.1"
     ],
@@ -4052,7 +4138,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 12,
-    "source_order": 139,
+    "source_order": 142,
     "ka_codes": [
       "KA5.3.4"
     ],
@@ -4084,7 +4170,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 13,
-    "source_order": 140,
+    "source_order": 143,
     "ka_codes": [
       "KA5.3.5"
     ],
@@ -4112,7 +4198,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 14,
-    "source_order": 141,
+    "source_order": 144,
     "ka_codes": [
       "KA5.3.6"
     ],
@@ -4140,7 +4226,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 15,
-    "source_order": 142,
+    "source_order": 145,
     "ka_codes": [
       "KA5.3.7"
     ],
@@ -4168,7 +4254,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 16,
-    "source_order": 143,
+    "source_order": 146,
     "ka_codes": [
       "KA5.3.8"
     ],
@@ -4196,7 +4282,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 17,
-    "source_order": 144,
+    "source_order": 147,
     "ka_codes": [
       "KA5.3.9"
     ],
@@ -4224,7 +4310,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 18,
-    "source_order": 145,
+    "source_order": 148,
     "ka_codes": [
       "KA5.4.1"
     ],
@@ -4252,7 +4338,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 19,
-    "source_order": 146,
+    "source_order": 149,
     "ka_codes": [
       "KA5.4.2"
     ],
@@ -4280,7 +4366,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 20,
-    "source_order": 147,
+    "source_order": 150,
     "ka_codes": [
       "KA5.4.2.1"
     ],
@@ -4308,7 +4394,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 21,
-    "source_order": 148,
+    "source_order": 151,
     "ka_codes": [
       "KA5.5.1"
     ],
@@ -4336,7 +4422,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 22,
-    "source_order": 149,
+    "source_order": 152,
     "ka_codes": [
       "KA5.5.2"
     ],
@@ -4364,7 +4450,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 23,
-    "source_order": 150,
+    "source_order": 153,
     "ka_codes": [
       "KA5.5.3"
     ],
@@ -4392,7 +4478,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 24,
-    "source_order": 151,
+    "source_order": 154,
     "ka_codes": [
       "KA5.5.4"
     ],
@@ -4420,7 +4506,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 25,
-    "source_order": 152,
+    "source_order": 155,
     "ka_codes": [
       "KA5.5.5"
     ],
@@ -4448,7 +4534,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 26,
-    "source_order": 153,
+    "source_order": 156,
     "ka_codes": [
       "KA5.5.6"
     ],
@@ -4476,7 +4562,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 27,
-    "source_order": 154,
+    "source_order": 157,
     "ka_codes": [
       "KA5.5.7"
     ],
@@ -4504,7 +4590,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 28,
-    "source_order": 155,
+    "source_order": 158,
     "ka_codes": [
       "KA5.5.8"
     ],
@@ -4532,7 +4618,7 @@
     "source_context": "Глава 5. Продажи (KA5)",
     "chapter": "KA5",
     "outline_order": 29,
-    "source_order": 156,
+    "source_order": 159,
     "ka_codes": [
       "KA5.8.1"
     ],
@@ -4561,7 +4647,7 @@
     "source_context": "Глава 6. Навигатор сообщества (KA6)",
     "chapter": "KA6",
     "outline_order": 1,
-    "source_order": 157,
+    "source_order": 160,
     "ka_codes": [
       "KA6"
     ],
@@ -4589,7 +4675,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 16,
-    "source_order": 173,
+    "source_order": 176,
     "ka_codes": [
       "KA4.1.11"
     ],
@@ -4612,7 +4698,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 21,
-    "source_order": 178,
+    "source_order": 181,
     "ka_codes": [
       "KA4.2.5"
     ],
@@ -4630,81 +4716,12 @@
     "artifact_type": "planned_knowledge_node",
     "access": "planned",
     "mirror_mode": "metadata_only",
-    "title": "Автоматизация, IT-системы и требования к данным",
-    "source_url": "",
-    "source_context": "Глава 4. Производство (KA4)",
-    "chapter": "KA4",
-    "outline_order": 22,
-    "source_order": 179,
-    "ka_codes": [
-      "KA4.2.6"
-    ],
-    "primary_ka": "KA4.2.6",
-    "hierarchy_depth": 3,
-    "parent_ka": "KA4.2",
-    "node_type": "article",
-    "canonical_index": "KA4.2.6",
-    "canonical_sequence": 21,
-    "local_file": null,
-    "authors": []
-  },
-  {
-    "id": null,
-    "artifact_type": "planned_knowledge_node",
-    "access": "planned",
-    "mirror_mode": "metadata_only",
-    "title": "Охрана труда и производственные риски",
-    "source_url": "",
-    "source_context": "Глава 4. Производство (KA4)",
-    "chapter": "KA4",
-    "outline_order": 23,
-    "source_order": 180,
-    "ka_codes": [
-      "KA4.2.7"
-    ],
-    "primary_ka": "KA4.2.7",
-    "hierarchy_depth": 3,
-    "parent_ka": "KA4.2",
-    "node_type": "article",
-    "canonical_index": "KA4.2.7",
-    "canonical_sequence": 22,
-    "local_file": null,
-    "authors": []
-  },
-  {
-    "id": null,
-    "artifact_type": "planned_knowledge_node",
-    "access": "planned",
-    "mirror_mode": "metadata_only",
-    "title": "Подготовительно-раскройное производство",
-    "source_url": "",
-    "source_context": "Глава 4. Производство (KA4)",
-    "chapter": "KA4",
-    "outline_order": 24,
-    "source_order": 181,
-    "ka_codes": [
-      "KA4.2.8"
-    ],
-    "primary_ka": "KA4.2.8",
-    "hierarchy_depth": 3,
-    "parent_ka": "KA4.2",
-    "node_type": "article",
-    "canonical_index": "KA4.2.8",
-    "canonical_sequence": 23,
-    "local_file": null,
-    "authors": []
-  },
-  {
-    "id": null,
-    "artifact_type": "planned_knowledge_node",
-    "access": "planned",
-    "mirror_mode": "metadata_only",
     "title": "Прокладочные, клеевые материалы, фурнитура и нитки",
     "source_url": "",
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 40,
-    "source_order": 197,
+    "source_order": 200,
     "ka_codes": [
       "KA4.3.8"
     ],
@@ -4727,7 +4744,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 43,
-    "source_order": 200,
+    "source_order": 203,
     "ka_codes": [
       "KA4.3.11"
     ],
@@ -4750,7 +4767,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 46,
-    "source_order": 203,
+    "source_order": 206,
     "ka_codes": [
       "KA4.4.1"
     ],
@@ -4773,7 +4790,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 51,
-    "source_order": 208,
+    "source_order": 211,
     "ka_codes": [
       "KA4.4.6"
     ],
@@ -4796,7 +4813,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 52,
-    "source_order": 209,
+    "source_order": 212,
     "ka_codes": [
       "KA4.4.7"
     ],
@@ -4819,7 +4836,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 56,
-    "source_order": 213,
+    "source_order": 216,
     "ka_codes": [
       "KA4.5.4"
     ],
@@ -4842,7 +4859,7 @@
     "source_context": "Глава 4. Производство (KA4)",
     "chapter": "KA4",
     "outline_order": 65,
-    "source_order": 222,
+    "source_order": 225,
     "ka_codes": [
       "KA4.6.9"
     ],

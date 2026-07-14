@@ -2,7 +2,7 @@
   "counts": {
     "docs": 16,
     "event": 22,
-    "post": 178,
+    "post": 181,
     "user": 2
   },
   "links": [
@@ -860,6 +860,24 @@
     },
     {
       "context": "KA4.2 Организация производства",
+      "text": "Автоматизация, IT-системы и требования к данным (KA4.2.6)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/4032/"
+    },
+    {
+      "context": "KA4.2 Организация производства",
+      "text": "Охрана труда и производственные риски (KA4.2.7)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/4033/"
+    },
+    {
+      "context": "KA4.2 Организация производства",
+      "text": "Подготовительно-раскройное производство (KA4.2.8)",
+      "type": "post",
+      "url": "https://alliance.beinopen.ru/post/4034/"
+    },
+    {
+      "context": "KA4.2 Организация производства",
       "text": "Нормирование операций (KA4.2.9)",
       "type": "post",
       "url": "https://alliance.beinopen.ru/post/3889/"
@@ -1315,5 +1333,5 @@
       "url": "https://alliance.beinopen.ru/docs/3028/"
     }
   ],
-  "total": 218
+  "total": 221
 }

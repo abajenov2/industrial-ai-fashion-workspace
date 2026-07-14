@@ -101,28 +101,85 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1 -Target C:\SITES2\allianc
 `003_KA1.2_post-3869.md` показывает место в иерархии, индекс KA и ID источника
 на платформе.
 
-## Обновление общего слоя
+## Новая установка и живое рабочее место
 
-Сначала обновите локальную копию репозитория:
+`install.sh` и `install.ps1` предназначены только для новой или пустой папки.
+Их нельзя запускать поверх действующего рабочего места.
 
-```bash
-git pull
-```
+Для существующего места используется `update-library`. Перед первым реальным
+обновлением сначала выполняется dry-run. Он показывает источник, назначение,
+версию, количество файлов, создаваемые родительские папки и границу изменений,
+но ничего не записывает.
+
+### Подключить только открытую библиотеку
+
+Этот режим подходит старому или локально настроенному рабочему месту. Он не
+меняет корневые `AGENTS.md`, `workspace.policy.yaml`, паспорт, роли, рабочий
+ритм, задачи, встречи, DocKA, skill и системную навигацию.
 
 macOS, Linux или Git Bash:
 
 ```bash
-bash update-library.sh /c/SITES2/alliance-workspace
+bash update-library.sh --dry-run --library-only /c/SITES2/alliance-workspace
+bash update-library.sh --library-only /c/SITES2/alliance-workspace
 ```
 
 Windows PowerShell:
 
 ```powershell
+powershell -ExecutionPolicy Bypass -File .\update-library.ps1 -Target C:\SITES2\alliance-workspace -LibraryOnly -DryRun
+powershell -ExecutionPolicy Bypass -File .\update-library.ps1 -Target C:\SITES2\alliance-workspace -LibraryOnly
+```
+
+После обновления проверьте `VERSION.json` в библиотеке и убедитесь, что паспорт,
+роли и рабочий ритм не изменились.
+
+### Обновить весь общий слой
+
+Без `LibraryOnly` обновляются Свод знаний и `alliance-system`: общие CJM,
+правила поиска и навигация. Личный слой владельца все равно не изменяется.
+
+```bash
+git pull
+bash update-library.sh --dry-run /c/SITES2/alliance-workspace
+bash update-library.sh /c/SITES2/alliance-workspace
+```
+
+```powershell
+git pull
+powershell -ExecutionPolicy Bypass -File .\update-library.ps1 -Target C:\SITES2\alliance-workspace -DryRun
 powershell -ExecutionPolicy Bypass -File .\update-library.ps1 -Target C:\SITES2\alliance-workspace
 ```
 
-Обновляются Свод знаний и общая навигация Альянса. Паспорт, роли владельца,
-задачи, выбранные документы и личный цифровой след не затрагиваются.
+Оба обновляющих скрипта сначала собирают и проверяют новую копию во временном
+каталоге. Существующая библиотека остается на месте до успешного staging. При
+сбое во время замены скрипт пытается восстановить прежнюю копию.
+
+### Windows, OneDrive и кириллический путь
+
+`install.ps1` и `update-library.ps1` поставляются в UTF-8 with BOM для Windows
+PowerShell 5.1. Если рабочее место находится в OneDrive и путь содержит
+кириллицу:
+
+1. сначала выполните `-LibraryOnly -DryRun`;
+2. убедитесь, что назначение указывает именно внутрь рабочего места;
+3. только затем запустите команду без `-DryRun`;
+4. если OneDrive запрещает создание staging-каталога, не копируйте библиотеку
+   вручную поверх действующего места;
+5. создайте отдельное тестовое место в `%TEMP%` и передайте журнал Архитектору.
+
+PowerShell 7 можно использовать при наличии, но пакет обязан проходить
+регрессионный тест и в Windows PowerShell 5.1.
+
+### Роли и skill
+
+Добавление или изменение роли выполняется в локальном реестре ролей и не
+требует установки или обновления библиотеки. Skill обновляется отдельной
+операцией после проверки версии и не подменяется `LibraryOnly`.
+
+Если Протокол указывает более новый release, а владелец явно просит проверить
+старую версию, Codex фиксирует расхождение в журнале. Явно выбранную версию
+можно тестировать изолированно, но ее нельзя молча выдавать за актуальную.
 
 ## Что публично, а что нет
 
