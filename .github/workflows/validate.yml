@@ -70,3 +70,144 @@ jobs:
           powershell -ExecutionPolicy Bypass -File .\update-library.ps1 -Target $Root
           if (-not (Select-String -LiteralPath "$Root\00_Паспорт_рабочего_места\Паспорт_рабочего_места.md" -Pattern "owner-data-must-survive" -Quiet)) { throw "Owner data was overwritten" }
           if (-not (Test-Path -LiteralPath "$Root\03_Библиотека_роли\01_Открытый_стандарт\Система_Альянса\navigation\START_HERE.md")) { throw "System navigation was not restored" }
+
+  linux-legacy-library-only:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update a minimal workspace with a Cyrillic path
+        run: |
+          set -euo pipefail
+          ROOT="$RUNNER_TEMP/OneDrive/Документы/Альянс"
+          mkdir -p \
+            "$ROOT/00_Паспорт_рабочего_места" \
+            "$ROOT/01_Роль_и_траектория" \
+            "$ROOT/02_Рабочий_ритм_и_план_работ" \
+            "$ROOT/03_Библиотека_роли"
+          printf 'passport-owner-data\n' > "$ROOT/00_Паспорт_рабочего_места/Паспорт_рабочего_места.md"
+          printf 'role-owner-data\n' > "$ROOT/01_Роль_и_траектория/Мои_роли_RL.md"
+          printf 'rhythm-owner-data\n' > "$ROOT/02_Рабочий_ритм_и_план_работ/Рабочий_ритм.md"
+          BEFORE="$(sha256sum \
+            "$ROOT/00_Паспорт_рабочего_места/Паспорт_рабочего_места.md" \
+            "$ROOT/01_Роль_и_траектория/Мои_роли_RL.md" \
+            "$ROOT/02_Рабочий_ритм_и_план_работ/Рабочий_ритм.md")"
+
+          bash update-library.sh --dry-run --library-only "$ROOT"
+          test ! -e "$ROOT/03_Библиотека_роли/01_Открытый_стандарт"
+
+          bash update-library.sh --library-only "$ROOT"
+          LIBRARY="$ROOT/03_Библиотека_роли/01_Открытый_стандарт/Свод_знаний_репозиторий"
+          test -f "$LIBRARY/VERSION.json"
+          test -f "$LIBRARY/КАРТА_СВОДА.md"
+          test -f "$LIBRARY/Статьи/KA5/README.md"
+          test ! -e "$ROOT/03_Библиотека_роли/01_Открытый_стандарт/Система_Альянса"
+
+          AFTER="$(sha256sum \
+            "$ROOT/00_Паспорт_рабочего_места/Паспорт_рабочего_места.md" \
+            "$ROOT/01_Роль_и_траектория/Мои_роли_RL.md" \
+            "$ROOT/02_Рабочий_ритм_и_план_работ/Рабочий_ритм.md")"
+          test "$BEFORE" = "$AFTER"
+
+          DESTINATION_HASH="$(sha256sum "$LIBRARY/VERSION.json")"
+          mv knowledge-base/VERSION.json knowledge-base/VERSION.json.test-backup
+          if bash update-library.sh --library-only "$ROOT"; then
+            mv knowledge-base/VERSION.json.test-backup knowledge-base/VERSION.json
+            echo "Update unexpectedly succeeded with an invalid source"
+            exit 1
+          fi
+          mv knowledge-base/VERSION.json.test-backup knowledge-base/VERSION.json
+          test "$DESTINATION_HASH" = "$(sha256sum "$LIBRARY/VERSION.json")"
+
+  windows-legacy-library-only:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update a minimal OneDrive-style workspace with Windows PowerShell 5.1
+        shell: powershell
+        run: |
+          $ErrorActionPreference = "Stop"
+          if ($PSVersionTable.PSVersion.Major -ne 5) {
+            throw "This regression must run in Windows PowerShell 5.1"
+          }
+
+          $Root = Join-Path $env:RUNNER_TEMP "OneDrive\Документы\Альянс"
+          $Passport = Join-Path $Root "00_Паспорт_рабочего_места\Паспорт_рабочего_места.md"
+          $Roles = Join-Path $Root "01_Роль_и_траектория\Мои_роли_RL.md"
+          $Rhythm = Join-Path $Root "02_Рабочий_ритм_и_план_работ\Рабочий_ритм.md"
+          $LibraryRole = Join-Path $Root "03_Библиотека_роли"
+          foreach ($Directory in @(
+            (Split-Path -Parent $Passport),
+            (Split-Path -Parent $Roles),
+            (Split-Path -Parent $Rhythm),
+            $LibraryRole
+          )) {
+            New-Item -ItemType Directory -Path $Directory -Force | Out-Null
+          }
+          Set-Content -LiteralPath $Passport -Value "passport-owner-data" -Encoding UTF8
+          Set-Content -LiteralPath $Roles -Value "role-owner-data" -Encoding UTF8
+          Set-Content -LiteralPath $Rhythm -Value "rhythm-owner-data" -Encoding UTF8
+
+          $Before = @{}
+          foreach ($File in @($Passport, $Roles, $Rhythm)) {
+            $Before[$File] = (Get-FileHash -LiteralPath $File -Algorithm SHA256).Hash
+          }
+
+          .\update-library.ps1 -Target $Root -LibraryOnly -DryRun
+          $OpenStandard = Join-Path $LibraryRole "01_Открытый_стандарт"
+          if (Test-Path -LiteralPath $OpenStandard) {
+            throw "DryRun created a destination directory"
+          }
+
+          .\update-library.ps1 -Target $Root -LibraryOnly
+          $Library = Join-Path $OpenStandard "Свод_знаний_репозиторий"
+          foreach ($Required in @(
+            (Join-Path $Library "VERSION.json"),
+            (Join-Path $Library "КАРТА_СВОДА.md"),
+            (Join-Path $Library "Статьи\KA5\README.md")
+          )) {
+            if (-not (Test-Path -LiteralPath $Required -PathType Leaf)) {
+              throw "Required library file is missing: $Required"
+            }
+          }
+          if (Test-Path -LiteralPath (Join-Path $OpenStandard "Система_Альянса")) {
+            throw "LibraryOnly changed the Alliance system layer"
+          }
+
+          foreach ($File in @($Passport, $Roles, $Rhythm)) {
+            $After = (Get-FileHash -LiteralPath $File -Algorithm SHA256).Hash
+            if ($Before[$File] -ne $After) {
+              throw "Owner file changed: $File"
+            }
+          }
+
+          $DestinationVersion = Join-Path $Library "VERSION.json"
+          $DestinationHash = (Get-FileHash -LiteralPath $DestinationVersion -Algorithm SHA256).Hash
+          $SourceVersion = Join-Path $PWD "knowledge-base\VERSION.json"
+          $SourceBackup = "$SourceVersion.test-backup"
+          Move-Item -LiteralPath $SourceVersion -Destination $SourceBackup
+          $FailedAsExpected = $false
+          try {
+            .\update-library.ps1 -Target $Root -LibraryOnly
+          }
+          catch {
+            $FailedAsExpected = $true
+          }
+          finally {
+            Move-Item -LiteralPath $SourceBackup -Destination $SourceVersion
+          }
+          if (-not $FailedAsExpected) {
+            throw "Update unexpectedly succeeded with an invalid source"
+          }
+          $DestinationHashAfterFailure = (Get-FileHash -LiteralPath $DestinationVersion -Algorithm SHA256).Hash
+          if ($DestinationHash -ne $DestinationHashAfterFailure) {
+            throw "Existing library changed after a failed update"
+          }
+
+          $Leftovers = @(Get-ChildItem -LiteralPath $OpenStandard -Force |
+            Where-Object {
+              $_.Name -like ".alliance-*-stage-*" -or
+              $_.Name -like ".alliance-*-backup-*"
+            })
+          if ($Leftovers.Count -ne 0) {
+            throw "Temporary staging or backup directories remain after update"
+          }
