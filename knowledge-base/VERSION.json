@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "package_version": "0.4.0-preview",
-  "built_at": "2026-07-14T10:24:50.370Z",
+  "package_version": "0.4.1-preview",
+  "built_at": "2026-07-14T12:19:25.000Z",
   "source_generated_at": "2026-07-14T06:22:09.627Z",
   "baseline_target_date": "2026-07-22",
   "source_url": "https://alliance.beinopen.ru/docs/2836/",
@@ -16,5 +16,5 @@
   "planned_knowledge_nodes": 7,
   "knowledge_anchor_nodes": 2,
   "article_path_scheme": "chapter_outline_order_primary_ka_post_id",
-  "synchronization_status": "unified_resident_workspace_ka4_56_chapters_windows_safe_update_candidate"
+  "synchronization_status": "unified_resident_workspace_ka4_56_chapters_onedrive_preflight_candidate"
 }

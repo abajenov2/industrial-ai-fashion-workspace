@@ -125,3 +125,11 @@ jobs:
       - name: Update a minimal OneDrive-style workspace with Windows PowerShell 5.1
         shell: powershell
         run: powershell -ExecutionPolicy Bypass -File .\tests\windows-legacy-library-only.ps1
+
+  windows-onedrive-staging-preflight:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check staging preflight in a Cyrillic Codex-style workspace
+        shell: powershell
+        run: powershell -ExecutionPolicy Bypass -File .\tests\windows-onedrive-staging-preflight.ps1
