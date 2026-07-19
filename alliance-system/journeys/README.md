@@ -15,6 +15,7 @@ TR = фактический результат прохождения пути
 - [CJM-RESIDENT-001: первый запуск](./CJM-RESIDENT-001_FIRST_RUN.md)
 - [CJM-RESIDENT-002: рабочий цикл от вопроса к результату](./CJM-RESIDENT-002_WORK_CYCLE.md)
 - [CJM-RESIDENT-003: встреча, цифровой след и публикация](./CJM-RESIDENT-003_MEETING_TO_TRACE.md)
+- [CJM-RESIDENT-004: Эталонная марка beta](./CJM-RESIDENT-004_REFERENCE_BRAND_BETA.md)
 
 Каждый утвержденный CJM должен иметь:
 

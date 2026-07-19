@@ -28,3 +28,12 @@ journeys:
     entry_state: meeting_source_exists
     exit_state: approved_trace_and_next_action
     related_objects: [TR, TRxTR, KA, DocKA, CJM, A1]
+  - id: CJM-RESIDENT-004
+    title: Эталонная марка beta
+    version: 0.1-beta
+    status: preview
+    access: public
+    file: alliance-system/journeys/CJM-RESIDENT-004_REFERENCE_BRAND_BETA.md
+    entry_state: brand_has_live_task
+    exit_state: one_dated_action_and_repeat_measurement
+    related_objects: [KA1, KA2, KA3, KA4, KA5, KA6, RLTR, TR, TRxTR, H.local, H.exchange]
