@@ -63,6 +63,19 @@ A1.x = repeatable modular assembly derived from a requirements matrix, typical m
 RLTR = reference role trajectory derived from multiple TR/TRxTR
 ```
 
+Name an `RLTR` after the role, never after the person or organization that
+supplied the first evidence. One strong `TR` or one `TRxTR` can seed only an
+`RLTR` hypothesis; move it toward reference status only after independent
+trajectories and role validation support the same transitions.
+
+Use `TRxTR` to record the exact entry point of another role into a trajectory:
+the stage before the intersection, the constraint and cost of error, why the
+other role is needed now, the evidence that creates trust, the bounded entry
+product, and the measurable result. The same `TRxTR` can then refine both role
+trajectories. For example, `Miditi x Alina Tsutsu` shows where an expert enters
+the trajectory of an M brand; it is not a separate `RLTR` and is not a proven
+new case until the pilot produces a verified result.
+
 Do not assign `A1.x` to a single case, participant, direction, event, or topic. First record the case as `TRxTR`. Codex can propose `A1.x` only when several similar `TRxTR` cases show:
 
 - stakeholder needs;
@@ -190,7 +203,12 @@ Read `references/safety-rules.md` when the task involves access modes, transcrip
 
 Read `references/workspace-protocol.md` for the full folder and artifact model. Read `references/site-sync.md` before preparing website updates.
 
-When a user explicitly asks to publish a comment, edit a post, or place text on the already opened and logged-in Alliance website, do not refuse too early just because no direct browser tool is obvious in the surface list. First check the in-app browser path, inspect the page DOM, and verify whether the action is in fact possible.
+When a user explicitly asks to publish a comment, edit a post, or place text on
+the Alliance website, do not refuse too early just because no direct browser
+tool or tab is obvious. Follow the browser recovery and publication sequence in
+`references/site-sync.md`: open the in-app browser tab yourself, paste the URL
+without depending on keyboard layout, attach the tab, inspect the real editor,
+save only within the approved scope, and verify the published page.
 
 ## First-Run Checklist
 
