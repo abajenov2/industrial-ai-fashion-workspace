@@ -53,6 +53,21 @@ A1.x = repeatable modular assembly derived from a requirements matrix, typical m
 RLTR = reference role trajectory derived from multiple TR/TRxTR
 ```
 
+When extracting `RLTR` knowledge from a meeting, keep the levels separate:
+
+```text
+one person's or organization's movement -> TR
+the moment another role enters that movement -> TRxTR
+the repeatable transition supported by several TR/TRxTR -> RLTR candidate
+validated and practically tested role route -> reference RLTR
+```
+
+Name the `RLTR` after the role. A person may provide the strongest initial
+evidence but does not become the trajectory itself. For every `TRxTR`, record
+why the other role became necessary exactly then, what prior evidence created
+trust, what small product or action opened the work, and whether the outcome is
+already verified. Do not describe a started pilot as a proven case.
+
 Do not label one meeting, pilot, participant, direction, or case as `A1.x`. Label it as `TRxTR`; propose `A1.x` only after similar cases repeat and a requirements matrix plus typical modules can be described.
 
 Working formula:

@@ -65,6 +65,28 @@ A1.x = repeatable modular assembly derived from a requirements matrix, typical m
 RLTR = reference role trajectory derived from multiple TR/TRxTR
 ```
 
+`RLTR` is named for a role, not for the person or organization whose trajectory
+first exposed the pattern. A single `TR` or `TRxTR` creates an `RLTR` hypothesis,
+not a reference trajectory. Keep the candidate in the internal RLTR registry
+until several independent trajectories support its transitions and role
+holders, adjacent roles, and the Architect validate it.
+
+Use `TRxTR` as the bridge between two role trajectories. It must answer:
+
+- where the first role was immediately before the intersection;
+- what constraint or cost of error made another role necessary at that moment;
+- what evidence or prior case made the second role trustworthy;
+- what bounded product, document, or action connected the roles;
+- what measurable result followed;
+- which transition in each `RLTR` the case confirms, challenges, or leaves open.
+
+Example: `Miditi x Alina Tsutsu` records the point where an expert enters the
+trajectory of an M brand after internal stabilization and before a risky new
+channel launch. The expert has a demonstrated prior case and a small entry
+product, but the new pilot remains an unproven `TRxTR` until its result is
+measured. The case can later refine both the `RLTR` of an M brand and the `RLTR`
+of an expert.
+
 A single case, participant, event, topic, or direction is not `A1.x`. First record the case as `TRxTR`; propose an `A1.x` only when several similar `TRxTR` cases show a repeatable assembly and can be described through:
 
 - stakeholder needs;

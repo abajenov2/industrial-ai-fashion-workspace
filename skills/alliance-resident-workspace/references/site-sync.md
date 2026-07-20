@@ -114,6 +114,83 @@ After submission, always verify:
 - the URL / anchor resolves if it is a comment;
 - access mode, draft/public status, and coauthors did not change unexpectedly.
 
+## Opening the In-App Browser Yourself
+
+An empty tab list or a browser webview attach timeout is not yet a user blocker.
+Before asking the user to open a tab, try the application-level recovery path.
+
+On the current macOS Codex / ChatGPT desktop app:
+
+1. invoke `View -> Open Browser Tab` in the application menu;
+2. focus the browser address bar;
+3. paste the exact URL through the clipboard and press Enter;
+4. do not type a Latin URL with simulated keystrokes: the active Russian
+   keyboard layout can turn it into a malformed search query;
+5. once the page exists, attach or claim that tab through the in-app browser
+   API; if needed, create one fresh controlled tab after the browser panel is
+   open and navigate directly with `goto`;
+6. only after this recovery path fails should Codex return a browser blocker.
+
+Do not inspect or transfer cookies, passwords, browser profiles, local storage,
+or session databases. The recovery action opens the supported browser surface;
+authentication continues to use the user's existing in-app session.
+
+Operational sequence:
+
+```text
+explicit publication approval
+-> View / Open Browser Tab
+-> clipboard-paste exact URL
+-> attach or create controlled tab
+-> confirm login and form in DOM
+-> identify visible editor and hidden submitted field
+-> replace only approved content
+-> verify exact editor-to-form synchronization
+-> save
+-> verify rendered page
+-> independent public GET when the page is public
+-> move entry from site queue to publication journal
+```
+
+## Alliance Markdown Editor
+
+On Alliance post edit pages the visible Markdown editor may be CodeMirror while
+the submitted value lives in hidden `textarea#id_text`. A reliable replacement
+pattern is:
+
+1. inspect `input` and `textarea` attributes in the DOM;
+2. require exactly one visible editor, commonly
+   `textarea:not(#id_text)`;
+3. write the approved text to the browser clipboard;
+4. press `ControlOrMeta+a`, then `ControlOrMeta+v` in the visible editor;
+5. read `#id_text.value` back into the tool session and compare it exactly with
+   the approved source before saving;
+6. verify that the title, access radio, room, coauthors and tags still have the
+   intended values;
+7. submit through the unique save button and verify the resulting URL.
+
+Do not compare only a short visual excerpt. For a full post replacement, exact
+length and exact body equality are the pre-save gate. Also scan the outgoing
+body for private paths, contacts, transcripts, tokens and other data outside the
+approved publication scope.
+
+## Publication Verification
+
+After saving an approved post or comment:
+
+1. confirm the browser navigated to the expected public or resident URL;
+2. check several unique markers from the new text and the required external
+   links in the rendered DOM;
+3. confirm forbidden private markers are absent;
+4. for a public page, fetch the URL independently and check the same markers;
+5. add the verified result to `Опубликовано_на_сайте.md`;
+6. remove the corresponding entry from `Очередь_правок_на_сайт.md`;
+7. keep the final page open as a deliverable when it is useful to the user.
+
+The publication is not complete merely because the save button was clicked.
+It is complete after the rendered page and journal agree with the approved
+source.
+
 ## Coauthors
 
 When adding coauthors on the Alliance platform, use comma-separated usernames if the site field expects nicknames. Verify after saving:
